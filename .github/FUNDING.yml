@@ -1,0 +1,15 @@
+# Sponsor entry points.
+#
+# All entries are intentionally commented out:
+#   1. None of these accounts (GitHub Sponsors, Afdian, Ko-fi) have been
+#      opened yet for this project.
+#   2. Per ROADMAP, sponsor funnels are activated only after the repo
+#      reaches >= 500 stars — premature funnels look needy and burn
+#      potential sponsors' attention before there's product to back.
+#
+# To activate (when both conditions are met): open the corresponding
+# account first, then uncomment the matching line below.
+
+# github: ai3stack            # GitHub Sponsors (requires Sponsors approval)
+# custom:                     # custom URLs (max 4)
+#   - https://ko-fi.com/ai3stack       # Ko-fi (international, lightweight)

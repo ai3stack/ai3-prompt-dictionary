@@ -1,0 +1,30 @@
+# Code owners — automatic reviewer assignment.
+#
+# Syntax: <pattern> <space-separated owners>
+# Most-specific match wins.
+# See: https://docs.github.com/en/repositories/managing-your-repositories-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default — BDFL gets pinged on anything not otherwise covered.
+*                                @ai3stack
+
+# Content (bulk of PRs land here)
+/content/                        @ai3stack
+/content/en-US/                  @ai3stack
+
+# Governance / policy — must be reviewed by BDFL
+/GOVERNANCE.md                   @ai3stack
+/CODE_OF_CONDUCT.md              @ai3stack
+/LICENSE                         @ai3stack
+/SECURITY.md                     @ai3stack
+/docs/DECISIONS.md               @ai3stack
+
+# Schema — touching this is an RFC-level change
+/docs/PROMPT_SCHEMA.md           @ai3stack
+/scripts/validate_prompts.py     @ai3stack
+
+# CI — security-sensitive
+/.github/workflows/              @ai3stack
+/.github/CODEOWNERS              @ai3stack
+
+# Once Committers exist, replace @ai3stack above with team handle
+# (e.g. @ai3stack/committers) and adjust per-area as appropriate.

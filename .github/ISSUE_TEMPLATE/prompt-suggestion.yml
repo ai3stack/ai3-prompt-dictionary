@@ -1,0 +1,64 @@
+name: "✨ Suggest a new prompt"
+description: "Propose a new prompt to add to the dictionary."
+title: "[New prompt] <category>: <short name>"
+labels: ["new-prompt", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you start: search existing prompts to make sure this isn't already covered.
+
+        We favor prompts that serve **common real-world work** over clever one-offs. "Weekly status report" is useful to thousands of people; "write a poem as Werner Herzog" is a party trick.
+
+  - type: input
+    id: name
+    attributes:
+      label: Prompt name
+      placeholder: "Monthly Business Review (MBR)"
+    validations:
+      required: true
+
+  - type: input
+    id: category_code
+    attributes:
+      label: Target category code
+      description: "Format NN-NN, e.g., 01-01 for Office & Docs. See content/en-US/categories.json."
+      placeholder: "01-01"
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Concrete use case
+      description: Who uses this prompt, and for what real task?
+      placeholder: "A product manager at the end of each month who needs to brief leadership on team progress + metrics + risks."
+    validations:
+      required: true
+
+  - type: textarea
+    id: draft
+    attributes:
+      label: Draft (optional)
+      description: |
+        If you can, fill in the fields. Use the same shape as existing prompts. We'll polish it in review.
+      render: json
+      placeholder: |
+        {
+          "role": "…",
+          "task": "…",
+          "type": "…",
+          "framework": ["- …", "- …"]
+        }
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing prompts and this is not a duplicate.
+          required: true
+        - label: The prompt is for a common real-world task, not a novelty.
+          required: true
+        - label: I'm willing to iterate on the draft in the PR review.
+          required: false

@@ -1,0 +1,79 @@
+name: "🐛 Bug report"
+description: "Something is wrong with the dataset or the tooling."
+title: "[Bug] <brief description>"
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > **Found a bug on the consumer website (www.ai3stack.com)?**
+        > Report it in the **website repository's** issue tracker, not here.
+        > This repo only ships the dataset and tooling — no UI is rendered from here.
+
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did you see this?
+      options:
+        - In a specific prompt record (data is wrong / inconsistent / unclear)
+        - Running scripts/validate_prompts.py locally
+        - Running scripts/merge_content.py locally
+        - Running scripts/export_dictionary.py locally
+        - In a GitHub Actions workflow (validate / build-preview / deploy)
+        - In a downstream consumer (NPM package / browser extension / etc.) — but only if you've ruled out their own bug
+    validations:
+      required: true
+
+  - type: input
+    id: identifier
+    attributes:
+      label: Affected prompt ID or file
+      placeholder: "AI³-00042  OR  content/en-US/prompts/02-industry.json  OR  scripts/validate_prompts.py:128"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Run `python3 scripts/...`
+        2. See output ...
+        3. Notice that ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Paste the error / wrong output. Screenshots welcome but text is searchable.
+    validations:
+      required: true
+
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "Python 3.12 on macOS 14 / Ubuntu 22.04 / GitHub Actions"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this isn't a duplicate.
+          required: true
+        - label: I can reproduce this consistently (not a one-off).
+          required: true
+        - label: This is a data / tooling bug — not a UI bug on www.ai3stack.com.
+          required: true

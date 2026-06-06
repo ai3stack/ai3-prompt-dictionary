@@ -1,0 +1,485 @@
+{
+  "code": "en-US",
+  "htmlLang": "en",
+  "dir": "ltr",
+  "sections": {
+    "01": {
+      "name": "Core & General",
+      "icon": "lucide:sparkles"
+    },
+    "02": {
+      "name": "Industry-Specific",
+      "icon": "lucide:briefcase"
+    },
+    "03": {
+      "name": "Lifestyle",
+      "icon": "lucide:heart"
+    },
+    "04": {
+      "name": "Public Affairs",
+      "icon": "lucide:landmark"
+    }
+  },
+  "categories": {
+    "01-01": "Office & Docs",
+    "01-02": "Content Creation",
+    "01-03": "Marketing & Ops",
+    "01-04": "Sales & Support",
+    "01-05": "Human Resources",
+    "01-06": "Project Management",
+    "01-07": "Strategy",
+    "01-08": "Startup",
+    "01-09": "Data Tools",
+    "01-10": "Image Design",
+    "01-11": "Audio Design",
+    "01-12": "Security & Compliance",
+    "02-01": "Manufacturing & Supply",
+    "02-02": "F&B and Hospitality",
+    "02-03": "Education & Training",
+    "02-04": "Healthcare",
+    "02-05": "Finance & Insurance",
+    "02-06": "Media & PR",
+    "02-07": "Cross-border E-commerce",
+    "02-08": "Agriculture & Livestock",
+    "02-09": "Architecture",
+    "02-10": "Legal & Compliance",
+    "02-11": "Environment & Energy",
+    "02-12": "Mental Health",
+    "02-13": "Bidding & Procurement",
+    "03-01": "Health & Daily Life",
+    "03-02": "Family & Household",
+    "03-03": "Parenting",
+    "03-04": "Learning & Knowledge",
+    "03-05": "Travel",
+    "03-06": "Growth & Companionship",
+    "03-07": "Elderly Care",
+    "03-08": "Hobbies & Creativity",
+    "04-01": "Transportation",
+    "04-02": "Public Safety & Emergency",
+    "04-03": "Social Welfare",
+    "04-04": "Public Utilities",
+    "04-05": "Government Operations",
+    "04-06": "Law & Judiciary",
+    "04-07": "Macroeconomics & Finance",
+    "04-08": "Regulatory Affairs",
+    "04-09": "Natural Resources & Environment"
+  },
+  "platforms": {
+    "chatgpt": "ChatGPT",
+    "claude": "Claude",
+    "gemini": "Gemini",
+    "deepseek": "DeepSeek",
+    "kimi": "Kimi",
+    "doubao": "Doubao",
+    "qianwen": "Qwen"
+  },
+  "aiLayout": [
+    {
+      "key": "role",
+      "label": "Role"
+    },
+    {
+      "key": "task",
+      "label": "Task"
+    },
+    {
+      "key": "type",
+      "label": "Type"
+    },
+    {
+      "key": "framework",
+      "label": "Framework",
+      "isArray": true
+    },
+    {
+      "key": "limits",
+      "label": "Limits",
+      "isArray": true
+    },
+    {
+      "key": "interaction",
+      "label": "Interaction",
+      "isArray": true
+    },
+    {
+      "key": "search",
+      "label": "Search"
+    },
+    {
+      "key": "style",
+      "label": "Style"
+    },
+    {
+      "key": "format",
+      "label": "Format"
+    },
+    {
+      "key": "check",
+      "label": "Check",
+      "isArray": true
+    }
+  ],
+  "defaultInstructions": {
+    "limits": [
+      "- Do not fabricate data, facts, or citations",
+      "- Do not assume information that was not provided",
+      "- Avoid vague qualifiers like \"usually\" or \"generally\""
+    ],
+    "interaction": [
+      "- Ask clarifying questions when key details are missing",
+      "- Guide the user to provide task-specific context",
+      "- Use progressive clarification to understand true intent",
+      "- Confirm sufficient information before generating"
+    ],
+    "check": [
+      "- Verify STRUCTURE completeness; fill any gaps",
+      "- Review output for professionalism, accuracy, and logic",
+      "- Ensure alignment with the task goal and user need",
+      "- Flag and correct any LIMITS violations",
+      "- Add warnings alongside output; do not block delivery"
+    ],
+    "search": "Auto-search for real-time data when needed",
+    "format": "Markdown"
+  },
+  "typeOverrides": {
+    "Creative Expression": {
+      "limits": [
+        "- Imagination, fiction, and analogy are allowed (creation requires it)",
+        "- No illegal, hateful, violent, or defamatory content",
+        "- Do not use real persons' private info without authorization"
+      ],
+      "check": [
+        "- Check if the target audience is moved; emotional arc is clear",
+        "- Check for vivid detail; avoid clichés and tired tropes",
+        "- Check for LIMITS violations (illegal / hateful / privacy)",
+        "- Add warnings alongside output; do not block delivery"
+      ],
+      "search": "No web search required; rely on known info and imagination"
+    },
+    "Crisis Response": {
+      "limits": [
+        "- No empty statements, no deflection, no exaggeration or concealment",
+        "- Avoid vague tone; take a clear stance",
+        "- All data and timelines must be verifiable"
+      ],
+      "check": [
+        "- Verify STRUCTURE completeness; fill any gaps",
+        "- Check sincerity of tone; verifiability of data; whether key facts are evaded",
+        "- Ensure alignment with the task goal and user need",
+        "- Add warnings alongside output; do not block delivery"
+      ]
+    },
+    "External Presentation": {
+      "limits": [
+        "- Positive framing is OK, but data must be supportable",
+        "- No false advertising or promises that cannot be fulfilled",
+        "- Do not fabricate awards, endorsements, or partners"
+      ]
+    },
+    "Self Documentation": {
+      "limits": [
+        "- Describe facts objectively; avoid emotional embellishment",
+        "- One day or one event per entry; do not conflate",
+        "- Do not add post-hoc judgments"
+      ],
+      "search": "No web search required; rely on facts provided"
+    },
+    "Analytical Decision": {
+      "check": [
+        "- Verify STRUCTURE completeness; fill any gaps",
+        "- Check source traceability; watch for leaps in reasoning",
+        "- Review for professionalism, accuracy, and logic",
+        "- Ensure alignment with the task goal and user need",
+        "- Add warnings alongside output; do not block delivery"
+      ],
+      "search": "Recommend web-verifying key data, policies, cases, and competitor info"
+    },
+    "Specialized Report": {
+      "search": "Recommend web-verifying key data, policies, and cases"
+    }
+  },
+  "nameFormatOverrides": [
+    [
+      "speech|keynote|script",
+      "Plain text; clear paragraphs; key sentences can stand alone for spoken delivery"
+    ],
+    [
+      "story|novel|screenplay",
+      "Plain text; paragraphs separated by blank lines; no Markdown (## or **) markers"
+    ],
+    [
+      "poem|lyrics|verse",
+      "Plain text; one line per verse; no Markdown"
+    ],
+    [
+      "email|letter|invitation",
+      "Email format: salutation + body in paragraphs + sign-off; no Markdown"
+    ],
+    [
+      "tweet|sms|post|caption",
+      "Plain short text; no Markdown markers"
+    ]
+  ],
+  "genericStyles": [
+    "Professional, rigorous, structured",
+    "Formal, standard, official",
+    "Casual, conversational, short sentences"
+  ],
+  "styleOverrides": [
+    [
+      "Creative Expression",
+      "tweet|short video|voice-over|slogan|tagline|post|caption",
+      "i",
+      "Conversational, witty, short sentences, strong punchline"
+    ],
+    [
+      "Creative Expression",
+      "story|novel|screenplay",
+      "i",
+      "Strong narrative, visual detail, clear emotional arc"
+    ],
+    [
+      "Creative Expression",
+      "poem|lyrics|verse",
+      "i",
+      "Rhythm and rhyme, rich imagery, strong emotion"
+    ],
+    [
+      "Creative Expression",
+      "speech|keynote|talk|address",
+      "i",
+      "Inspiring, high density of memorable lines, dynamic pacing"
+    ],
+    [
+      "Creative Expression",
+      "slides|ppt|presentation|deck",
+      "i",
+      "Distilled bullets, punchy titles, visual framing"
+    ],
+    [
+      "Creative Expression",
+      "script|response|conversation",
+      "i",
+      "Warm and natural, audience-adaptive, flexible and tactful"
+    ],
+    [
+      "Creative Expression",
+      ".*",
+      "",
+      "Vivid, engaging, emotionally resonant"
+    ],
+    [
+      "External Presentation",
+      "speech|keynote|talk|address",
+      "i",
+      "Motivational, rhythmic, high density of memorable lines"
+    ],
+    [
+      "External Presentation",
+      ".*",
+      "",
+      "Positive, story-driven, highlighting differentiation"
+    ],
+    [
+      "Specialized Report",
+      ".*",
+      "",
+      "Comprehensive, data-rich, rigorously logical"
+    ],
+    [
+      "Routine Report",
+      ".*",
+      "",
+      "Well-organized, key points first, standard format"
+    ],
+    [
+      "Crisis Response",
+      ".*",
+      "",
+      "Sincere, restrained, concrete commitments, no empty words"
+    ],
+    [
+      "Analytical Decision",
+      ".*",
+      "",
+      "Rigorous, data-driven, conclusion-first"
+    ],
+    [
+      "Standard Operation",
+      ".*",
+      "",
+      "Standardized, orderly, executable, step-by-step"
+    ],
+    [
+      "Self Documentation",
+      ".*",
+      "",
+      "Objective, concise, factual"
+    ],
+    [
+      "Collaborative Communication",
+      ".*",
+      "",
+      "Specific, polite, professional, accountable"
+    ],
+    [
+      "Process Execution",
+      ".*",
+      "",
+      "Clear, efficient, key-point focused, no fluff"
+    ]
+  ],
+  "themes": [
+    {
+      "id": "classic-blue",
+      "name": "Classic Blue"
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite Dark"
+    }
+  ],
+  "searchFields": [
+    {
+      "key": "name",
+      "weight": 10,
+      "label": "Name"
+    },
+    {
+      "key": "role",
+      "weight": 5,
+      "label": "Role"
+    },
+    {
+      "key": "task",
+      "weight": 3,
+      "label": "Task"
+    },
+    {
+      "key": "section",
+      "weight": 2,
+      "label": "Domain"
+    },
+    {
+      "key": "input",
+      "weight": 1,
+      "label": "Edited"
+    }
+  ],
+  "inputStockSeed": "Describe your requirements and context...",
+  "ui": {
+    "siteName": "AI³ Prompt Dictionary",
+    "siteTagline": "Structured AI prompts. One-click to 7 major AI chats.",
+    "sloganFormat": "Prompt Dictionary · {n} items",
+    "promptNamePlaceholder": "Prompt Name",
+    "categoryPlaceholder": "Category",
+    "searchPlaceholder": "Search prompts…",
+    "inputAreaLabel": "I/O Input",
+    "aiAreaLabel": "AI Instructions",
+    "inputPlaceholder": "Describe your requirements and context…",
+    "homeAriaLabel": "Back to home",
+    "categoryNavLabel": "Category navigation",
+    "drawerOpenLabel": "Open category navigation",
+    "themeToggleLabel": "Toggle theme",
+    "copyTooltip": "Copy (⌘↵)",
+    "aiBarLabel": "Send to AI platform",
+    "loading": "Loading…",
+    "loadError": "Failed to load data",
+    "loadErrorDetail": "Could be a network issue or the server is unreachable",
+    "loadTimeoutTitle": "Load timeout (> 10s)",
+    "loadTimeoutDetail": "Please check your connection and retry",
+    "reload": "Reload",
+    "dataFailedTitle": "⚠️ Data load failed",
+    "dataFailedCategory": "Please click \"Reload\" in the sidebar",
+    "feedbackHTML": "Still broken? Please report via <a href=\"https://github.com/ai3stack/ai-prompt-dictionary/issues\" target=\"_blank\" rel=\"noopener\">GitHub Issues</a>.",
+    "noMatches": "No matches",
+    "copied": "Copied to clipboard",
+    "copyFailed": "Copy failed. Please copy manually.",
+    "manualCopyTip": "Auto-copy didn't work (common in in-app browsers like WeChat / Alipay). Long-press the text below to select and copy manually:",
+    "copyAndPasteFormat": "Copied. Paste into {name}.",
+    "themeHintFormat": "Current: {name} (click to switch)",
+    "themeAriaFormat": "Toggle theme, currently {name}",
+    "footerCopyright": "© 2026 <strong>AI³ Prompt Dictionary</strong> · Free & Open Source",
+    "footerICPText": "",
+    "footerICPHref": "",
+    "footerPrivacy": "Privacy",
+    "footerTerms": "Terms",
+    "footerGitHubTitle": "Open-source repository",
+    "footerIssuesTitle": "Report an issue",
+    "footerIssuesText": "Feedback",
+    "footerEmailTitle": "Contact us",
+    "footerEmailText": "Email",
+    "footerEmail": "ai3@ai3stack.com",
+    "bootBrowseAll": "Browse all prompts →",
+    "bootBrowseCat": "Browse by category →",
+    "bootLoadingTip": "Loading app…",
+    "staticAllText": "All prompts",
+    "staticByCategoryText": "Browse by category",
+    "staticHomeText": "Home",
+    "staticCrossLink": "Want to see them all at once? <a href=\"/p/\">Browse all prompts →</a>"
+  },
+  "staticPage": {
+    "copyButton": "📋 Copy full prompt",
+    "copiedToast": "✓ Copied to clipboard",
+    "copyFailedToast": "Copy failed — please select manually",
+    "copyAndPaste": "✓ Copied — paste into {name}",
+    "inputHeader": "Input",
+    "aiHeader": "AI Instructions",
+    "inputPrompt": "[Describe your requirements and context here]",
+    "relatedHeading": "Related prompts",
+    "browseAll": "Browse all prompts",
+    "breadcrumbHome": "Home"
+  },
+  "build": {
+    "skipToContent": "Skip to content",
+    "siteShort": "AI³ Prompt Dictionary",
+    "promptSuffix": "AI Prompt",
+    "promptCollection": "AI Prompt Collection",
+    "titleSinglePrompt": "{name} — AI Prompt · {cat} | AI³ Prompt Dictionary",
+    "titleCategory": "{name} · AI Prompts | AI³ Prompt Dictionary",
+    "titleSection": "{name} · AI Prompts | AI³ Prompt Dictionary",
+    "titleAll": "All AI Prompts | AI³ Prompt Dictionary",
+    "titleCategoriesIndex": "Browse by Category · AI Prompts | AI³ Prompt Dictionary",
+    "descSinglePrompt": "{task}. Using the \"{role}\" role to produce a polished {name}. Part of the {section} · {cat} category, with full role/task/framework/limits instructions. One-click copy to ChatGPT / Claude / Gemini and 4 more.",
+    "descCategory": "{count} AI prompts related to \"{name}\". Each prompt includes complete role/task/framework instructions, with one-click copy to ChatGPT / Claude and 5 more.",
+    "descAll": "All structured AI prompts from AI³ Prompt Dictionary, spanning Office, Industry, Lifestyle, and Public Affairs. One-click to ChatGPT / Claude / Gemini / DeepSeek / Kimi / Doubao / Qwen.",
+    "descCategoriesIndex": "AI³ Prompt Dictionary organizes all prompts across 4 sections (Core & General / Industry / Lifestyle / Public Affairs) and 42 sub-categories.",
+    "keywordsAll": "AI prompts, prompt library, prompt collection, ChatGPT prompts",
+    "keywordsCategoriesIndex": "AI prompt categories, prompt taxonomy, office prompts, industry prompts",
+    "fieldCategory": "Category: ",
+    "fieldSection": "Domain: ",
+    "fieldRole": "Role: ",
+    "fieldTask": "Task: ",
+    "relatedHeading": "Related prompts",
+    "aiStructureHeading": "AI Instruction Structure",
+    "platformsHeading": "Use on AI Platforms",
+    "platformsIntro": "Copy the full prompt, then paste into any of the AI chats below:",
+    "backToApp": "Want one-click copy + jump? <a href=\"/\" class=\"btn-primary\">Back to app → click any platform icon</a>",
+    "subtitleCategory": "{section} · {count} related AI prompts",
+    "subtitleSection": "{count} related AI prompts",
+    "subtitleAll": "{count} prompts organized across 4 sections / 42 categories",
+    "h1All": "All AI Prompts",
+    "h1CategoriesIndex": "Browse by Category",
+    "subtitleCategoriesIndex": "4 sections · 42 sub-categories",
+    "crumbHome": "Home",
+    "crumbAll": "All Prompts",
+    "crumbCategories": "By Category",
+    "footerHome": "Home",
+    "footerAll": "All",
+    "footerByCategory": "By category",
+    "browseAllCta": "Want to see them all at once? <a href=\"/p/\">Browse all prompts →</a>",
+    "catCount": "({count})",
+    "categorySubtitlePrefix": "",
+    "etc": " and more.",
+    "period": ".",
+    "comma": ", "
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy | AI³ Prompt Dictionary",
+    "privacyH1": "Privacy Policy",
+    "privacyBody": "<p><strong>TL;DR:</strong> This is a free, open-source tool. We don't collect your personal info. Your edits stay in your browser.</p>\n<h2>What we don't collect</h2><ul><li>No sign-up, no email, phone, name, or any personal identifier</li><li>We never read or upload what you type in the \"I/O Input\" area</li><li>No first-party cookies</li></ul>\n<h2>What we do collect</h2><p>Only to understand which prompts are popular so we can improve content, <strong>all anonymous</strong>:</p><ul><li><strong>Umami Cloud</strong>: page views, referrer, device type + custom events (copy, search, AI-platform clicks)</li></ul>\n<h2>Local storage</h2><p>Your edits in the I/O area are saved to your browser's localStorage (like a sticky note). Clearing browser data or switching devices loses them. We don't upload, sync, or read them.</p>\n<h2>Jumps to AI platforms</h2><p>Clicking ChatGPT / Claude / etc. opens a new tab on that site. Once you leave, their privacy policy takes over.</p>\n<h2>Contact</h2><p>Questions or feedback? <a href=\"https://github.com/ai3stack/ai-prompt-dictionary/issues\" target=\"_blank\" rel=\"noopener\">GitHub Issues</a> or ai3@ai3stack.com.</p>",
+    "termsTitle": "Terms of Service | AI³ Prompt Dictionary",
+    "termsH1": "Terms of Service",
+    "termsBody": "<p><strong>TL;DR:</strong> A free, open-source tool under MIT; verify AI output yourself; don't do harm.</p>\n<h2>License</h2><p>Source code is <a href=\"https://github.com/ai3stack/ai-prompt-dictionary/blob/main/LICENSE\" target=\"_blank\" rel=\"noopener\">MIT-licensed</a>. Use, modify, and distribute freely.</p>\n<h2>Content use</h2><p>Prompts are a helper tool, not a source of truth. Before using AI output:</p><ul><li>AI may produce inaccurate, outdated, or fabricated information. Verify anything that matters.</li><li>We make no warranty as to accuracy, fitness, or legality of AI output.</li><li>Do not use for illegal, infringing, hateful, or discriminatory purposes.</li></ul>\n<h2>Disclaimer</h2><p>Site provided \"as-is.\" To the maximum extent permitted by law, we disclaim all direct, indirect, incidental, or consequential damages.</p>\n<h2>Feedback</h2><p>Reach us via <a href=\"https://github.com/ai3stack/ai-prompt-dictionary/issues\" target=\"_blank\" rel=\"noopener\">GitHub Issues</a> or ai3@ai3stack.com.</p>"
+  }
+}

@@ -1,0 +1,10 @@
+.git
+.github
+review_results
+scripts
+*.md
+eslint.config.js
+vitest.config.ts
+.prettierrc
+node_modules
+src/*.test.ts

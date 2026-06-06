@@ -1,0 +1,20 @@
+version: 2
+# Only track GitHub Actions versions — this repo has no npm/pip runtime dependencies.
+# Weekly is sufficient; grouped PRs are less noisy than one PR per update.
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: ci
+    labels:
+      - dependencies
+      - ci
+    groups:
+      actions:
+        patterns:
+          - "*"

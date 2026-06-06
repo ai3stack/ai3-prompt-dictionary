@@ -1,0 +1,125 @@
+name: PR preview summary
+
+# Gives the PR author a one-glance view of "what does my change do to the dataset?"
+#
+# This is a dataset repo, so we don't deploy a preview site. Instead we produce:
+#   1. The merged prompts_index.json as a downloadable artifact (for manual review)
+#   2. A diff-summary comment on the PR: ±counts, by section, translation_quality histogram
+#
+# Reproduce locally:
+#   python3 scripts/merge_content.py
+#   python3 scripts/validate_prompts.py
+
+on:
+  pull_request:
+    paths:
+      - 'content/**'
+      - 'scripts/merge_content.py'
+      - 'scripts/validate_prompts.py'
+
+permissions:
+  contents: read
+  pull-requests: write   # required to post the summary comment; everything else stays minimal
+
+concurrency:
+  group: build-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout PR head
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+          fetch-depth: 0   # need the base ref to diff against
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build merged dataset (PR head)
+        run: |
+          mkdir -p locales _preview/head
+          python3 scripts/merge_content.py
+          cp -r locales _preview/head/
+
+      - name: Validate (PR head)
+        run: python3 scripts/validate_prompts.py
+
+      - name: Build merged dataset (base)
+        run: |
+          set -euo pipefail
+          git checkout ${{ github.event.pull_request.base.sha }} -- content scripts/merge_content.py
+          rm -rf locales && mkdir -p locales _preview/base
+          python3 scripts/merge_content.py
+          cp -r locales _preview/base/
+
+      - name: Generate diff summary
+        id: diff
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' > _preview/summary.md
+          import json, os
+          from pathlib import Path
+
+          def load(p):
+              p = Path(p)
+              return json.loads(p.read_text()) if p.exists() else []
+
+          def stats(records):
+              by_section = {}
+              by_quality = {}
+              for r in records:
+                  by_section[r.get('section_code','??')] = by_section.get(r.get('section_code','??'), 0) + 1
+                  q = r.get('translation_quality', 'n/a')
+                  by_quality[q] = by_quality.get(q, 0) + 1
+              return by_section, by_quality
+
+          locales = ['en-US']
+          out = ["## 📊 Dataset diff (this PR vs base)", ""]
+          for loc in locales:
+              base = load(f'_preview/base/locales/{loc}/prompts_index.json')
+              head = load(f'_preview/head/locales/{loc}/prompts_index.json')
+              base_ids = {r['id'] for r in base}
+              head_ids = {r['id'] for r in head}
+              added = head_ids - base_ids
+              removed = base_ids - head_ids
+              modified_ids = []
+              base_by_id = {r['id']: r for r in base}
+              for r in head:
+                  if r['id'] in base_by_id and json.dumps(r, sort_keys=True) != json.dumps(base_by_id[r['id']], sort_keys=True):
+                      modified_ids.append(r['id'])
+              s_sec, s_q = stats(head)
+              out.append(f"### `{loc}`")
+              out.append(f"- Total: **{len(head)}** (was {len(base)})")
+              out.append(f"- Added: **{len(added)}** · Removed: **{len(removed)}** · Modified: **{len(modified_ids)}**")
+              if s_sec:
+                  out.append(f"- By section: " + " · ".join(f"`{k}`={v}" for k,v in sorted(s_sec.items())))
+              if s_q:
+                  out.append(f"- Translation quality: " + " · ".join(f"`{k}`={v}" for k,v in sorted(s_q.items())))
+              if added:
+                  sample = sorted(added)[:5]
+                  out.append(f"- Added IDs (first 5): " + ", ".join(sample))
+              if modified_ids:
+                  sample = sorted(modified_ids)[:5]
+                  out.append(f"- Modified IDs (first 5): " + ", ".join(sample))
+              out.append("")
+          out.append("> Artifact `merged-locales` is attached to this run — download to inspect raw JSON.")
+          print("\n".join(out))
+          PY
+
+      - name: Upload merged dataset artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-locales
+          path: _preview/head/locales/
+          retention-days: 14
+
+      - name: Comment summary on PR
+        uses: marocchino/sticky-pull-request-comment@52423e01640425a022ef5fd42c6fb5f633a02728   # v2.9.0
+        with:
+          header: ai3-preview
+          path: _preview/summary.md
