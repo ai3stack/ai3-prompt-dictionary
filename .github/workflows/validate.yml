@@ -1,0 +1,45 @@
+name: Validate prompts schema
+
+# Content compliance gate — triggered on PR, blocks corrupted data from reaching main.
+#
+# This workflow runs only when content/ or scripts/validate_prompts.py change,
+# so it does not waste runner time on docs-only PRs.
+#
+# Reproduce locally:
+#   python3 scripts/merge_content.py
+#   python3 scripts/validate_prompts.py
+
+on:
+  pull_request:
+    paths:
+      - 'content/**'
+      - 'scripts/merge_content.py'
+      - 'scripts/validate_prompts.py'
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Merge content → prompts_index.json
+        run: |
+          mkdir -p locales
+          python3 scripts/merge_content.py
+
+      - name: Validate schema
+        run: python3 scripts/validate_prompts.py

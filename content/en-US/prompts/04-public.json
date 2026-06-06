@@ -1,0 +1,4377 @@
+[
+  {
+    "id": "AI³-00732",
+    "name": "Highway Quality Oversight Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FHWA quality-oversight standards specialist",
+      "task": "Produce a comprehensive highway quality oversight report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Segments: mile markers, conditions",
+        "- KPIs: smoothness, strength, thickness",
+        "- Issues: defects, non-conformances",
+        "- Actions: rework, repair, reinforce",
+        "- Verification: re-check, acceptance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00733",
+    "name": "Highway Maintenance Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US DOT highway-maintenance expert",
+      "task": "Produce a preventive highway maintenance plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Segments: mileage, route number",
+        "- Scope: pavement, bridges",
+        "- Schedule: cycle, windows",
+        "- Budget: funding, materials",
+        "- Traffic Control: detour, MOT"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00734",
+    "name": "Road Safety Hazard Audit",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NHTSA hazard-audit expert",
+      "task": "Produce a thorough road safety hazard audit",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Locations: where, hazard type",
+        "- Risk Tier: H/M/L",
+        "- Actions: engineering, management",
+        "- Owner: accountable owner, oversight",
+        "- Timing: deadline, checkpoints"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00735",
+    "name": "Road Safety Public Education",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NHTSA public-education materials writer",
+      "task": "Produce accessible road safety public education",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme: safety, courteous driving",
+        "- Content: laws, safety tips",
+        "- Cases: crashes, lessons",
+        "- Tips: safety, behavior",
+        "- Channels: media, community, school"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00736",
+    "name": "Rail Safety Assessment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FRA safety-assessment expert",
+      "task": "Produce a data-rich rail safety assessment",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: lines, facilities",
+        "- Safety KPIs: ops, equipment",
+        "- Risk ID: hazards, weak spots",
+        "- Recommendations: measures, upgrades",
+        "- Follow-up: progress, acceptance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00737",
+    "name": "Rail Passenger Service Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "JR East passenger-service standards specialist",
+      "task": "Produce a rail passenger service plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Standards: waiting area, cabin service",
+        "- Flow: ticketing, boarding",
+        "- Contingency: delay, incidents",
+        "- Complaints: channels, SLA",
+        "- CSAT: target, reviews"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00738",
+    "name": "Rail Freight Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FRA freight-planning expert",
+      "task": "Produce a rail freight plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Demand Forecast: cargo, volume",
+        "- Capacity: cars, locomotives",
+        "- Dispatch: loading plan, schedule",
+        "- SLA: transit time, on-time %",
+        "- Cost: rates, loading fees"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00739",
+    "name": "Pilot Scheduling Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Coast Guard / Navigation Center pilot-scheduling expert",
+      "task": "Produce a safe pilot scheduling plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Vessel Info: name, tonnage, draft",
+        "- Pilot Window: timing, tidal",
+        "- Channels: selection, constraints",
+        "- Safety: escort, tugs, guards",
+        "- Contingency: alternates, plan B"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00740",
+    "name": "Waterway Maintenance Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "USACE waterway-maintenance expert",
+      "task": "Produce a data-rich waterway maintenance report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Condition: depth, width, curvature",
+        "- Scope: dredging, buoy upkeep",
+        "- Progress: construction, %",
+        "- Acceptance: quality, navigation",
+        "- Cycle: routine, major"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00741",
+    "name": "Bus Route Optimization",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "TfL (Transport for London) bus-route planner",
+      "task": "Produce a bus route optimization",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Current: routes, ridership",
+        "- Flow Analysis: peak, OD matrix",
+        "- Recommendations: route, stops",
+        "- Expected Gain: coverage, transfers",
+        "- Phasing: rollout, schedule"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00742",
+    "name": "Taxi Regulation Opinion",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NYC Taxi and Limousine Commission regulation lead",
+      "task": "Produce a taxi regulation opinion",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Supply: fleet size, release",
+        "- Service Quality: cleanliness, attitude",
+        "- Pricing: flag-drop, per-mile",
+        "- Digitization: apps, e-pay",
+        "- Complaints: channels, process"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00743",
+    "name": "Shared Bike Regulation Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NACTO shared-mobility regulation expert",
+      "task": "Produce a data-backed shared bike regulation report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Fleet: count, zones",
+        "- Parking: geofence, designated spots",
+        "- Ops: rebalancing, repair",
+        "- Feedback: UX, complaints",
+        "- Operator KPIs: score, incentives"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00744",
+    "name": "Urban-Rural Bus Integration Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Regional DOT urban-rural bus integration expert",
+      "task": "Produce an urban-rural bus integration plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Goals: integration, service equity",
+        "- Route Consolidation: optimize, merge",
+        "- Fares: uniform, discounts",
+        "- Subsidies: policy, funding",
+        "- Rollout: pilots, scale"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-01",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00745",
+    "name": "Police Patrol Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NYPD patrol standards specialist",
+      "task": "Produce a police patrol plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Zones: hot spots, complex areas",
+        "- Cadence: shift, frequency",
+        "- Staffing: officers, teams",
+        "- Equipment: gear, comms",
+        "- Handoff: shift change, briefing"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00746",
+    "name": "Public Order Incident Response Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Metropolitan Police Service (Scotland Yard) incident-response expert",
+      "task": "Produce a public order incident response plan",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Tiers: minor, major, critical",
+        "- Flow: intake, dispatch, action",
+        "- Command: on-scene, rear support",
+        "- Aftermath: restore, investigate",
+        "- Drills: regular, scenario"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00747",
+    "name": "Crime Trend Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Bureau of Justice Statistics analyst",
+      "task": "Produce a data-rich crime trend analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Stats: case counts, categories",
+        "- Trends: MoM, YoY",
+        "- Hotspots: high-incidence, locations",
+        "- Recommendations: prevention, focus",
+        "- Comparisons: vs prior year"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00748",
+    "name": "Emergency Response Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FEMA emergency-response standards specialist",
+      "task": "Produce an emergency response plan",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Org: command, task forces",
+        "- Early Warning: detection, comms",
+        "- Flow: activate, respond",
+        "- Resources: stockpile, staffing",
+        "- Training: drills, skills"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00749",
+    "name": "Emergency Activation Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FEMA disaster-response expert",
+      "task": "Produce an emergency activation plan",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Levels: I/II/III/IV",
+        "- Trigger: conditions, criteria",
+        "- Actions: response, SAR",
+        "- Termination: end, recover",
+        "- Command: unified, tiered"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00750",
+    "name": "Rescue Coordination Order",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "UN OCHA rescue-coordination expert",
+      "task": "Produce an efficient rescue coordination order",
+      "type": "Collaborative Communication → consensus, move forward",
+      "framework": [
+        "- Command: center, on-scene",
+        "- Deployment: teams, specialists",
+        "- Logistics: supplies, living",
+        "- Reporting: damage, updates",
+        "- Comms: network, emergency"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00751",
+    "name": "Disaster Situation Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FEMA disaster-stats expert",
+      "task": "Produce a data-rich disaster situation report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Impact: area, population",
+        "- Casualties: dead, injured, missing",
+        "- Damage: structures, infrastructure",
+        "- Progress: SAR, shelter",
+        "- Needs: supplies, funds"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00752",
+    "name": "EHS Enforcement Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OSHA enforcement-program expert",
+      "task": "Produce an EHS enforcement plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Scope: high-risk sectors, firms",
+        "- Focus: hazard scan, violations",
+        "- Timeline: phases, deadlines",
+        "- Owners: agency roles, local",
+        "- Acceptance: closure, standards"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00753",
+    "name": "EHS Incident Investigation Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Chemical Safety Board investigator",
+      "task": "Produce a data-rich EHS incident investigation report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Narrative: events, response",
+        "- Causes: direct, indirect",
+        "- Accountability: org, individual",
+        "- Actions: immediate, long-term",
+        "- Prevention: policy, training"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00754",
+    "name": "Hazardous Materials Management Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA hazmat-management expert",
+      "task": "Produce a strict hazmat management plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Hazard Scan: types, storage",
+        "- Storage & Transport: conditions, safety",
+        "- Emergency: plan, capability",
+        "- Oversight: routine, targeted",
+        "- Training: certified, credentials"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00755",
+    "name": "Flood/Drought Response Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Army Corps of Engineers flood-control expert",
+      "task": "Produce a flood/drought response report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Rainfall/Flood: precipitation, gauge",
+        "- Damage: area, economic loss",
+        "- Actions: rescue, evacuation",
+        "- Next Step: readiness, rebuild",
+        "- Funds: use, detail"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00756",
+    "name": "Online Patrol Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CISA cyber-patrol expert",
+      "task": "Produce an online patrol report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: web, app, social",
+        "- Findings: illegal, harmful",
+        "- Actions: remove, block, ban",
+        "- Recommendations: enforcement, tech",
+        "- Trends: violation types, new moves"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00757",
+    "name": "Digital Forensics Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FBI digital-forensics expert",
+      "task": "Produce a digital forensics report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Targets: devices, storage",
+        "- Methods: imaging, extraction",
+        "- Evidence: data, logs",
+        "- Integrity: hash, signature",
+        "- Timestamps: collection, source"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00758",
+    "name": "Content Removal Order",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CISA / FBI illegal-content takedown expert",
+      "task": "Produce a content removal order",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Facts: violations, harm",
+        "- Law: statute, rules",
+        "- Measures: fine, takedown, revoke",
+        "- Remediation: deadline, standard",
+        "- Appeal: review, litigation"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00759",
+    "name": "FedRAMP / FISMA System Authorization Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NIST Cybersecurity Framework standards specialist",
+      "task": "Produce a cyber tiered protection report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Rating: system tier, rationale",
+        "- Assessment: vuln scan, pentest",
+        "- Recommendations: hardening, redesign",
+        "- Verdict: compliant/not",
+        "- ATO: ATO package, P-ATO, continuous monitoring per NIST 800-53"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00760",
+    "name": "Online Reputation Response Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GCHQ reputation-crisis expert",
+      "task": "Produce an online reputation response plan",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Early Warning: monitoring",
+        "- Flow: rapid, tiered",
+        "- Disclosure: authoritative, dispel",
+        "- Follow-up: steer, restore",
+        "- Retro: lessons, improvements"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00761",
+    "name": "Crisis Comms Talking Points",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House Press Office crisis-comms standards specialist",
+      "task": "Produce crisis comms talking points",
+      "type": "Collaborative Communication → consensus, move forward",
+      "framework": [
+        "- Principles: timely, accurate, transparent",
+        "- Statements: official, key info",
+        "- Tiers: minor/major/critical",
+        "- Escalation: up-chain, execs"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00762",
+    "name": "Public Sentiment Tracking Brief",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "RAND Corporation public-opinion analyst",
+      "task": "Produce a public opinion landscape assessment",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Overview: event, reach",
+        "- Spread: path, key nodes",
+        "- Sentiment: positive/negative",
+        "- Trajectory: press coverage volume change, forecast",
+        "- Recommendations: strategy, narrative direction"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00763",
+    "name": "Reputational Risk Brief",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Shorenstein Center analyst",
+      "task": "Produce a public opinion risk analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Risks: high-coverage topics, triggers",
+        "- Tier: H/M/L",
+        "- Recommendations: prevention, contingency",
+        "- Monitoring: KPIs, sensitive topics",
+        "- Thresholds: conditions, tiers"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-02",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00764",
+    "name": "Medicare Coverage Explainer",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CMS policy-explanation expert",
+      "task": "Produce a Medicare coverage explainer",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Coverage: formulary, procedures",
+        "- Cost-Sharing: Part A deductible, Part B 20% coinsurance, donut hole",
+        "- Deductible: outpatient, inpatient",
+        "- Cap: annual limit, ceiling",
+        "- Flow: register, visit, settle"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00765",
+    "name": "Medicare Contracted Providers Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CMS provider-management expert",
+      "task": "Produce a Medicare contracted providers report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Provider Network: count of participating providers, geographic distribution, network adequacy by service area",
+        "- Provider Enrollment: PECOS application, NPI, CMS-855 forms, Medicare Conditions of Participation, opt-out rules",
+        "- Quality Oversight: monitor service quality, fraud-and-abuse referrals, sanctions for documented violations",
+        "- Claims & Cost Review: audit Medicare fund use, identify outlier billing, flag medically unnecessary services",
+        "- Annual Performance Review & Termination: rate providers, publish star ratings where applicable, set rules for termination of provider agreements after sustained noncompliance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00766",
+    "name": "Out-of-Network / Travel Medical Care Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CMS Medicare beneficiary services author",
+      "task": "Explain how to use medical care outside your home network or while traveling, and how to get reimbursed",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- When You're Covered: emergency care anywhere, urgent care while traveling, prior-authorization rules for non-emergency out-of-network visits",
+        "- Finding a Provider: how to use the plan's directory or call member services to find an in-network or covered provider out of area",
+        "- Payment at the Visit: when the provider bills the plan directly vs. when you pay upfront and submit a claim",
+        "- Filing for Reimbursement: which forms, supporting documents (itemized bill, medical records, proof of payment), submission deadlines, and expected processing time"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00767",
+    "name": "Social Security Enrollment Explainer",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "SSA enrollment-guide author",
+      "task": "Produce a Social Security enrollment explainer",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Eligibility: age, residency",
+        "- Contributions: individual, employer",
+        "- Benefits: calc, claim age",
+        "- Flow: register, payment",
+        "- Coordination: spousal/survivor benefits, totalization agreements (foreign work)"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00768",
+    "name": "Pension Benefit Estimator",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "SSA actuary",
+      "task": "Produce a pension benefit estimator",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Years Credited: cumulative, credited",
+        "- Base: wage, caps",
+        "- Replacement Rate: est",
+        "- Result: expected benefit",
+        "- Assumptions: growth, inflation"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00769",
+    "name": "Pension Claim Explainer",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "SSA retirement claims specialist",
+      "task": "Produce a pension claim explainer",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Conditions: age, years",
+        "- Docs: ID, Social Security card",
+        "- Payment: monthly, bank",
+        "- Verification: alive, annual",
+        "- Contact: phone, online"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00770",
+    "name": "Unemployment Insurance Enrollment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL UI enrollment-guide author",
+      "task": "Produce an unemployment insurance enrollment explainer",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Coverage: W2, gig",
+        "- Funding: employer FUTA + state SUTA, employer experience rating",
+        "- Eligibility: involuntary, 1yr",
+        "- Benefits: amount, duration",
+        "- Flow: register, apply"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00771",
+    "name": "UI Claim Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL UI claim-guide author",
+      "task": "Produce a UI claim guide",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Eligibility: jobless, job-seeking",
+        "- Docs: ID, separation letter",
+        "- Flow: window, review, pay",
+        "- Amount: state minimum",
+        "- Stop: re-employment, refused training"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00772",
+    "name": "Reemployment Support Policy",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL Employment & Training Administration (ETA) reemployment policy lead",
+      "task": "Produce a reemployment support policy",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Services: placement, match",
+        "- Training Subsidy: skills, rate",
+        "- Startup: loan, tax",
+        "- Payroll Subsidy: employer, term",
+        "- Placement: public, private"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00773",
+    "name": "Affordable Housing Eligibility (Section 8 / LIHTC)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "HUD affordable-housing eligibility specialist",
+      "task": "Explain who qualifies for affordable-housing programs and how the application works",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Programs Covered: Section 8 housing choice vouchers, public housing, LIHTC tax-credit properties — note who runs each",
+        "- Income Limits: Area Median Income (AMI) bands (e.g., 30% / 50% / 80% AMI), how household size adjusts the limit",
+        "- Household Definition: who counts in the household, how earned vs. unearned income is calculated",
+        "- Documents Needed: photo ID and Social Security cards for each member, recent pay stubs or tax returns, proof of current address",
+        "- Waitlist & Selection: how to apply with the local Public Housing Authority, typical wait times, lottery vs. preference points (veterans, disabled, displaced)"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00774",
+    "name": "401(k) Enrollment Explainer",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Department of Labor 401(k) plan-enrollment specialist",
+      "task": "Walk an employee through enrolling in their workplace 401(k), step by step",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Contribution Rates: how much you put in (% of paycheck), what the employer matches, how to hit the full match",
+        "- Eligible Wages & Annual Limits: which pay counts, the IRS contribution cap for the year, catch-up contributions if 50+",
+        "- How to Enroll: where the plan portal lives, picking pre-tax vs. Roth, choosing investments (target-date fund vs. custom mix)",
+        "- Account Management: how to check your balance, change your contribution rate, update beneficiaries, roll in old 401(k)s",
+        "- Accessing Funds: hardship withdrawals (first-home purchase, medical), 401(k) loans, what triggers taxes and the 10% early-withdrawal penalty"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00775",
+    "name": "Retirement-Backed Loan Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Department of Labor retirement-backed loan guide author",
+      "task": "Produce a retirement-backed loan guide",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Conditions: tenure, credit",
+        "- Limit: multiple of balance, cap",
+        "- Rates: 1st home, 2nd home",
+        "- Flow: apply, approve, fund",
+        "- Repayment: EMI, principal-even"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00776",
+    "name": "Government Hiring Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OPM hiring standards specialist",
+      "task": "Produce a government hiring plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Plan: roles, headcount",
+        "- Announcement: date, channel",
+        "- Exam: written, interview, medical",
+        "- Appointment: vetting, onboarding",
+        "- Oversight: ethics, reporting"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00777",
+    "name": "Government Career Services Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL Employment & Training Administration (ETA) career-services lead",
+      "task": "Produce a government career services plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Career Counseling: planning, skills",
+        "- Placement: matching, intel",
+        "- Training: courses, credential",
+        "- Follow-up: placement, support",
+        "- Policy Outreach: programs, grants"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00778",
+    "name": "Training Subsidy Form Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL Employment & Training Administration (ETA) training subsidy form designer",
+      "task": "Produce a training subsidy form guide",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Personal Info: name, SSN, contact",
+        "- Training: provider, program",
+        "- Subsidy: amount, payout",
+        "- Attachments: certificate, invoice",
+        "- Review: dept, payout"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00779",
+    "name": "Skills Upgrade Action Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL Employment & Training Administration (ETA) skills-upgrade expert",
+      "task": "Produce a skills upgrade action plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Goals: upskilling, certification",
+        "- Curriculum: content, hours",
+        "- Certification: assessment, credential",
+        "- Funding: subsidies, sources",
+        "- Incentives: awards, placement"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00780",
+    "name": "Labor Compliance Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOL Wage and Hour Division labor-compliance lead",
+      "task": "Produce a data-rich labor compliance report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Inspections: firms, scope",
+        "- Findings: violations, wage theft",
+        "- Actions: deadline, penalty",
+        "- Referrals: admin penalty, DOJ",
+        "- Re-check: closure, ongoing"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00781",
+    "name": "Workplace Safety Training Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OSHA training expert",
+      "task": "Produce a workplace safety training plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Audience: new hires, specialized",
+        "- Content: regs, SOPs",
+        "- Assessment: written, practical",
+        "- Refresher: annual, cert validity",
+        "- Drills: plan, frequency"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00782",
+    "name": "Disability Benefits Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "SSA disability-benefits standards specialist",
+      "task": "Produce a disability benefits plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Recipients: tier, severity",
+        "- Amount: living, care",
+        "- Flow: community apply, review",
+        "- Payment: monthly, direct deposit",
+        "- Reassess: level change, recertification"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00783",
+    "name": "Disability Assistive Devices Subsidy",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Administration for Community Living (ACL) disability-device subsidy lead",
+      "task": "Produce a disability assistive devices subsidy policy",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Catalog: wheelchair, hearing aid, prosthetic",
+        "- Subsidy: %, cap",
+        "- Flow: eval, approve, purchase",
+        "- Fitting: pro assessment, customization",
+        "- Training: use, maintenance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00784",
+    "name": "Disability Employment Support",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Rehabilitation Services Administration (RSA) disability-employment expert",
+      "task": "Produce a disability employment support plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Training: skills, guidance",
+        "- Jobs: quota, public service",
+        "- Startup: grants, loan subsidy",
+        "- Support: follow-up, ongoing",
+        "- Tax: VAT exempt, income tax"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-03",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00785",
+    "name": "Teacher PD Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Department of Education teacher-PD lead",
+      "task": "Produce a teacher PD plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Goals: skills, knowledge",
+        "- Curriculum: theory, practice",
+        "- Delivery: online/offline",
+        "- Assessment: cert, instruction eval",
+        "- Credits: hours, cert"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00786",
+    "name": "Campus Safety Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Department of Education campus-safety expert",
+      "task": "Produce a campus safety plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Accountability: roles, policy",
+        "- Hazard Scan: routine, logs",
+        "- Drills: fire, evac",
+        "- Education: courses, homeroom",
+        "- Police Coordination: SRO, joint"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00787",
+    "name": "University Admissions Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Admissions Office dean",
+      "task": "Produce a fair university admissions plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Plan: slots, programs",
+        "- Outreach: recruiting, info sessions",
+        "- Selection: national exam, ED/EA",
+        "- Onboarding: orientation, intro",
+        "- Transparency: policy, outcomes"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00788",
+    "name": "Cultural Event Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NEA cultural-events lead",
+      "task": "Produce a cultural event plan",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme: festival, art show",
+        "- Formats: perform, exhibit, talks",
+        "- Venue: schedule, arrangement",
+        "- Promotion: media, socials",
+        "- Budget: funding, sponsorship"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00789",
+    "name": "Public Venue Management Standards",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "IMLS venue-management standards specialist",
+      "task": "Produce public venue management standards",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Hours: open, closed days",
+        "- Service: tour, guide",
+        "- Safety: crowd control, screening",
+        "- Facilities: upkeep, cleanliness",
+        "- Visitor Rules: booking, conduct"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00790",
+    "name": "Volunteer Management Policy",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "AmeriCorps / Corporation for National and Community Service volunteer program lead",
+      "task": "Produce a volunteer management policy",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Recruit: call, vetting",
+        "- Training: onboarding, skills",
+        "- Log: hours, services",
+        "- Recognition: certs, insurance",
+        "- Exit: voluntary, for cause"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00791",
+    "name": "Health Education Materials",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CDC health-education materials author",
+      "task": "Produce accessible health education materials",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme: prevention, literacy",
+        "- Core: evidence, essentials",
+        "- Behavior: lifestyle, diet",
+        "- Myths: common, debunk",
+        "- Design: poster, leaflet, video"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00792",
+    "name": "Public Health Emergency Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CDC public-health emergency standards specialist",
+      "task": "Produce a rapid public health emergency plan",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Tiers: critical/major/moderate/minor",
+        "- Org: command, experts",
+        "- Flow: report, respond",
+        "- Resources: stockpile, staffing",
+        "- Disclosure: authoritative, rumor control"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00793",
+    "name": "Disease Prevention Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CDC disease-prevention expert",
+      "task": "Produce a disease prevention plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Surveillance: track, early warning",
+        "- Prevention: vaccine, PPE",
+        "- Response: isolate, contact trace",
+        "- Education: PSAs, behavior nudges",
+        "- Stockpile: PPE, Rx"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00794",
+    "name": "Vaccination Campaign Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CDC vaccination campaign guide author",
+      "task": "Produce an orderly vaccination campaign plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Targets: age, priority groups",
+        "- Cold Chain: logistics, inventory",
+        "- Flow: register, administer, observe",
+        "- AEFI: monitor, process",
+        "- Schedule: dosing, boosters"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00795",
+    "name": "NSF Grant Proposal",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NSF grant-proposal template designer",
+      "task": "Produce an NSF grant proposal",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Rationale: background, significance",
+        "- Research: goals, key tech",
+        "- Approach: method, design",
+        "- Budget: direct, indirect",
+        "- Outcomes: pubs, patents, impact"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00796",
+    "name": "Research Assessment Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "National Academy of Sciences research-assessment expert",
+      "task": "Produce a research assessment report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Overview: name, institution",
+        "- Innovation: tech novelty, theory",
+        "- KPIs: specs, benchmarks",
+        "- Prospects: demand, transfer value",
+        "- Verdict: world-leading/advanced"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00797",
+    "name": "Academic Conference Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "International Association of Research Conferences execution standards specialist",
+      "task": "Produce an academic conference plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Theme: tracks, topics",
+        "- Agenda: opening, sessions",
+        "- Keynotes: invited, panelists",
+        "- Logistics: venue, lodging",
+        "- CFP: notice, review"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00798",
+    "name": "Research Funds Rules",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NSF research-funds management standards specialist",
+      "task": "Produce research funds rules",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Sources: appropriation, industry",
+        "- Uses: equipment, materials, travel",
+        "- Approvals: budget, expense",
+        "- Oversight: audit, performance",
+        "- Non-compliance: claw back, penalty"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00799",
+    "name": "Water Quality Test Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA Safe Drinking Water Act compliance specialist",
+      "task": "Produce a complete water-quality test report against EPA drinking-water standards",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Parameters Tested: pH, turbidity, residual chlorine, total coliform / E. coli, lead and copper, nitrate",
+        "- Results: measured value for each parameter alongside the EPA Maximum Contaminant Level (MCL)",
+        "- Compliance Check: pass / fail against the National Primary Drinking Water Regulations, with any MCL exceedances flagged",
+        "- Conclusion: overall water-safety rating and concrete recommendations (treatment, retest, public notice)",
+        "- Sampling Details: sample locations, collection date, chain-of-custody, lab certification"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00800",
+    "name": "Annual Water Use Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Bureau of Reclamation annual-water-use plan lead",
+      "task": "Produce a conservation-focused annual water use plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Total: annual quota, allocation",
+        "- Monthly: use, seasonal",
+        "- Conservation: % saved, reuse",
+        "- Monitoring: metering, loss control",
+        "- Warnings: overuse alarm, limit"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00801",
+    "name": "Electric Load Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EIA load-analysis expert",
+      "task": "Produce a data-rich electric load analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Trend: daily curve, seasonal",
+        "- Peak-Valley: peak, valley",
+        "- Peak Cause: hours, drivers",
+        "- Measures: dispatch, backup",
+        "- Peak Shaving: demand-response, off-peak"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00802",
+    "name": "Power Safety Patrol Policy",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FERC / NERC power-safety-patrol standards specialist",
+      "task": "Produce a power safety patrol policy",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Cadence: routine, special",
+        "- Scope: lines, substations",
+        "- Issues: defect log, follow",
+        "- Archive: logs, docs",
+        "- Accountability: negligence, penalty"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00803",
+    "name": "Gas Safety Assessment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "PHMSA gas-safety-assessment expert",
+      "task": "Produce a data-rich gas safety assessment",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Scope: pipelines, customer side",
+        "- Risk ID: leak, explosion",
+        "- Tier: H/M/L",
+        "- Recommendations: pipe replace, retrofit",
+        "- Method: risk model"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00804",
+    "name": "Gas Hazard Remediation Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "PHMSA gas-hazard remediation expert",
+      "task": "Produce a gas hazard remediation plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- List: site, severity",
+        "- Actions: tech, safety",
+        "- Owners: accountable owner, oversight",
+        "- Deadline: checkpoints",
+        "- Acceptance: re-check"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00805",
+    "name": "Waste Sorting Program",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA waste-sorting standards specialist",
+      "task": "Produce a precise waste sorting program",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Categories: recyclable, food, hazardous, other",
+        "- Guidelines: drop-off times, sites",
+        "- Collection: sorted truck, dedicated",
+        "- Education: community, volunteers",
+        "- KPIs: accuracy, rewards"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00806",
+    "name": "Waste Collection Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA waste-collection standards specialist",
+      "task": "Produce an efficient waste collection plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Routes: collection, haul",
+        "- Hours: frequency, windows",
+        "- Fleet: count, types",
+        "- Contingency: incidents, backups",
+        "- Crew: staffing, shifts"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-04",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00807",
+    "name": "Federal Memorandum",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Senior federal agency executive correspondence specialist",
+      "task": "Draft a clean, properly formatted federal memorandum that holds up to internal review",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Header Block: TO / FROM / DATE / SUBJECT lines, agency letterhead, memo type (action, info, decision)",
+        "- Body Structure: short purpose paragraph, background, discussion, recommended action, with clear sub-headings",
+        "- Plain-Language Standard: active voice, define acronyms on first use, comply with the Plain Writing Act",
+        "- Attachments & Tabs: numbered enclosures, source documents, supporting data tables",
+        "- Handling: classification marking if any (CUI / Confidential / Secret), distribution list, file/record number"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00808",
+    "name": "Public Notice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Register public-notice editor",
+      "task": "Draft a public notice that's clear to citizens and meets agency publication standards",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Why This Notice: the policy or regulatory action, and the legal authority behind it",
+        "- What's Changing: specifics — what's new, what's different, who is affected",
+        "- What You Need to Do: deadlines, required actions, responsible parties",
+        "- Where to Find More: linked documents, regulations.gov docket number, public comment instructions",
+        "- Contact: agency POC, phone, email, mailing address"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00809",
+    "name": "Decision Memo (Request for Approval)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal agency decision-memo specialist",
+      "task": "Draft a decision memo that gets a senior official to a clear yes/no",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Issue: one-sentence framing of the decision being requested, plus the policy or statutory hook",
+        "- Background: current situation, prior decisions, why this is coming up now",
+        "- Options & Recommendation: 2–3 viable options with pros/cons, the recommended option, and the rationale",
+        "- Implications: budget, staffing, legal, political, equity, and timing implications",
+        "- Approval Block & Contact: signature lines, concurrence chain, POC name and phone for follow-up"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00810",
+    "name": "Official Government Letter",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal agency official-correspondence specialist",
+      "task": "Draft a clear, courteous, on-letterhead reply to a constituent or peer agency",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Reference: what prompted this letter — the inbound request, file number, or prior communication",
+        "- Substantive Reply: direct answer, agency position, any actions taken or pending",
+        "- Next Steps: response deadline if any, additional information you'll send, where things go from here",
+        "- Contact: signing official's name, title, phone, email, mailing address",
+        "- Enclosures: list of attached documents and evidence supporting the reply"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00811",
+    "name": "Government Meeting Remarks",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House senior speechwriter",
+      "task": "Draft remarks for a senior official to deliver at a government meeting or convening",
+      "type": "External Presentation → image, earn opportunities",
+      "framework": [
+        "- Audience: who's in the room, key stakeholders, any media presence",
+        "- Context: meeting purpose, what brought everyone together, why now",
+        "- Core Points: 2–3 substantive messages — policy positions, commitments, announcements",
+        "- Closing: thank-yous, signal of partnership, forward-looking note",
+        "- Call to Action: specific asks of attendees, next steps, follow-up commitments"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00812",
+    "name": "State of the Union Address",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Presidential State of the Union speechwriter",
+      "task": "Draft a State of the Union-style address that mixes accomplishments, challenges, and a forward agenda",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- State of the Nation: where the country stands now — top accomplishments of the past year, signature wins",
+        "- Challenges: open problems, ongoing crises, where we're falling short — with honest framing",
+        "- Vision & Values: the larger story tying the agenda together, anchored in shared values",
+        "- Agenda for the Year: 3–5 priority initiatives with concrete asks of Congress and the public",
+        "- Appendix / Fact Sheet: supporting statistics, comparisons with prior years, sources for the speech's claims"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00813",
+    "name": "Government Mobilization Speech",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House speechwriter",
+      "task": "Produce a government mobilization speech",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Context: importance, urgency",
+        "- Goals: overall, breakdown",
+        "- Requirements: quality, timelines",
+        "- Rally: motivation, confidence",
+        "- Accountability: owners, reviews"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00814",
+    "name": "Government Slogan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House Office of Communications slogan designer",
+      "task": "Produce a government campaign slogan",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Core Theme: headline, idea",
+        "- Concise: word count, crisp",
+        "- Memorable: catchy, spreads",
+        "- Applicability: scenarios, audience",
+        "- Notes: meaning, extension"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00815",
+    "name": "Government Campaign Poster",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Government Publishing Office chief poster designer",
+      "task": "Produce a government campaign poster",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme Elements: hero graphic, icons",
+        "- Style: aesthetic, approach",
+        "- Typography: headline, body",
+        "- Palette: primary, accent",
+        "- Attribution: issuing body, date"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00816",
+    "name": "Government Meeting Minutes",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Register / OMB minutes-standards specialist",
+      "task": "Produce government meeting minutes",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Info: time, location, chair, scribe",
+        "- Agenda: items, key remarks",
+        "- Decisions: resolutions",
+        "- Attendance: present, absent",
+        "- Distribution: send-to, cc"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00817",
+    "name": "Government Oversight Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO / Inspector General oversight planning lead",
+      "task": "Build a government oversight plan that holds up to GAO Yellow Book standards",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: programs, agencies, or grants under review, with the specific objectives being audited",
+        "- Methodology: data requests, interviews, site visits, sampling approach, evidence standards",
+        "- Schedule: phases (planning, fieldwork, reporting), milestones, key deliverable dates",
+        "- Reporting: draft / exit conference / final report, recommendation tracking, public release plan",
+        "- Roles: audit lead, technical specialists, agency liaison, peer reviewer"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00818",
+    "name": "Oversight Findings Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO / Inspector General senior auditor",
+      "task": "Write an oversight findings report grounded in evidence and tied to clear recommendations",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Findings: what we examined, what we found — supported by evidence (interviews, records, data analysis)",
+        "- Severity & Risk: rate each finding (material weakness, significant deficiency, observation), quantify exposure where possible",
+        "- Recommendations: specific actions the agency should take, with priority and rationale",
+        "- Agency Response & Resolution Plan: management comments, agreed-upon corrective actions, target completion dates",
+        "- Follow-Up: how the auditor will verify closure, retest schedule, escalation path if recommendations stall"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00819",
+    "name": "Corrective Action Request (CAR)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal oversight Corrective Action Request author",
+      "task": "Issue a Corrective Action Request that's specific, defensible, and trackable",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Findings & Required Action: each finding cited with evidence, paired with the corrective action required",
+        "- Deadlines: milestone dates, phased deliverables, hard deadline for full closure",
+        "- Accountable Owner: named responsible official, alternate, and concurrence chain",
+        "- Submission Format: how the agency reports back — written response, supporting documentation, file format",
+        "- Verification: how the oversight body will confirm closure — desk review, site visit, retest — and acceptance criteria"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00820",
+    "name": "Government Annual Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Government annual-summary expert",
+      "task": "Produce a government annual summary",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Review: tasks, attainment",
+        "- Highlights: innovation, cases",
+        "- Gaps: causes",
+        "- Next Year: direction, priorities",
+        "- Data: KPIs, benchmarks"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00821",
+    "name": "Government Quarterly Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB quarterly-summary standards specialist",
+      "task": "Produce a data-rich quarterly summary",
+      "type": "Routine Report → upward visibility, show value",
+      "framework": [
+        "- Quarter Goals: tasks, expected",
+        "- Attainment: progress, rate",
+        "- Issues: challenges, constraints",
+        "- Next Q: plan, safeguards",
+        "- Data: stats, charts"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00822",
+    "name": "Initiative Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US federal initiative-summary template designer",
+      "task": "Produce an initiative summary",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Origin: rationale, policy",
+        "- Execution: process, practices",
+        "- Impact: outcomes, social",
+        "- Lessons: wins, replicable",
+        "- Recommendations: direction, long-run"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00823",
+    "name": "Government Annual Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB annual-plan lead",
+      "task": "Produce a strategic government annual plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Goals: annual, expected",
+        "- Priorities: key tasks, projects",
+        "- Safeguards: policy, funds",
+        "- Accountability: lead, partners",
+        "- Milestones: quarterly, monthly"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00824",
+    "name": "Government Quarterly Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB quarterly-plan standards specialist",
+      "task": "Produce a structured quarterly plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Priorities: tasks, priority",
+        "- Breakdown: subtasks, owners",
+        "- Timeline: deadlines, milestones",
+        "- Departments: lead, coordinate",
+        "- KPIs: perf, acceptance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00825",
+    "name": "Government Project Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB project-plan standards specialist",
+      "task": "Produce a government project plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Overview: name, scope",
+        "- Phases: steps, nodes",
+        "- Funding: total, sources",
+        "- Schedule: start, finish",
+        "- Risk Plan: ID, mitigations"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00826",
+    "name": "Government Work Update",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US federal work-update standards specialist",
+      "task": "Produce a government work update",
+      "type": "Routine Report → upward visibility, show value",
+      "framework": [
+        "- Progress: tasks, stages",
+        "- Data: key metrics, YoY",
+        "- Issues: challenges, constraints",
+        "- Next: plan, measures",
+        "- Asks: support, recommendations"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00827",
+    "name": "Thematic Update",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB thematic-update standards specialist",
+      "task": "Produce a thematic update",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Background: topic, purpose",
+        "- Progress: status, practices",
+        "- Difficulties: issues, reasons",
+        "- Requests: support, coord",
+        "- Recommendations: ideas, plans"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00828",
+    "name": "Government Research Update",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "RAND Corporation research-report writer",
+      "task": "Produce a government research update",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Scope: coverage, method",
+        "- Analysis: state, problems",
+        "- Recommendations: measures, policy",
+        "- Findings: discoveries, novelty",
+        "- Transfer: application, rollout"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00829",
+    "name": "Government Meeting Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GSA meeting-plan standards specialist",
+      "task": "Produce a government meeting plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Topic: name, purpose",
+        "- Time/Venue: time, room",
+        "- Attendees: seated, observers",
+        "- Agenda: flow, speaking order",
+        "- Planning Teams: secretariat, materials, hosting"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00830",
+    "name": "Large Conference Prep Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House protocol large-conference prep team lead",
+      "task": "Produce a large conference prep plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Structure: leadership group, task force",
+        "- Tasks: division, coordination",
+        "- Timeline: milestones, critical path",
+        "- Safeguards: budget, logistics",
+        "- Contingency: incidents, response"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00831",
+    "name": "Public Notice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Federal Register notice standards specialist",
+      "task": "Produce a public notice",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Reason: background, authority",
+        "- Content: items, rules",
+        "- Effective: date, transition",
+        "- Contact: phone, email",
+        "- Attachments: docs, forms"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00832",
+    "name": "Public Notice (Transparency)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GSA / Federal Register notice standards specialist",
+      "task": "Produce a transparent public notice",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Items: content, parties",
+        "- Details: info, data",
+        "- Window: start/end, business days",
+        "- Feedback: tip line, email",
+        "- Disputes: intake, handling"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00833",
+    "name": "Public Advisory",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House / GSA public-advisory standards specialist",
+      "task": "Produce a public advisory",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Reason: background, legal",
+        "- Provisions: rules, prohibitions",
+        "- Compliance: duty, consequence",
+        "- Contact: policy help, phone",
+        "- Effective: date, scope"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00834",
+    "name": "FOIA Disclosure Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US FOIA disclosure-guide standards specialist",
+      "task": "Produce a FOIA disclosure guide",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: proactive, on-request",
+        "- Methods: website, counter",
+        "- Application: docs, SLA",
+        "- Oversight: complaint, remedy",
+        "- Fees: items, waivers"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00835",
+    "name": "FOIA Response Template",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOJ Office of Information Policy FOIA response standards",
+      "task": "Produce a FOIA response template",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Request: applicant, content",
+        "- Response: disclose/deny, reasons",
+        "- Basis: statute, policy",
+        "- Appeal: review, litigation",
+        "- Date: SLA, delivery"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00836",
+    "name": "FOIA Annual Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOJ FOIA annual-report author",
+      "task": "Produce a data-rich FOIA annual report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Proactive: count, categories",
+        "- Requested: count, answers",
+        "- Appeals/Suits: appeals, cases",
+        "- Improvements: issues, fixes",
+        "- Stats: by class, compare"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00837",
+    "name": "Records Declassification Review",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NARA declassification-review officer",
+      "task": "Produce a rigorous declassification review",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- File Info: ID, origin date",
+        "- Protection: classification, years",
+        "- Review: conditions, risks",
+        "- Verdict: agree/disagree, rationale",
+        "- Approval: authority, signature"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00838",
+    "name": "Archival Lookup Application",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NARA lookup-form designer",
+      "task": "Produce an archival lookup application",
+      "type": "Process Execution → fast approval, quick completion",
+      "framework": [
+        "- Applicant: name, org, contact",
+        "- Reason: purpose, use",
+        "- Records: name, era",
+        "- Attestation: confidentiality",
+        "- Use: research, certification"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00839",
+    "name": "Records Classification & Naming Automation",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NARA records-classification standards specialist",
+      "task": "Produce a records classification & naming automation spec",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Rules: taxonomy, standards",
+        "- Naming: filename rules, version",
+        "- Metadata: fields, definitions",
+        "- Automation: Python script, batch",
+        "- Validation: format, integrity"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00840",
+    "name": "Audit Risk Checklist",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO audit-risk expert",
+      "task": "Produce a categorized audit risk checklist",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Areas: financial, compliance, ops",
+        "- Risks: specific items",
+        "- Tier: H/M/L, impact",
+        "- Controls: prevent, contingency",
+        "- Cycle: frequency, special"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00841",
+    "name": "Audit Remediation Recommendations",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO remediation expert",
+      "task": "Produce audit remediation recommendations",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Issue: finding, violation",
+        "- Action: plan, correction",
+        "- Owner: dept, accountable owner",
+        "- Deadline: milestones",
+        "- Tracking: review, acceptance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00842",
+    "name": "Government Press Release",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "AP government press-release standards specialist",
+      "task": "Produce a government press release",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Event: summary, core info",
+        "- Core: 5W1H, data",
+        "- Context: policy, history",
+        "- Contact: spokesperson, press",
+        "- Captions: image, caption"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00843",
+    "name": "Press Conference Press Pack",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House press-conference writer",
+      "task": "Produce a press conference press pack",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Subject: theme, topics",
+        "- Content: release, interpretation",
+        "- Q&A Prep: likely Qs, answers",
+        "- Flow: timing, segments",
+        "- Guest List: outlets, reporters"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00844",
+    "name": "Media Interview Talking Points",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "White House press-office talking-points lead",
+      "task": "Produce media interview talking points",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Theme: background, topics",
+        "- Core Message: unified, key phrases",
+        "- Sensitive Questions: avoid, pivot",
+        "- No-Comment: items, rationale"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00845",
+    "name": "Government Working Brief",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB working-brief standards specialist",
+      "task": "Produce a government working brief",
+      "type": "Routine Report → upward visibility, show value",
+      "framework": [
+        "- Activity: updates, events",
+        "- Practices: innovation, cases",
+        "- Issues: difficulties, recommendations",
+        "- Leader Notes: inputs, requirements",
+        "- Distribution: to-whom, cc"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00846",
+    "name": "Thematic Briefing",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB thematic-briefing standards specialist",
+      "task": "Produce a thematic briefing",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Background: topic, significance",
+        "- Analysis: issues, roots",
+        "- Recommendations: ideas, measures",
+        "- Attachments: tables, reports",
+        "- Recipients: exec, deputy"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-05",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00847",
+    "name": "Civil Judgment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US federal-court civil-judgment template designer",
+      "task": "Produce a well-structured civil judgment",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Parties: plaintiff, defendant, 3P",
+        "- Claims: demand, answer",
+        "- Facts: findings, admissibility",
+        "- Judgment: grant/deny, liability",
+        "- Appeal: deadline, court"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00848",
+    "name": "Criminal Judgment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US District Court criminal-judgment template designer",
+      "task": "Produce a precise criminal judgment",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Defendant: name, age, priors",
+        "- Charges: conduct, harm",
+        "- Evidence: chain, probative",
+        "- Holding: charges, term, fine",
+        "- Sentence Calc: credit, merger"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00849",
+    "name": "Arbitration Award",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "ICC arbitration-award template designer",
+      "task": "Produce a professional arbitration award",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Parties: claimant, respondent",
+        "- Claims: subject, amount",
+        "- Findings: issues, evidence",
+        "- Ruling: grant/deny, perform",
+        "- Performance: window, default"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00850",
+    "name": "Mediation Agreement",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Arbitration Association mediation-agreement designer",
+      "task": "Produce a lawful mediation agreement",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Parties: sides, counsel",
+        "- Reason: dispute, issues",
+        "- Terms: settlement, duties",
+        "- Enforcement: confirmed, enforceable",
+        "- Method: lump sum, installment"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00851",
+    "name": "Prosecution Memorandum",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Attorney's Office prosecution-memorandum template designer",
+      "task": "Produce a prosecution memorandum",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Defendant: basics, holds",
+        "- Facts: conduct, intent",
+        "- Evidence: sufficiency, legality",
+        "- Sentencing: range, mitigating",
+        "- Harm: degree, social"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00852",
+    "name": "Appellate Brief (Prosecution)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Solicitor General appellate-brief template designer",
+      "task": "Produce a prosecution appellate brief",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Lower Court: judgment, status",
+        "- Grounds: factual/legal error",
+        "- Law: rules of crim procedure",
+        "- Relief: vacate, modify/remand",
+        "- New Evidence: insufficiency"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00853",
+    "name": "Prosecutorial Recommendation",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Attorney prosecutorial-recommendation template designer",
+      "task": "Produce a prosecutorial recommendation",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Recipient: name, scope",
+        "- Issues: violations, gaps",
+        "- Recommendations: actions, system",
+        "- Requirements: deadlines, feedback",
+        "- Reply SLA: written, follow-up"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00854",
+    "name": "Notarial Instrument",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "International Union of Notaries notarial-instrument standards specialist",
+      "task": "Produce a notarial instrument",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Applicant: person, interested parties",
+        "- Matter: type, content",
+        "- Fact: verification, evidence",
+        "- Conclusion: authenticity, legality",
+        "- Effect: evidentiary, enforceable"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00855",
+    "name": "Legal Aid Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Legal Services Corporation legal-aid plan designer",
+      "task": "Produce a legal aid plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Recipients: income criteria, cases",
+        "- Services: consultation, representation",
+        "- Flow: materials, review",
+        "- Quality: reviews, CSAT",
+        "- Closure: summary, archive"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00856",
+    "name": "Legal Public Education Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOJ Access to Justice / ABA public-education expert",
+      "task": "Produce a varied public legal education plan",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Topics: Constitution, Bill of Rights, civil rights statutes, consumer-protection law",
+        "- Audience: officials, youth, firms",
+        "- Channels: lectures, media, new media",
+        "- Measurement: awareness, engagement",
+        "- Budget: promo, events"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00857",
+    "name": "Parole Recommendation",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Federal Bureau of Prisons parole-recommendation template designer",
+      "task": "Produce a parole recommendation",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Inmate: basics, sentence",
+        "- Conduct: rehab, merit",
+        "- Law: code, prison rules",
+        "- Recommendation: reduction, conditions",
+        "- Assessment: in-custody, risk"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00858",
+    "name": "Prison Administration Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Bureau of Prisons administration-report standards specialist",
+      "task": "Produce a data-rich prison administration report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Security: incidents, violations",
+        "- Rehabilitation: education",
+        "- Labor: programs, outputs",
+        "- Staff: training, integrity",
+        "- Data: population, trends"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00859",
+    "name": "Community Corrections Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "DOJ community-corrections standards specialist",
+      "task": "Produce an individualized corrections plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Subject: basics, offense type",
+        "- Prior: charges, sentence",
+        "- Period: duration, phases",
+        "- Measures: education, therapy",
+        "- Supervision: reporting, e-monitor"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-06",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00860",
+    "name": "Economic Analysis Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "IMF senior economist",
+      "task": "Produce a data-accurate economic analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Overall: GDP growth, KPIs",
+        "- Indicators: investment, consumption, trade",
+        "- Challenges: headwinds, structural",
+        "- Recommendations: macro, reform",
+        "- Forecast: next Q, annual"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00861",
+    "name": "Economic Forecast Model",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Reserve economic-forecast senior researcher",
+      "task": "Produce a scientific economic forecast model",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Framework: econometric, theory",
+        "- Variables: independent, dependent",
+        "- Parameters: coefficients, significance",
+        "- Results: point, interval",
+        "- Errors: RMSE, MAPE, residuals"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00862",
+    "name": "Economic Risk Advisory",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Bank risk-analysis senior official",
+      "task": "Produce an economic risk advisory",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Risks: systemic, regional",
+        "- Impact: shock, transmission",
+        "- Thresholds: warning, triggers",
+        "- Response: tools, contingency",
+        "- Indicators: leading, coincident"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00863",
+    "name": "Economic Policy Recommendations",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OECD senior economic-policy advisor",
+      "task": "Produce economic policy recommendations",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Problem: symptom, causes",
+        "- Tools: fiscal, monetary",
+        "- Path: timeline, roadmap",
+        "- Expected: growth, jobs",
+        "- Owners: lead, partners"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00864",
+    "name": "Annual Budget Explanatory Memo",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB annual-budget memo author",
+      "task": "Produce an annual budget explanatory memo",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Revenues: tax, non-tax",
+        "- Expenditures: general, special",
+        "- Balance: deficit, debt limit",
+        "- Highlights: major items, policy",
+        "- Appendices: details, compare"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00865",
+    "name": "Budget Execution Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Treasury budget-execution expert",
+      "task": "Produce a data-rich budget execution analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Progress: execution rate, time",
+        "- Variance: over/under, causes",
+        "- Causes: policy, execution",
+        "- Actions: manage, optimize",
+        "- Forecast: full-year"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00866",
+    "name": "Budget Adjustment Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB / Treasury budget-adjustment lead",
+      "task": "Produce a targeted budget adjustment plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Items: add/cut projects",
+        "- Reasons: policy, contingency",
+        "- Amount: sources, uses",
+        "- Approvals: legislature, filing",
+        "- Impact: budget balance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00867",
+    "name": "Project Feasibility Study",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Bank project-evaluation expert",
+      "task": "Produce a data-rich project feasibility study",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Background: need, policy",
+        "- Tech Plan: approach, process",
+        "- Investment: total, line items",
+        "- Benefits: economic, social",
+        "- Risks: market, tech"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00868",
+    "name": "Project Authorization Request",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB project-authorization standards specialist",
+      "task": "Produce a project authorization request",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Overview: name, scope",
+        "- Necessity: demand, urgency",
+        "- Conditions: land, funds, tech",
+        "- Ask: authorization, funding",
+        "- Investment: total, sources"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00869",
+    "name": "EIA Decision",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA EIA-decision standards specialist",
+      "task": "Produce an evidence-based EIA decision",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Overview: name, location",
+        "- Conclusion: impact, compliance",
+        "- Requirements: limits, controls",
+        "- Decision: approve/deny, reasons",
+        "- Enforcement: Record of Decision, mitigation conditions, monitoring requirements, post-construction review"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00870",
+    "name": "Post-Project Review",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Bank Independent Evaluation Group expert",
+      "task": "Produce a data-rich post-project review",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Execution: progress, spend",
+        "- Benefits: economic, social",
+        "- Issues: problems, causes",
+        "- Recommendations: O&M, future",
+        "- Lessons: scale, cautions"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00871",
+    "name": "Government Procurement Notice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US FAR notice standards specialist",
+      "task": "Produce a government procurement notice",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Overview: scope, budget",
+        "- Eligibility: credentials, past",
+        "- Docs: RFP, download",
+        "- Deadline: due, opening",
+        "- Contact: agency, POC"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00872",
+    "name": "Public Procurement RFP",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GSA / OFPP procurement-RFP standards specialist",
+      "task": "Produce a public procurement RFP",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Requirements: specs, service",
+        "- Scoring: price, technical, commercial",
+        "- Terms: payment, warranty",
+        "- Instructions: prep, submission",
+        "- Clarifications: Q&A, addenda"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00873",
+    "name": "Procurement Contract Draft",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US FAR contract-draft template designer",
+      "task": "Produce a procurement contract draft",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Parties: buyer, supplier",
+        "- Items: goods/services list",
+        "- Payment: milestones, invoicing",
+        "- Acceptance: criteria, flow",
+        "- Default: damages, liability"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00874",
+    "name": "Procurement Audit Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO procurement-audit expert",
+      "task": "Produce an evidence-based procurement audit",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Process: bid, evaluation",
+        "- Funds: exec, payment",
+        "- Contracts: performance, acceptance",
+        "- Verdict: compliance, findings",
+        "- Recommendations: policy, oversight"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00875",
+    "name": "Tax Audit Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "IRS audit standards specialist",
+      "task": "Produce a data-rich tax audit report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: target, period",
+        "- Findings: evasion, fake invoices",
+        "- Law: code, penalty rules",
+        "- Decision: back tax, fines, interest",
+        "- Recovery: due, fines"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00876",
+    "name": "Tax Benefit Verification",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "IRS tax-benefit expert",
+      "task": "Produce an accurate tax benefit verification",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Application: type, amount",
+        "- Verification: doc review, site",
+        "- Compliance: criteria, condition",
+        "- Conclusion: agree/deny",
+        "- Ongoing: follow, monitor"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00877",
+    "name": "Tax Policy Explainer",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OECD senior tax-policy advisor",
+      "task": "Produce a tax policy explainer",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Background: reason, aim",
+        "- Scope: taxpayer, sector",
+        "- Provisions: rate, deductions",
+        "- How-To: filing, docs",
+        "- Examples: calc, FAQs"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00878",
+    "name": "Government Financial Budget Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB financial-budget-report standards specialist",
+      "task": "Produce a data-rich government financial budget report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Revenue/Expense: budgets",
+        "- Balance: surplus/deficit",
+        "- Highlights: major projects",
+        "- Appendix: detail, compare",
+        "- Compare: YoY, MoM, budget"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00879",
+    "name": "Government Financial Closing",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Treasury financial-closing standards specialist",
+      "task": "Produce a data-rich government financial closing report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Actuals: income, expense",
+        "- vs Budget: variance, causes",
+        "- Causes: policy, execution",
+        "- Appendix: details, balance sheet",
+        "- Audit: report, corrections"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00880",
+    "name": "Government Financial Audit",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "GAO financial-audit expert",
+      "task": "Produce an evidence-based government financial audit",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Scope: period, target",
+        "- Findings: violations, gaps",
+        "- Opinion: unqualified/qualified/adverse",
+        "- Recommendations: corrections, policy",
+        "- Accountability: direct, leadership"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00881",
+    "name": "Government Research Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "RAND Corporation research-report writer",
+      "task": "Produce a data-rich government research report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Background: topic, purpose",
+        "- Current State: basics, features",
+        "- Issues: barriers, constraints",
+        "- Recommendations: ideas, policy",
+        "- Methods: survey, interviews"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00882",
+    "name": "Government Leader Study Tour Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Bank study-tour report standards specialist",
+      "task": "Produce a data-rich government leader study tour report",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Overview: destination, schedule",
+        "- Practices: best practices, innovation",
+        "- Takeaways: transferable, localization",
+        "- Follow-up: plan, timeline",
+        "- Itinerary: route, exchanges"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00883",
+    "name": "Government Strategic Plan Draft",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OMB strategic-planning expert",
+      "task": "Produce a visionary strategic plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Baseline: state, SWOT",
+        "- Guiding Principles: philosophy, stance",
+        "- Targets: quant, qual",
+        "- Priorities: major projects",
+        "- Safeguards: policy, org"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00884",
+    "name": "Mid-Term Plan Evaluation",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Bank plan-evaluation expert",
+      "task": "Produce a data-rich mid-term plan evaluation",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Progress: tasks, projects",
+        "- Attainment: rates, gaps",
+        "- Issues: challenges, constraints",
+        "- Adjustments: goals, tasks",
+        "- Methods: quant, qual"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00885",
+    "name": "Policy Background Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Brookings Institution policy analyst",
+      "task": "Produce a data-rich policy background analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Policy Origin: context, need",
+        "- Need: socioeconomic, development",
+        "- Theory: econ theory, policy theory",
+        "- International: other countries, lessons",
+        "- Problem-Driven: core issues"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00886",
+    "name": "Policy Recommendations Draft",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Enterprise Institute policy expert",
+      "task": "Produce a policy recommendations draft",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Problem: pain points, difficulty",
+        "- Goals: short, long-term",
+        "- Measures: tools, path",
+        "- Implementation: supports, governance",
+        "- Impact: policy effects, risks",
+        "- Cost: fiscal, social, benefits",
+        "- Stakeholders: groups, interests, consultation"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00887",
+    "name": "International Policy Benchmark",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OECD policy-comparison expert",
+      "task": "Produce an international policy benchmark",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Dimensions: goals, tools",
+        "- Practices: OECD, emerging mkts",
+        "- Differences: institution, outcomes",
+        "- Takeaways: transferable, localization",
+        "- Recommendations: context-fit, innovation"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-07",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00888",
+    "name": "Consumer Complaint Process",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FTC consumer-complaint standards specialist",
+      "task": "Produce a rapid-response consumer complaint process",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Intake: types, jurisdiction",
+        "- Flow: intake, investigate, resolve",
+        "- SLA: intake, resolution",
+        "- Feedback: outcome, CSAT",
+        "- Escalation: complex, higher-up"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00889",
+    "name": "Consumer Dispute Mediation",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FTC / state attorney general consumer dispute-mediation expert",
+      "task": "Produce a fair consumer dispute mediation process",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Principles: voluntary, lawful, fair",
+        "- Flow: apply, intake, mediate, agree",
+        "- Effect: legal, enforceable",
+        "- Termination: fail, withdraw",
+        "- Timeframe: window, extensions"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00890",
+    "name": "Administrative Penalty Decision",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FTC penalty-decision template designer",
+      "task": "Produce a well-structured admin penalty decision",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Party Info: name, address, legal rep",
+        "- Violation: conduct, evidence",
+        "- Basis: statutes, citations",
+        "- Penalty: fine, cease",
+        "- Appeal: review, lawsuit"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00891",
+    "name": "Consumer Warning Notice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CPSC consumer-warning standards specialist",
+      "task": "Produce a consumer warning notice",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Reason: product, violation",
+        "- Risk: hazards, health",
+        "- Prevention: buy advice, use",
+        "- Complaint Lines: hotline, online",
+        "- Distribution: media, official"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00892",
+    "name": "Food Safety Sampling Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FDA food-safety-sampling expert",
+      "task": "Produce a comprehensive food safety sampling plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Items: categories, focus",
+        "- Sample Size: n, method",
+        "- Tests: pesticide, additives, micro",
+        "- Timing: cycle, completion",
+        "- Disposition: pass/fail"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00893",
+    "name": "Food Non-Conformance Disposition",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FDA non-conformance-disposition standards specialist",
+      "task": "Produce a well-grounded food non-conformance disposition",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Product: name, lot, maker",
+        "- Non-conformances: tests, exceedance",
+        "- Disposition: pull, destroy, neutralize",
+        "- Remediation: cause, corrective",
+        "- Recall: area, count"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00894",
+    "name": "Food Safety Risk Assessment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EFSA risk-assessment senior director",
+      "task": "Produce a rigorous food safety risk assessment",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Source: hazards, exposure",
+        "- Exposure: intake, level",
+        "- Tier: H/M/L",
+        "- Recommendations: controls, oversight",
+        "- Uncertainty: data, bias"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00895",
+    "name": "Product Recall Notice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CPSC recall-notice standards specialist",
+      "task": "Produce a complete product recall notice",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Product: name, spec, lots",
+        "- Reason: safety, defect",
+        "- Actions: pull, return, refund",
+        "- Contact: hotline, site",
+        "- Compensation: plan, claim"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00896",
+    "name": "Pharma Safety Oversight Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FDA drug-safety expert",
+      "task": "Produce a full-lifecycle pharma safety oversight plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Targets: makers, distributors",
+        "- Inspections: GMP, QC",
+        "- Sampling: items, tests",
+        "- Response: AE, urgent recall",
+        "- Disclosure: inspection, penalty"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00897",
+    "name": "On-Site Supervisory Exam",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Reserve on-site exam standards specialist",
+      "task": "Produce an in-depth on-site supervisory exam report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Target: institution, scope",
+        "- Scope: compliance, risk",
+        "- Findings: violations, risks",
+        "- Actions: penalty, remediation",
+        "- Requirements: deadline, acceptance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00898",
+    "name": "Off-Site Supervisory Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OCC / Federal Reserve off-site supervision expert",
+      "task": "Produce a data-rich off-site supervisory report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Metrics: CAR, NPL",
+        "- Monitoring: filings, alerts",
+        "- Alerts: signals, watchlist",
+        "- Actions: guidance, on-site exam",
+        "- Trends: KPIs, risk trajectory"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00899",
+    "name": "Financial Institution Risk Rating",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Moody's institution-risk-rating standards specialist",
+      "task": "Produce a clear financial institution risk rating",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Dimensions: CAMELS",
+        "- Scoring: weights, model",
+        "- Result: A/B/C/D",
+        "- Actions: differentiated supervision",
+        "- Adjustment: periodic, dynamic"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00900",
+    "name": "Securities Penalty Decision",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "SEC penalty-review senior officer",
+      "task": "Produce a well-structured securities penalty decision",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Party Info: entity, persons",
+        "- Violation: conduct, amount",
+        "- Basis: laws, rules",
+        "- Penalty: fine, suspend, revoke",
+        "- Enforcement: deadline, monitor"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00901",
+    "name": "Financial Risk Control Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Reserve Board / FSOC risk-control expert",
+      "task": "Produce a financial risk control plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- ID: credit, market, ops",
+        "- Monitoring: indicators, thresholds",
+        "- Handling: mitigation, response",
+        "- Contingency: tail events, plan",
+        "- Owners: regulator, institution"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00902",
+    "name": "Internet Content Review Opinion",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FCC / Section 230 content-review standards specialist",
+      "task": "Produce a content review opinion",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Target: website, app, creator",
+        "- Violations: illegal, harmful",
+        "- Disposition: remove, block, ban",
+        "- Remediation: cleanup, policy",
+        "- Appeal: channel, re-review"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00903",
+    "name": "Cybersecurity Assessment Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CISA cybersecurity assessment specialist",
+      "task": "Produce an evidence-based cybersecurity assessment report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Scope: systems, applications, network segments, and physical assets in scope for the assessment",
+        "- Findings: vulnerability scan results, penetration test outcomes, configuration weaknesses, with CVE references where relevant",
+        "- Risk Rating: severity per finding (Critical / High / Medium / Low) using CVSS, mapped against the NIST Cybersecurity Framework",
+        "- Recommendations: prioritized remediation — patching, hardening, network segmentation, access-control fixes — with owners and target dates",
+        "- Retest Plan: verification method, retest timing, and exit criteria for closing each finding"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00904",
+    "name": "App Privacy Compliance Assessment",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FTC app-compliance expert",
+      "task": "Produce a privacy-focused app compliance assessment",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Permissions: sensitive, excess",
+        "- Privacy Policy: consent, processing",
+        "- Security: code review, vuln",
+        "- Verdict: compliant/not",
+        "- Recommendations: perms, privacy"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00905",
+    "name": "High-Tech Firm Certification Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US NIST MEP high-tech-certification expert",
+      "task": "Produce a high-tech firm certification guide",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Criteria: IP, R&D spend, tech revenue",
+        "- Docs: forms, audits, patents",
+        "- Tips: innovation, transfer",
+        "- Timeline: apply, review"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00906",
+    "name": "Tech Transfer Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Stanford Office of Technology Licensing expert",
+      "task": "Produce a targeted tech transfer plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Tech: name, innovation",
+        "- Path: license, JV, in-house",
+        "- Market: demand, competition",
+        "- Revenue Split: inventor, org",
+        "- Risk: tech, market"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00907",
+    "name": "Pesticide Residue Test Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "FDA pesticide-residue-testing standards specialist",
+      "task": "Produce a precise pesticide residue test report",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Sample: produce, origin, lot",
+        "- Tests: pesticide, method",
+        "- Results: detected, MRL",
+        "- Verdict: pass/fail",
+        "- Standard: MRL per FDA"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00908",
+    "name": "Agri-Traceability Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "USDA / FDA food-traceability system designer",
+      "task": "Produce a traceable agri report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- System: platform, coding",
+        "- Operations: capture, lookup",
+        "- Issues: missing data, broken chain",
+        "- Recommendations: system, flow",
+        "- Integration: w/ national platform"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00909",
+    "name": "Patent Application Narrative",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "USPTO application-guide author",
+      "task": "Produce a patent application narrative",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Invention: field, background",
+        "- Embodiment: implementation, novelty",
+        "- Drawings: schematics, flow",
+        "- Claims: scope, features",
+        "- Abstract: summary, application"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00910",
+    "name": "Trademark Application Narrative",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "WIPO trademark-registration guide author",
+      "task": "Produce a trademark application narrative",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Mark: design, colors",
+        "- Classes: Nice, services",
+        "- Use Evidence: exhibits, fame",
+        "- Flow: formal, substantive",
+        "- Renewal: validity, renewal"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00911",
+    "name": "Copyright Registration Narrative",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Copyright Office registration guide author",
+      "task": "Produce a copyright registration narrative",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Work: title, created date",
+        "- Creation: process, originality",
+        "- Ownership: author, assignment",
+        "- Flow: docs, timing",
+        "- Docs: specimen, ID"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00912",
+    "name": "IP Infringement Opinion",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Federal Circuit IP judge",
+      "task": "Produce an IP infringement opinion",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Comparison: identity/similarity, confusion",
+        "- Law: trademark, patent, copyright",
+        "- Verdict: infringement/not",
+        "- Recommendations: cease, damages",
+        "- Evidence: title, infringement"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00913",
+    "name": "Mine Safety Oversight Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "MSHA safety-oversight expert",
+      "task": "Produce a data-rich mine safety oversight report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Overview: mines, staff",
+        "- Inspections: count, issues",
+        "- Remediation: rate, critical",
+        "- Recommendations: enforcement, tech",
+        "- Incidents: count, casualties"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-08",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00914",
+    "name": "Farmland Protection Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "USDA farmland-protection expert",
+      "task": "Produce a clear-target farmland protection report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Targets: retention, permanent cropland",
+        "- Measures: offsets, quality",
+        "- Issues: illegal use, fallow",
+        "- Verdict: excellent/pass/fail",
+        "- Actions: awards, discipline"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00915",
+    "name": "Land Acquisition Development Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "BLM land-acquisition expert",
+      "task": "Produce a coherent land acquisition development plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Scope: area, parcels",
+        "- Use Plan: zoning, FAR",
+        "- Compensation: standards, relocation",
+        "- Benefits: economic, social",
+        "- Risks: social, environmental"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00916",
+    "name": "Water Allocation Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Bureau of Reclamation water-allocation expert",
+      "task": "Produce a fair water allocation plan",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Principles: fairness, ecology",
+        "- Allocation: domestic, industrial, ecological",
+        "- Operations: wet/dry, rules",
+        "- Monitoring: metering, penalty",
+        "- Adjustments: annual, emergency"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00917",
+    "name": "Water Source Protection Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA source-water protection expert",
+      "task": "Produce a water source protection plan",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Zones: primary, secondary",
+        "- Source Control: industry, agri",
+        "- Monitoring: quality, alerts",
+        "- Emergency: pollution, response",
+        "- Patrols: routine, targeted"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00918",
+    "name": "Water Works Construction Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Army Corps water-works construction expert",
+      "task": "Produce a controlled water works construction report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Overview: project, scale",
+        "- Progress: start, %",
+        "- Quality: standards, controls",
+        "- Spend: budget, use",
+        "- Acceptance: phased, final"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00919",
+    "name": "Marine Environment Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "UN Division for Ocean Affairs and the Law of the Sea expert",
+      "task": "Produce a comprehensive marine environment report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Quality: water, sediment",
+        "- Pollution: land-based, marine",
+        "- Ecology: mangroves, reefs, biodiversity",
+        "- Measures: pollution, restore",
+        "- Trends: improve/worsen"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00920",
+    "name": "Oceanographic Data Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NOAA oceanography expert",
+      "task": "Produce an accurate oceanographic data analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Parameters: temp, salinity, currents, tides",
+        "- Trends: long-term, seasonal",
+        "- Anomalies: extremes, outliers",
+        "- Recommendations: disaster warn",
+        "- Quality: completeness, accuracy"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00921",
+    "name": "EIA Approval",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA EIA-approval standards specialist",
+      "task": "Produce an evidence-based EIA approval",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Overview: name, scope",
+        "- Verdict: impact, compliance",
+        "- Requirements: emissions, controls",
+        "- Decision: approve/deny",
+        "- Notice Response: public input"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00922",
+    "name": "Environmental Inspection Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA Office of Inspector General environmental-inspection lead",
+      "task": "Produce a sharp environmental inspection report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Activity: target, scope",
+        "- Findings: pollution, damage",
+        "- Requirements: actions, deadline",
+        "- Accountability: handling, discipline",
+        "- Outcome: effects, long-run"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00923",
+    "name": "Pollution Source Monitoring Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA pollution-source-monitoring expert",
+      "task": "Produce accurate pollution source monitoring analysis",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Sites: national/state, distribution",
+        "- Concentrations: COD, NH3, SO2, NOx",
+        "- Compliance: rate, exceedance",
+        "- Trend: concentration, emissions",
+        "- Source Attribution: analysis, accountability"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00924",
+    "name": "Ecological Protection Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "UNEP eco-protection expert",
+      "task": "Produce a goal-driven eco-protection plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- State: quality, ecology",
+        "- Targets: PM2.5, clean days, forest cover",
+        "- Priorities: pollution, restoration",
+        "- Safeguards: policy, funds",
+        "- Review: mid-term, final"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00925",
+    "name": "Pollution Prevention Campaign",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA pollution-prevention-campaign lead",
+      "task": "Produce a focused pollution prevention campaign",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Targets: air, water quality",
+        "- Priorities: air, water, soil",
+        "- Owners: agencies, local",
+        "- Reviews: annual, ranking",
+        "- Funds: federal, special"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00926",
+    "name": "Air Quality Improvement Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EPA air-quality improvement expert",
+      "task": "Produce a data-backed improvement report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- AQ Status: AQI, PM2.5/PM10",
+        "- Results: reductions, wins",
+        "- Challenges: ozone, severe days",
+        "- Next Plan: priorities, targets",
+        "- Attainment: annual targets"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00927",
+    "name": "Carbon Accounting Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "IPCC carbon-accounting senior coordinator",
+      "task": "Produce a scientific carbon accounting report",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Scope: Scope 1/2/3",
+        "- Sources: energy, process",
+        "- Emissions: CO2e, by sector",
+        "- Method: emission factor, mass balance",
+        "- Standards: ISO 14064, GHG Protocol"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00928",
+    "name": "Carbon Trading Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "EU ETS senior policy officer",
+      "task": "Produce a defensible plan for participating in a cap-and-trade carbon market",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Allowance Allocation: free allocation vs. auction (EUAs in the EU ETS, allowances in California Cap-and-Trade or RGGI), benchmark methodology",
+        "- Trading: platform (e.g., EEX, ICE), spot vs. futures, internal trading desk vs. broker",
+        "- MRV: monitoring plan, annual emissions report, third-party verification cycle",
+        "- Compliance: surrender deadlines, penalties for shortfall, banking and borrowing rules",
+        "- Offsets: eligible credits (CERs, voluntary VCS / Gold Standard), removals vs. reductions, quality criteria"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00929",
+    "name": "Climate Adaptation Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "UNFCCC adaptation-planning expert",
+      "task": "Produce a resilience-focused climate plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Risk Assessment: climate, vulnerability",
+        "- Goals: capacity, resilience",
+        "- Priorities: infrastructure, agri",
+        "- Safeguards: policy, tech",
+        "- Evaluation: effects, adjust"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  },
+  {
+    "id": "AI³-00930",
+    "name": "Carbon Neutrality Action Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Science Based Targets initiative carbon-neutrality expert",
+      "task": "Produce a targeted carbon neutrality action plan",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Path: energy transition, industry",
+        "- Sinks: forest, ocean",
+        "- Tech: CCUS, new energy",
+        "- Funding: green finance, carbon markets"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "04",
+    "section_name": "Public Affairs & Governance",
+    "category_code": "04-09",
+    "category_path": "04-public"
+  }
+]

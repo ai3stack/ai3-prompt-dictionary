@@ -1,0 +1,79 @@
+name: "✏️ Prompt wording fix"
+description: "Suggest clearer or more natural wording for a specific prompt."
+title: "[Wording] AI³-NNNNN: <short description>"
+labels: ["wording", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve our prompts!
+
+        Please read the [prompt data style guide](../TRANSLATION_GUIDE.md) first.
+
+        **Remember**: prefer the natural US-business term and a real, recognizable role/framework over generic filler.
+
+  - type: input
+    id: prompt_id
+    attributes:
+      label: Prompt ID
+      description: The `AI³-NNNNN` ID of the prompt you want to improve.
+      placeholder: "AI³-00001"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which field needs improvement?
+      options:
+        - name (prompt title)
+        - role (the AI persona)
+        - task (what the AI is asked to do)
+        - framework (structure of the output)
+        - type (one of 10 canonical types)
+        - style / format / search / limits / interaction / check
+        - multiple fields
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current (what's in the repo now)
+      description: Paste the current English text verbatim.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested improvement
+      description: Your proposed replacement text.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: |
+        Why is your version better for a US audience?
+        Examples of strong reasoning:
+        - "In US corporate English, 'expense report' is the canonical term; 'reimbursement application' is wording no one uses."
+        - "This role should reference Andy Grove directly since he invented OKRs; the current generic role is weaker."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I read the prompt data style guide.
+          required: true
+        - label: I'm a native/fluent US English speaker OR I've cross-checked this against real US business writing.
+          required: true
+        - label: My suggestion uses the natural US-business term, not filler.
+          required: true

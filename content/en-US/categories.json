@@ -1,0 +1,4100 @@
+[
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-01",
+    "category_path": "01-core",
+    "prompt_count": 40,
+    "prompts": [
+      {
+        "id": "AI³-00001",
+        "name": "Weekly Report"
+      },
+      {
+        "id": "AI³-00002",
+        "name": "Monthly Report"
+      },
+      {
+        "id": "AI³-00003",
+        "name": "Year-in-Review"
+      },
+      {
+        "id": "AI³-00004",
+        "name": "Self-Review"
+      },
+      {
+        "id": "AI³-00005",
+        "name": "Daily Retrospective"
+      },
+      {
+        "id": "AI³-00006",
+        "name": "Daily Work Log"
+      },
+      {
+        "id": "AI³-00007",
+        "name": "Weekly Plan"
+      },
+      {
+        "id": "AI³-00008",
+        "name": "Monthly Roadmap"
+      },
+      {
+        "id": "AI³-00009",
+        "name": "Quarterly Plan"
+      },
+      {
+        "id": "AI³-00010",
+        "name": "Annual Plan"
+      },
+      {
+        "id": "AI³-00011",
+        "name": "Team Operating Plan"
+      },
+      {
+        "id": "AI³-00012",
+        "name": "Project Schedule"
+      },
+      {
+        "id": "AI³-00013",
+        "name": "Annual Corporate Plan"
+      },
+      {
+        "id": "AI³-00014",
+        "name": "Initiative Plan"
+      },
+      {
+        "id": "AI³-00015",
+        "name": "End-of-Probation Memo"
+      },
+      {
+        "id": "AI³-00016",
+        "name": "Promotion Self-Nomination"
+      },
+      {
+        "id": "AI³-00017",
+        "name": "Two-Week Notice Letter"
+      },
+      {
+        "id": "AI³-00018",
+        "name": "Internal Transfer Request"
+      },
+      {
+        "id": "AI³-00019",
+        "name": "PTO Request"
+      },
+      {
+        "id": "AI³-00020",
+        "name": "Company Announcement"
+      },
+      {
+        "id": "AI³-00021",
+        "name": "Personnel Announcement"
+      },
+      {
+        "id": "AI³-00022",
+        "name": "Meeting Invitation"
+      },
+      {
+        "id": "AI³-00023",
+        "name": "Event Announcement"
+      },
+      {
+        "id": "AI³-00024",
+        "name": "Office Closure Announcement"
+      },
+      {
+        "id": "AI³-00025",
+        "name": "Thank-You Letter"
+      },
+      {
+        "id": "AI³-00026",
+        "name": "Formal Invitation"
+      },
+      {
+        "id": "AI³-00027",
+        "name": "Holiday Message"
+      },
+      {
+        "id": "AI³-00028",
+        "name": "Meeting Speech"
+      },
+      {
+        "id": "AI³-00029",
+        "name": "Meeting Minutes"
+      },
+      {
+        "id": "AI³-00030",
+        "name": "Executive Update Script"
+      },
+      {
+        "id": "AI³-00031",
+        "name": "General Work Update"
+      },
+      {
+        "id": "AI³-00032",
+        "name": "Business Presentation"
+      },
+      {
+        "id": "AI³-00033",
+        "name": "Slide Outline"
+      },
+      {
+        "id": "AI³-00034",
+        "name": "Project Update Deck"
+      },
+      {
+        "id": "AI³-00035",
+        "name": "Product Launch Deck"
+      },
+      {
+        "id": "AI³-00036",
+        "name": "Marketing Strategy Deck"
+      },
+      {
+        "id": "AI³-00037",
+        "name": "General Translation"
+      },
+      {
+        "id": "AI³-00038",
+        "name": "Technical Document Translation"
+      },
+      {
+        "id": "AI³-00039",
+        "name": "Business Letter Translation"
+      },
+      {
+        "id": "AI³-00040",
+        "name": "Cross-Functional Collaboration Memo"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-02",
+    "category_path": "01-core",
+    "prompt_count": 50,
+    "prompts": [
+      {
+        "id": "AI³-00041",
+        "name": "Short-Form Script"
+      },
+      {
+        "id": "AI³-00042",
+        "name": "Voiceover Script"
+      },
+      {
+        "id": "AI³-00043",
+        "name": "Food Review Script"
+      },
+      {
+        "id": "AI³-00044",
+        "name": "Vlog Script"
+      },
+      {
+        "id": "AI³-00045",
+        "name": "Explainer Script"
+      },
+      {
+        "id": "AI³-00046",
+        "name": "Long-Form Documentary Script"
+      },
+      {
+        "id": "AI³-00047",
+        "name": "Documentary Script"
+      },
+      {
+        "id": "AI³-00048",
+        "name": "Micro-Drama Script"
+      },
+      {
+        "id": "AI³-00049",
+        "name": "Lifestyle Note (Instagram/TikTok)"
+      },
+      {
+        "id": "AI³-00050",
+        "name": "Instagram Caption"
+      },
+      {
+        "id": "AI³-00051",
+        "name": "Pinterest Board Description"
+      },
+      {
+        "id": "AI³-00052",
+        "name": "X Post (Short Take)"
+      },
+      {
+        "id": "AI³-00053",
+        "name": "X Thread"
+      },
+      {
+        "id": "AI³-00054",
+        "name": "Facebook Post"
+      },
+      {
+        "id": "AI³-00055",
+        "name": "LinkedIn Post"
+      },
+      {
+        "id": "AI³-00056",
+        "name": "Blog Article"
+      },
+      {
+        "id": "AI³-00057",
+        "name": "Q&A Forum Answer"
+      },
+      {
+        "id": "AI³-00058",
+        "name": "LinkedIn Long-Form"
+      },
+      {
+        "id": "AI³-00059",
+        "name": "Blog Post"
+      },
+      {
+        "id": "AI³-00060",
+        "name": "Community Announcement"
+      },
+      {
+        "id": "AI³-00061",
+        "name": "Social Media Caption"
+      },
+      {
+        "id": "AI³-00062",
+        "name": "Telegram/Discord Channel Post"
+      },
+      {
+        "id": "AI³-00063",
+        "name": "WhatsApp Status"
+      },
+      {
+        "id": "AI³-00064",
+        "name": "Comment Reply Playbook"
+      },
+      {
+        "id": "AI³-00065",
+        "name": "DM Script"
+      },
+      {
+        "id": "AI³-00066",
+        "name": "Social Content Calendar"
+      },
+      {
+        "id": "AI³-00067",
+        "name": "Social Weekly Metrics Report"
+      },
+      {
+        "id": "AI³-00068",
+        "name": "Fan Activation Playbook"
+      },
+      {
+        "id": "AI³-00069",
+        "name": "Creator Partnership Brief"
+      },
+      {
+        "id": "AI³-00070",
+        "name": "Livestream Sales Script"
+      },
+      {
+        "id": "AI³-00071",
+        "name": "Livestream Engagement Script"
+      },
+      {
+        "id": "AI³-00072",
+        "name": "Livestream Opening"
+      },
+      {
+        "id": "AI³-00073",
+        "name": "Livestream Closing"
+      },
+      {
+        "id": "AI³-00074",
+        "name": "Livestream Post-Mortem Report"
+      },
+      {
+        "id": "AI³-00075",
+        "name": "Livestream Giveaway Plan"
+      },
+      {
+        "id": "AI³-00076",
+        "name": "Livestream Theme Plan"
+      },
+      {
+        "id": "AI³-00077",
+        "name": "Brand Tagline"
+      },
+      {
+        "id": "AI³-00078",
+        "name": "Programmatic Ad Copy"
+      },
+      {
+        "id": "AI³-00079",
+        "name": "Flash Sale Copy"
+      },
+      {
+        "id": "AI³-00080",
+        "name": "Promo Campaign Copy"
+      },
+      {
+        "id": "AI³-00081",
+        "name": "Holiday Marketing Copy"
+      },
+      {
+        "id": "AI³-00082",
+        "name": "Product Description"
+      },
+      {
+        "id": "AI³-00083",
+        "name": "Product Selling Points"
+      },
+      {
+        "id": "AI³-00084",
+        "name": "Brand Slogan"
+      },
+      {
+        "id": "AI³-00085",
+        "name": "Brand Positioning"
+      },
+      {
+        "id": "AI³-00086",
+        "name": "Brand Vision"
+      },
+      {
+        "id": "AI³-00087",
+        "name": "Brand Mission"
+      },
+      {
+        "id": "AI³-00088",
+        "name": "Brand Story"
+      },
+      {
+        "id": "AI³-00089",
+        "name": "Brand Campaign Copy"
+      },
+      {
+        "id": "AI³-00090",
+        "name": "Brand Visual Guidelines"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-03",
+    "category_path": "01-core",
+    "prompt_count": 40,
+    "prompts": [
+      {
+        "id": "AI³-00091",
+        "name": "Product Manual"
+      },
+      {
+        "id": "AI³-00092",
+        "name": "Technical Documentation"
+      },
+      {
+        "id": "AI³-00093",
+        "name": "User Guide"
+      },
+      {
+        "id": "AI³-00094",
+        "name": "Product Highlights"
+      },
+      {
+        "id": "AI³-00095",
+        "name": "Product Positioning Doc"
+      },
+      {
+        "id": "AI³-00096",
+        "name": "Pricing Plan"
+      },
+      {
+        "id": "AI³-00097",
+        "name": "Product Roadmap"
+      },
+      {
+        "id": "AI³-00098",
+        "name": "MVP Plan"
+      },
+      {
+        "id": "AI³-00099",
+        "name": "Growth Strategy"
+      },
+      {
+        "id": "AI³-00100",
+        "name": "A/B Test Plan"
+      },
+      {
+        "id": "AI³-00101",
+        "name": "Viral Referral Plan"
+      },
+      {
+        "id": "AI³-00102",
+        "name": "Retention Improvement Plan"
+      },
+      {
+        "id": "AI³-00103",
+        "name": "New-User Acquisition Campaign"
+      },
+      {
+        "id": "AI³-00104",
+        "name": "Product Analytics Report"
+      },
+      {
+        "id": "AI³-00105",
+        "name": "Instrumentation (Event Tracking) Spec"
+      },
+      {
+        "id": "AI³-00106",
+        "name": "User Retention Analysis"
+      },
+      {
+        "id": "AI³-00107",
+        "name": "Conversion Funnel Analysis"
+      },
+      {
+        "id": "AI³-00108",
+        "name": "Metric Framework"
+      },
+      {
+        "id": "AI³-00109",
+        "name": "Content Operations Plan"
+      },
+      {
+        "id": "AI³-00110",
+        "name": "User Incentive System"
+      },
+      {
+        "id": "AI³-00111",
+        "name": "Campaign Operations Plan"
+      },
+      {
+        "id": "AI³-00112",
+        "name": "Community Operations Plan"
+      },
+      {
+        "id": "AI³-00113",
+        "name": "User Segmentation Plan"
+      },
+      {
+        "id": "AI³-00114",
+        "name": "Marketing Campaign Plan"
+      },
+      {
+        "id": "AI³-00115",
+        "name": "Campaign Marketing Plan"
+      },
+      {
+        "id": "AI³-00116",
+        "name": "Campaign Creative Plan"
+      },
+      {
+        "id": "AI³-00117",
+        "name": "Campaign Execution Plan"
+      },
+      {
+        "id": "AI³-00118",
+        "name": "Campaign Budget"
+      },
+      {
+        "id": "AI³-00119",
+        "name": "Campaign Debrief"
+      },
+      {
+        "id": "AI³-00120",
+        "name": "SEO Recommendations"
+      },
+      {
+        "id": "AI³-00121",
+        "name": "SEO Strategy"
+      },
+      {
+        "id": "AI³-00122",
+        "name": "Paid Media Strategy"
+      },
+      {
+        "id": "AI³-00123",
+        "name": "Search Ad Copy"
+      },
+      {
+        "id": "AI³-00124",
+        "name": "Email Marketing Plan"
+      },
+      {
+        "id": "AI³-00125",
+        "name": "Member Email Plan"
+      },
+      {
+        "id": "AI³-00126",
+        "name": "Owned-Email Operations Plan"
+      },
+      {
+        "id": "AI³-00127",
+        "name": "Community Email Plan"
+      },
+      {
+        "id": "AI³-00128",
+        "name": "Corporate Press Release"
+      },
+      {
+        "id": "AI³-00129",
+        "name": "Crisis PR Statement"
+      },
+      {
+        "id": "AI³-00130",
+        "name": "Corporate Wire Release"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-04",
+    "category_path": "01-core",
+    "prompt_count": 47,
+    "prompts": [
+      {
+        "id": "AI³-00131",
+        "name": "Sales Target Model"
+      },
+      {
+        "id": "AI³-00132",
+        "name": "Monthly Sales Quota Breakdown"
+      },
+      {
+        "id": "AI³-00133",
+        "name": "Sales Execution Plan"
+      },
+      {
+        "id": "AI³-00134",
+        "name": "Sales Budget"
+      },
+      {
+        "id": "AI³-00135",
+        "name": "Sales Incentive Plan"
+      },
+      {
+        "id": "AI³-00136",
+        "name": "Sales Training Plan"
+      },
+      {
+        "id": "AI³-00137",
+        "name": "End-to-End Sales Playbook"
+      },
+      {
+        "id": "AI³-00138",
+        "name": "Channel Expansion Plan"
+      },
+      {
+        "id": "AI³-00139",
+        "name": "Enterprise Account Plan"
+      },
+      {
+        "id": "AI³-00140",
+        "name": "Daily Sales Report"
+      },
+      {
+        "id": "AI³-00141",
+        "name": "Monthly Sales Report"
+      },
+      {
+        "id": "AI³-00142",
+        "name": "Sales Performance Analysis"
+      },
+      {
+        "id": "AI³-00143",
+        "name": "Competitive Sales Intelligence Report"
+      },
+      {
+        "id": "AI³-00144",
+        "name": "Sales Script Framework"
+      },
+      {
+        "id": "AI³-00145",
+        "name": "Icebreaker Script"
+      },
+      {
+        "id": "AI³-00146",
+        "name": "Sales Discovery Call"
+      },
+      {
+        "id": "AI³-00147",
+        "name": "Value-Pitch Script"
+      },
+      {
+        "id": "AI³-00148",
+        "name": "Price-Objection Script"
+      },
+      {
+        "id": "AI³-00149",
+        "name": "Closing Script"
+      },
+      {
+        "id": "AI³-00150",
+        "name": "Renewal/Upsell Script"
+      },
+      {
+        "id": "AI³-00151",
+        "name": "Win-Back Script"
+      },
+      {
+        "id": "AI³-00152",
+        "name": "Sales Negotiation Script"
+      },
+      {
+        "id": "AI³-00153",
+        "name": "Sales Negotiation Strategy"
+      },
+      {
+        "id": "AI³-00154",
+        "name": "Customer Data Policy"
+      },
+      {
+        "id": "AI³-00155",
+        "name": "CRM Optimization Plan"
+      },
+      {
+        "id": "AI³-00156",
+        "name": "Customer Value Playbook"
+      },
+      {
+        "id": "AI³-00157",
+        "name": "Customer Lifecycle Plan"
+      },
+      {
+        "id": "AI³-00158",
+        "name": "Customer Support Scripts"
+      },
+      {
+        "id": "AI³-00159",
+        "name": "Support Email Reply"
+      },
+      {
+        "id": "AI³-00160",
+        "name": "Complaint De-Escalation Script"
+      },
+      {
+        "id": "AI³-00161",
+        "name": "Return/Exchange Script"
+      },
+      {
+        "id": "AI³-00162",
+        "name": "Shipping Exception Script"
+      },
+      {
+        "id": "AI³-00163",
+        "name": "Complaint Resolution Script"
+      },
+      {
+        "id": "AI³-00164",
+        "name": "Customer Segmentation Strategy"
+      },
+      {
+        "id": "AI³-00165",
+        "name": "User Tag Framework"
+      },
+      {
+        "id": "AI³-00166",
+        "name": "User Persona Report"
+      },
+      {
+        "id": "AI³-00167",
+        "name": "CSAT Improvement Standards"
+      },
+      {
+        "id": "AI³-00168",
+        "name": "CSAT Survey Design"
+      },
+      {
+        "id": "AI³-00169",
+        "name": "Loyalty Program"
+      },
+      {
+        "id": "AI³-00170",
+        "name": "Dormant-User Reactivation Plan"
+      },
+      {
+        "id": "AI³-00171",
+        "name": "User Research Survey Design"
+      },
+      {
+        "id": "AI³-00172",
+        "name": "UX Improvement Recommendations"
+      },
+      {
+        "id": "AI³-00173",
+        "name": "User Behavior Analysis"
+      },
+      {
+        "id": "AI³-00174",
+        "name": "User Research Report"
+      },
+      {
+        "id": "AI³-00175",
+        "name": "Post-Sale Service Standards"
+      },
+      {
+        "id": "AI³-00176",
+        "name": "Support-Team Performance Plan"
+      },
+      {
+        "id": "AI³-00177",
+        "name": "Job Description"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-05",
+    "category_path": "01-core",
+    "prompt_count": 48,
+    "prompts": [
+      {
+        "id": "AI³-00178",
+        "name": "Job Description"
+      },
+      {
+        "id": "AI³-00179",
+        "name": "Employer-Brand Company Blurb"
+      },
+      {
+        "id": "AI³-00180",
+        "name": "Recruiting Campaign Copy"
+      },
+      {
+        "id": "AI³-00181",
+        "name": "Interview Question Bank"
+      },
+      {
+        "id": "AI³-00182",
+        "name": "Hiring Assessment Design"
+      },
+      {
+        "id": "AI³-00183",
+        "name": "Interview Scorecard"
+      },
+      {
+        "id": "AI³-00184",
+        "name": "Hiring Plan"
+      },
+      {
+        "id": "AI³-00185",
+        "name": "HR Policy Handbook"
+      },
+      {
+        "id": "AI³-00186",
+        "name": "Promotion Process"
+      },
+      {
+        "id": "AI³-00187",
+        "name": "Performance Review System"
+      },
+      {
+        "id": "AI³-00188",
+        "name": "Annual Training Plan"
+      },
+      {
+        "id": "AI³-00189",
+        "name": "Employee Upskilling Plan"
+      },
+      {
+        "id": "AI³-00190",
+        "name": "Training Course Materials"
+      },
+      {
+        "id": "AI³-00191",
+        "name": "Skill-Building Course Design"
+      },
+      {
+        "id": "AI³-00192",
+        "name": "Training Effectiveness Report"
+      },
+      {
+        "id": "AI³-00193",
+        "name": "Competency Model Development"
+      },
+      {
+        "id": "AI³-00194",
+        "name": "KPI Design"
+      },
+      {
+        "id": "AI³-00195",
+        "name": "Performance Review Strategy"
+      },
+      {
+        "id": "AI³-00196",
+        "name": "KPI Management Plan"
+      },
+      {
+        "id": "AI³-00197",
+        "name": "OKR Planning"
+      },
+      {
+        "id": "AI³-00198",
+        "name": "OKR Operating System"
+      },
+      {
+        "id": "AI³-00199",
+        "name": "OKR Performance Review"
+      },
+      {
+        "id": "AI³-00200",
+        "name": "Performance Review Report"
+      },
+      {
+        "id": "AI³-00201",
+        "name": "Performance Improvement Plan (PIP)"
+      },
+      {
+        "id": "AI³-00202",
+        "name": "Compensation Framework"
+      },
+      {
+        "id": "AI³-00203",
+        "name": "Compensation Plan"
+      },
+      {
+        "id": "AI³-00204",
+        "name": "Annual Merit Cycle"
+      },
+      {
+        "id": "AI³-00205",
+        "name": "Stock Option Plan"
+      },
+      {
+        "id": "AI³-00206",
+        "name": "Employee Benefits Plan"
+      },
+      {
+        "id": "AI³-00207",
+        "name": "Exit Interview Strategy"
+      },
+      {
+        "id": "AI³-00208",
+        "name": "Employee Care Letter"
+      },
+      {
+        "id": "AI³-00209",
+        "name": "Employee Engagement Plan"
+      },
+      {
+        "id": "AI³-00210",
+        "name": "Employee Handbook"
+      },
+      {
+        "id": "AI³-00211",
+        "name": "Offboarding Checklist"
+      },
+      {
+        "id": "AI³-00212",
+        "name": "Work Handoff Plan"
+      },
+      {
+        "id": "AI³-00213",
+        "name": "Resignation Letter"
+      },
+      {
+        "id": "AI³-00214",
+        "name": "Farewell Email"
+      },
+      {
+        "id": "AI³-00215",
+        "name": "Resume Revamp"
+      },
+      {
+        "id": "AI³-00216",
+        "name": "Cover Letter"
+      },
+      {
+        "id": "AI³-00217",
+        "name": "Career Plan"
+      },
+      {
+        "id": "AI³-00218",
+        "name": "Career Direction Analysis"
+      },
+      {
+        "id": "AI³-00219",
+        "name": "Career Skill Map"
+      },
+      {
+        "id": "AI³-00220",
+        "name": "Promotion/Raise Conversation"
+      },
+      {
+        "id": "AI³-00221",
+        "name": "Internal Role Pitch"
+      },
+      {
+        "id": "AI³-00222",
+        "name": "Side-Hustle Evaluation"
+      },
+      {
+        "id": "AI³-00223",
+        "name": "Career-Pivot Risk Assessment"
+      },
+      {
+        "id": "AI³-00224",
+        "name": "Career Transition Plan"
+      },
+      {
+        "id": "AI³-00225",
+        "name": "Personal Brand Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-06",
+    "category_path": "01-core",
+    "prompt_count": 26,
+    "prompts": [
+      {
+        "id": "AI³-00226",
+        "name": "Project Proposal"
+      },
+      {
+        "id": "AI³-00227",
+        "name": "Feasibility Study"
+      },
+      {
+        "id": "AI³-00228",
+        "name": "Project Charter"
+      },
+      {
+        "id": "AI³-00229",
+        "name": "Project Schedule"
+      },
+      {
+        "id": "AI³-00230",
+        "name": "Project Cost Management Plan"
+      },
+      {
+        "id": "AI³-00231",
+        "name": "Project Quality Plan"
+      },
+      {
+        "id": "AI³-00232",
+        "name": "Project Risk Plan"
+      },
+      {
+        "id": "AI³-00233",
+        "name": "Project Comms Plan"
+      },
+      {
+        "id": "AI³-00234",
+        "name": "Project Kickoff Plan"
+      },
+      {
+        "id": "AI³-00235",
+        "name": "Project Team Org Plan"
+      },
+      {
+        "id": "AI³-00236",
+        "name": "Project Execution Plan"
+      },
+      {
+        "id": "AI³-00237",
+        "name": "Project Status Report"
+      },
+      {
+        "id": "AI³-00238",
+        "name": "Project Quality Control Report"
+      },
+      {
+        "id": "AI³-00239",
+        "name": "Project Cost Control Report"
+      },
+      {
+        "id": "AI³-00240",
+        "name": "Project Procurement Report"
+      },
+      {
+        "id": "AI³-00241",
+        "name": "Project Performance Report"
+      },
+      {
+        "id": "AI³-00242",
+        "name": "Project Weekly Report"
+      },
+      {
+        "id": "AI³-00243",
+        "name": "Project Monthly Report"
+      },
+      {
+        "id": "AI³-00244",
+        "name": "Project Closeout Plan"
+      },
+      {
+        "id": "AI³-00245",
+        "name": "Project Acceptance Report"
+      },
+      {
+        "id": "AI³-00246",
+        "name": "Customer Delivery Plan"
+      },
+      {
+        "id": "AI³-00247",
+        "name": "Project Results Report"
+      },
+      {
+        "id": "AI³-00248",
+        "name": "Project Retrospective"
+      },
+      {
+        "id": "AI³-00249",
+        "name": "Project Summary Report"
+      },
+      {
+        "id": "AI³-00250",
+        "name": "Project Financial Closeout"
+      },
+      {
+        "id": "AI³-00251",
+        "name": "Team Disband Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-07",
+    "category_path": "01-core",
+    "prompt_count": 31,
+    "prompts": [
+      {
+        "id": "AI³-00252",
+        "name": "Corporate Strategy"
+      },
+      {
+        "id": "AI³-00253",
+        "name": "Strategy Cascade"
+      },
+      {
+        "id": "AI³-00254",
+        "name": "Five-Year Plan"
+      },
+      {
+        "id": "AI³-00255",
+        "name": "Vision & Mission"
+      },
+      {
+        "id": "AI³-00256",
+        "name": "Business Model Design"
+      },
+      {
+        "id": "AI³-00257",
+        "name": "Corporate Growth Plan"
+      },
+      {
+        "id": "AI³-00258",
+        "name": "Global Expansion Plan"
+      },
+      {
+        "id": "AI³-00259",
+        "name": "Enterprise AI Strategy"
+      },
+      {
+        "id": "AI³-00260",
+        "name": "SWOT Analysis"
+      },
+      {
+        "id": "AI³-00261",
+        "name": "Decision Tree"
+      },
+      {
+        "id": "AI³-00262",
+        "name": "Option Comparison"
+      },
+      {
+        "id": "AI³-00263",
+        "name": "Strategic Option Evaluation"
+      },
+      {
+        "id": "AI³-00264",
+        "name": "Competitor Analysis"
+      },
+      {
+        "id": "AI³-00265",
+        "name": "Cost-Benefit Analysis"
+      },
+      {
+        "id": "AI³-00266",
+        "name": "Market Risk Assessment"
+      },
+      {
+        "id": "AI³-00267",
+        "name": "ESG Report"
+      },
+      {
+        "id": "AI³-00268",
+        "name": "Executive Review Report"
+      },
+      {
+        "id": "AI³-00269",
+        "name": "Strategic Partnership Agreement"
+      },
+      {
+        "id": "AI³-00270",
+        "name": "Culture Program"
+      },
+      {
+        "id": "AI³-00271",
+        "name": "External Corporate Statement"
+      },
+      {
+        "id": "AI³-00272",
+        "name": "IPO Plan"
+      },
+      {
+        "id": "AI³-00273",
+        "name": "M&A Proposal"
+      },
+      {
+        "id": "AI³-00274",
+        "name": "Executive Comp Plan"
+      },
+      {
+        "id": "AI³-00275",
+        "name": "Investor Relations Package"
+      },
+      {
+        "id": "AI³-00276",
+        "name": "Due Diligence Report"
+      },
+      {
+        "id": "AI³-00277",
+        "name": "Board Minutes"
+      },
+      {
+        "id": "AI³-00278",
+        "name": "Chair's Address"
+      },
+      {
+        "id": "AI³-00279",
+        "name": "CEO Annual Report"
+      },
+      {
+        "id": "AI³-00280",
+        "name": "CEO Letter to Stakeholders"
+      },
+      {
+        "id": "AI³-00281",
+        "name": "Group Memo"
+      },
+      {
+        "id": "AI³-00282",
+        "name": "Executive Keynote"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-08",
+    "category_path": "01-core",
+    "prompt_count": 9,
+    "prompts": [
+      {
+        "id": "AI³-00283",
+        "name": "Startup Business Plan"
+      },
+      {
+        "id": "AI³-00284",
+        "name": "Startup Feasibility Study"
+      },
+      {
+        "id": "AI³-00285",
+        "name": "Startup Market Analysis"
+      },
+      {
+        "id": "AI³-00286",
+        "name": "Pitch Deck Copy"
+      },
+      {
+        "id": "AI³-00287",
+        "name": "Business Model Refinement"
+      },
+      {
+        "id": "AI³-00288",
+        "name": "Pricing Strategy"
+      },
+      {
+        "id": "AI³-00289",
+        "name": "Startup Profit Model"
+      },
+      {
+        "id": "AI³-00290",
+        "name": "Startup Growth Plan"
+      },
+      {
+        "id": "AI³-00291",
+        "name": "Startup Cash Use Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-09",
+    "category_path": "01-core",
+    "prompt_count": 19,
+    "prompts": [
+      {
+        "id": "AI³-00292",
+        "name": "Excel Formula Generator"
+      },
+      {
+        "id": "AI³-00293",
+        "name": "Statistical Metric Calculation"
+      },
+      {
+        "id": "AI³-00294",
+        "name": "Investment Return Calculation"
+      },
+      {
+        "id": "AI³-00295",
+        "name": "ROI Calculation"
+      },
+      {
+        "id": "AI³-00296",
+        "name": "Budget Spreadsheet Design"
+      },
+      {
+        "id": "AI³-00297",
+        "name": "Chart Type Recommendation"
+      },
+      {
+        "id": "AI³-00298",
+        "name": "Bar Chart Spec"
+      },
+      {
+        "id": "AI³-00299",
+        "name": "Line Chart Spec"
+      },
+      {
+        "id": "AI³-00300",
+        "name": "Pie Chart Spec"
+      },
+      {
+        "id": "AI³-00301",
+        "name": "Data Dashboard Design"
+      },
+      {
+        "id": "AI³-00302",
+        "name": "Chart Trend Analysis"
+      },
+      {
+        "id": "AI³-00303",
+        "name": "Correlation Analysis"
+      },
+      {
+        "id": "AI³-00304",
+        "name": "Data Insight Analysis"
+      },
+      {
+        "id": "AI³-00305",
+        "name": "Attribution Analysis"
+      },
+      {
+        "id": "AI³-00306",
+        "name": "Generic Data Analytics Report"
+      },
+      {
+        "id": "AI³-00307",
+        "name": "Financial Analysis Report"
+      },
+      {
+        "id": "AI³-00308",
+        "name": "Competitor Deep Dive"
+      },
+      {
+        "id": "AI³-00309",
+        "name": "Market Analysis Report"
+      },
+      {
+        "id": "AI³-00310",
+        "name": "User Analytics Report"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-10",
+    "category_path": "01-core",
+    "prompt_count": 23,
+    "prompts": [
+      {
+        "id": "AI³-00311",
+        "name": "Color Palette Recommendation"
+      },
+      {
+        "id": "AI³-00312",
+        "name": "Font Pairing Recommendation"
+      },
+      {
+        "id": "AI³-00313",
+        "name": "Image Design Specs"
+      },
+      {
+        "id": "AI³-00314",
+        "name": "UI Design Spec"
+      },
+      {
+        "id": "AI³-00315",
+        "name": "Logo Design Brief"
+      },
+      {
+        "id": "AI³-00316",
+        "name": "Mobile App UI Spec"
+      },
+      {
+        "id": "AI³-00317",
+        "name": "Mini-Program UI Spec"
+      },
+      {
+        "id": "AI³-00318",
+        "name": "Website UI Spec"
+      },
+      {
+        "id": "AI³-00319",
+        "name": "Admin Dashboard UI Spec"
+      },
+      {
+        "id": "AI³-00320",
+        "name": "Midjourney Prompt"
+      },
+      {
+        "id": "AI³-00321",
+        "name": "DALL·E Prompt"
+      },
+      {
+        "id": "AI³-00322",
+        "name": "Stable Diffusion Prompt"
+      },
+      {
+        "id": "AI³-00323",
+        "name": "Product Image Prompt"
+      },
+      {
+        "id": "AI³-00324",
+        "name": "Poster Prompt"
+      },
+      {
+        "id": "AI³-00325",
+        "name": "Illustration Prompt"
+      },
+      {
+        "id": "AI³-00326",
+        "name": "Promo Poster Brief"
+      },
+      {
+        "id": "AI³-00327",
+        "name": "Ad Creative Brief"
+      },
+      {
+        "id": "AI³-00328",
+        "name": "E-commerce Hero Image Brief"
+      },
+      {
+        "id": "AI³-00329",
+        "name": "Product Detail Page Brief"
+      },
+      {
+        "id": "AI³-00330",
+        "name": "Character Design Brief"
+      },
+      {
+        "id": "AI³-00331",
+        "name": "Scene Description"
+      },
+      {
+        "id": "AI³-00332",
+        "name": "Interior Design Brief"
+      },
+      {
+        "id": "AI³-00333",
+        "name": "Outfit Recommendations"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-11",
+    "category_path": "01-core",
+    "prompt_count": 10,
+    "prompts": [
+      {
+        "id": "AI³-00334",
+        "name": "Voiceover Script"
+      },
+      {
+        "id": "AI³-00335",
+        "name": "Narration Copy"
+      },
+      {
+        "id": "AI³-00336",
+        "name": "Podcast Episode Script"
+      },
+      {
+        "id": "AI³-00337",
+        "name": "Multi-Character VO Script"
+      },
+      {
+        "id": "AI³-00338",
+        "name": "Audiobook VO Script"
+      },
+      {
+        "id": "AI³-00339",
+        "name": "Music Style Description"
+      },
+      {
+        "id": "AI³-00340",
+        "name": "Mood-Music Matching"
+      },
+      {
+        "id": "AI³-00341",
+        "name": "Background Music Picks"
+      },
+      {
+        "id": "AI³-00342",
+        "name": "Podcast Show Notes"
+      },
+      {
+        "id": "AI³-00343",
+        "name": "Video Music Scoring Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "01",
+    "section_name": "Core & General",
+    "category_code": "01-12",
+    "category_path": "01-core",
+    "prompt_count": 5,
+    "prompts": [
+      {
+        "id": "AI³-00344",
+        "name": "Sensitive Word Filter"
+      },
+      {
+        "id": "AI³-00345",
+        "name": "Output Compliance Check"
+      },
+      {
+        "id": "AI³-00346",
+        "name": "Refusal Response List"
+      },
+      {
+        "id": "AI³-00347",
+        "name": "PII Masking Instructions"
+      },
+      {
+        "id": "AI³-00348",
+        "name": "Privacy Policy"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-01",
+    "category_path": "02-industry",
+    "prompt_count": 43,
+    "prompts": [
+      {
+        "id": "AI³-00349",
+        "name": "Production Schedule (Excel)"
+      },
+      {
+        "id": "AI³-00350",
+        "name": "Production Plan"
+      },
+      {
+        "id": "AI³-00351",
+        "name": "Production Attainment Report"
+      },
+      {
+        "id": "AI³-00352",
+        "name": "Capacity Expansion Plan"
+      },
+      {
+        "id": "AI³-00353",
+        "name": "Production Dispatch Plan"
+      },
+      {
+        "id": "AI³-00354",
+        "name": "Work Instruction"
+      },
+      {
+        "id": "AI³-00355",
+        "name": "SOP"
+      },
+      {
+        "id": "AI³-00356",
+        "name": "Material Requirements Plan (MRP)"
+      },
+      {
+        "id": "AI³-00357",
+        "name": "Production Scheduling Optimization"
+      },
+      {
+        "id": "AI³-00358",
+        "name": "Capacity Bottleneck Analysis"
+      },
+      {
+        "id": "AI³-00359",
+        "name": "Quality Inspection Standards"
+      },
+      {
+        "id": "AI³-00360",
+        "name": "Quality Report"
+      },
+      {
+        "id": "AI³-00361",
+        "name": "Kaizen Proposal"
+      },
+      {
+        "id": "AI³-00362",
+        "name": "8D Report"
+      },
+      {
+        "id": "AI³-00363",
+        "name": "Quality 8D Remediation"
+      },
+      {
+        "id": "AI³-00364",
+        "name": "Quality Control Test Report"
+      },
+      {
+        "id": "AI³-00365",
+        "name": "Quality Data Analysis"
+      },
+      {
+        "id": "AI³-00366",
+        "name": "Quality Incident Root-Cause Analysis"
+      },
+      {
+        "id": "AI³-00367",
+        "name": "Process Optimization"
+      },
+      {
+        "id": "AI³-00368",
+        "name": "Quality Strike Team Plan"
+      },
+      {
+        "id": "AI³-00369",
+        "name": "EHS Training Material"
+      },
+      {
+        "id": "AI³-00370",
+        "name": "ISO Certification Plan"
+      },
+      {
+        "id": "AI³-00371",
+        "name": "Inbound Workflow"
+      },
+      {
+        "id": "AI³-00372",
+        "name": "Outbound Management Policy"
+      },
+      {
+        "id": "AI³-00373",
+        "name": "Warehouse Optimization Plan"
+      },
+      {
+        "id": "AI³-00374",
+        "name": "Slot Optimization Plan"
+      },
+      {
+        "id": "AI³-00375",
+        "name": "Freight Plan"
+      },
+      {
+        "id": "AI³-00376",
+        "name": "Fleet Scorecard"
+      },
+      {
+        "id": "AI³-00377",
+        "name": "Last-Mile Delivery Strategy"
+      },
+      {
+        "id": "AI³-00378",
+        "name": "Reverse Logistics Returns Workflow"
+      },
+      {
+        "id": "AI³-00379",
+        "name": "Inventory Analysis Report"
+      },
+      {
+        "id": "AI³-00380",
+        "name": "Purchase Plan"
+      },
+      {
+        "id": "AI³-00381",
+        "name": "Procurement Cost Analysis"
+      },
+      {
+        "id": "AI³-00382",
+        "name": "Vendor Scorecard"
+      },
+      {
+        "id": "AI³-00383",
+        "name": "Vendor Qualification Report"
+      },
+      {
+        "id": "AI³-00384",
+        "name": "Vendor Delivery Analysis"
+      },
+      {
+        "id": "AI³-00385",
+        "name": "Vendor Scorecard Policy"
+      },
+      {
+        "id": "AI³-00386",
+        "name": "Purchase Contract"
+      },
+      {
+        "id": "AI³-00387",
+        "name": "Procurement Negotiation Strategy"
+      },
+      {
+        "id": "AI³-00388",
+        "name": "Procurement Flow Optimization"
+      },
+      {
+        "id": "AI³-00389",
+        "name": "Supply Chain Analysis"
+      },
+      {
+        "id": "AI³-00390",
+        "name": "Vendor Collaboration Plan"
+      },
+      {
+        "id": "AI³-00391",
+        "name": "Smart Sortation System Ops Guide"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-02",
+    "category_path": "02-industry",
+    "prompt_count": 27,
+    "prompts": [
+      {
+        "id": "AI³-00392",
+        "name": "Menu Copy"
+      },
+      {
+        "id": "AI³-00393",
+        "name": "Menu Photography Brief"
+      },
+      {
+        "id": "AI³-00394",
+        "name": "Restaurant Cost Analysis"
+      },
+      {
+        "id": "AI³-00395",
+        "name": "Restaurant Hygiene Policy"
+      },
+      {
+        "id": "AI³-00396",
+        "name": "Restaurant HR Policy"
+      },
+      {
+        "id": "AI³-00397",
+        "name": "Restaurant Operating Plan"
+      },
+      {
+        "id": "AI³-00398",
+        "name": "Service Standards"
+      },
+      {
+        "id": "AI³-00399",
+        "name": "Server Training Manual"
+      },
+      {
+        "id": "AI³-00400",
+        "name": "Restaurant Grand-Opening Marketing Plan"
+      },
+      {
+        "id": "AI³-00401",
+        "name": "Restaurant Campaign Plan"
+      },
+      {
+        "id": "AI³-00402",
+        "name": "Room Status Workflow"
+      },
+      {
+        "id": "AI³-00403",
+        "name": "Hotel Digital Transformation Plan"
+      },
+      {
+        "id": "AI³-00404",
+        "name": "Guest Review Management"
+      },
+      {
+        "id": "AI³-00405",
+        "name": "Room Service Standards"
+      },
+      {
+        "id": "AI³-00406",
+        "name": "Front-Desk Etiquette"
+      },
+      {
+        "id": "AI³-00407",
+        "name": "Complaint Resolution Policy"
+      },
+      {
+        "id": "AI³-00408",
+        "name": "Hotel Safety Plan"
+      },
+      {
+        "id": "AI³-00409",
+        "name": "Loyalty Program Design"
+      },
+      {
+        "id": "AI³-00410",
+        "name": "Hotel Crisis Comms"
+      },
+      {
+        "id": "AI³-00411",
+        "name": "Hotel Operating Plan"
+      },
+      {
+        "id": "AI³-00412",
+        "name": "Hotel Service Flow"
+      },
+      {
+        "id": "AI³-00413",
+        "name": "Sanitation Policy"
+      },
+      {
+        "id": "AI³-00414",
+        "name": "Food Safety Policy"
+      },
+      {
+        "id": "AI³-00415",
+        "name": "Food Safety Checklist"
+      },
+      {
+        "id": "AI³-00416",
+        "name": "Food Safety Training Plan"
+      },
+      {
+        "id": "AI³-00417",
+        "name": "Food Safety Self-Audit Report"
+      },
+      {
+        "id": "AI³-00418",
+        "name": "Food Safety Incident Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-03",
+    "category_path": "02-industry",
+    "prompt_count": 39,
+    "prompts": [
+      {
+        "id": "AI³-00419",
+        "name": "Lesson Plan"
+      },
+      {
+        "id": "AI³-00420",
+        "name": "Interdisciplinary Unit Plan"
+      },
+      {
+        "id": "AI³-00421",
+        "name": "Homework Assignment"
+      },
+      {
+        "id": "AI³-00422",
+        "name": "Test Design"
+      },
+      {
+        "id": "AI³-00423",
+        "name": "Exam Blueprint"
+      },
+      {
+        "id": "AI³-00424",
+        "name": "Score Analysis Report"
+      },
+      {
+        "id": "AI³-00425",
+        "name": "Teacher Evaluation Framework"
+      },
+      {
+        "id": "AI³-00426",
+        "name": "Teaching Research Plan"
+      },
+      {
+        "id": "AI³-00427",
+        "name": "Classroom Management Plan"
+      },
+      {
+        "id": "AI³-00428",
+        "name": "Parent-Teacher Conference"
+      },
+      {
+        "id": "AI³-00429",
+        "name": "Student Portfolio"
+      },
+      {
+        "id": "AI³-00430",
+        "name": "Teaching Reflection"
+      },
+      {
+        "id": "AI³-00431",
+        "name": "School Development Plan"
+      },
+      {
+        "id": "AI³-00432",
+        "name": "Professional Development Plan"
+      },
+      {
+        "id": "AI³-00433",
+        "name": "Curriculum Mapping"
+      },
+      {
+        "id": "AI³-00434",
+        "name": "Standards-Aligned Unit"
+      },
+      {
+        "id": "AI³-00435",
+        "name": "Assessment Plan"
+      },
+      {
+        "id": "AI³-00436",
+        "name": "RTI/MTSS Plan"
+      },
+      {
+        "id": "AI³-00437",
+        "name": "Gifted Program Plan"
+      },
+      {
+        "id": "AI³-00438",
+        "name": "CTE Curriculum Design"
+      },
+      {
+        "id": "AI³-00439",
+        "name": "Workforce Training Program"
+      },
+      {
+        "id": "AI³-00440",
+        "name": "CTE Assessment Plan"
+      },
+      {
+        "id": "AI³-00441",
+        "name": "Online Course Design"
+      },
+      {
+        "id": "AI³-00442",
+        "name": "Online Course Video Spec"
+      },
+      {
+        "id": "AI³-00443",
+        "name": "K-12 Online Tutoring Lesson"
+      },
+      {
+        "id": "AI³-00444",
+        "name": "Online Assessment Item Bank"
+      },
+      {
+        "id": "AI³-00445",
+        "name": "Online Interaction Design"
+      },
+      {
+        "id": "AI³-00446",
+        "name": "Online Learning Path Design"
+      },
+      {
+        "id": "AI³-00447",
+        "name": "Online Student FAQ Doc"
+      },
+      {
+        "id": "AI³-00448",
+        "name": "Online Learning Engagement Plan"
+      },
+      {
+        "id": "AI³-00449",
+        "name": "Online Learner Feedback Analysis"
+      },
+      {
+        "id": "AI³-00450",
+        "name": "Course Landing Page Copy"
+      },
+      {
+        "id": "AI³-00451",
+        "name": "Online Course Trailer Brief"
+      },
+      {
+        "id": "AI³-00452",
+        "name": "Special-Ed Assistive Strategy"
+      },
+      {
+        "id": "AI³-00453",
+        "name": "Special-Ed Plan"
+      },
+      {
+        "id": "AI³-00454",
+        "name": "Inclusive Education Plan"
+      },
+      {
+        "id": "AI³-00455",
+        "name": "Special-Ed Communication Script"
+      },
+      {
+        "id": "AI³-00456",
+        "name": "IEP"
+      },
+      {
+        "id": "AI³-00457",
+        "name": "Special-Ed Evaluation Report"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-04",
+    "category_path": "02-industry",
+    "prompt_count": 32,
+    "prompts": [
+      {
+        "id": "AI³-00458",
+        "name": "Chart Note Summary"
+      },
+      {
+        "id": "AI³-00459",
+        "name": "Patient Communication Note"
+      },
+      {
+        "id": "AI³-00460",
+        "name": "Rx / Order Explanation"
+      },
+      {
+        "id": "AI³-00461",
+        "name": "Clinical Literature Summary"
+      },
+      {
+        "id": "AI³-00462",
+        "name": "Clinical Literature Review"
+      },
+      {
+        "id": "AI³-00463",
+        "name": "Health-Check Report Interpretation"
+      },
+      {
+        "id": "AI³-00464",
+        "name": "Clinical Pathway"
+      },
+      {
+        "id": "AI³-00465",
+        "name": "Clinical Practice Guideline"
+      },
+      {
+        "id": "AI³-00466",
+        "name": "Nursing Care Plan"
+      },
+      {
+        "id": "AI³-00467",
+        "name": "Rehab Plan"
+      },
+      {
+        "id": "AI³-00468",
+        "name": "Follow-Up Plan"
+      },
+      {
+        "id": "AI³-00469",
+        "name": "Healthy Meal Plan"
+      },
+      {
+        "id": "AI³-00470",
+        "name": "Wellness Plan"
+      },
+      {
+        "id": "AI³-00471",
+        "name": "Sports Rehab Recommendations"
+      },
+      {
+        "id": "AI³-00472",
+        "name": "Rehab Exercise Plan"
+      },
+      {
+        "id": "AI³-00473",
+        "name": "Integrative Medicine Plan"
+      },
+      {
+        "id": "AI³-00474",
+        "name": "Chronic Disease Management Guidance"
+      },
+      {
+        "id": "AI³-00475",
+        "name": "Chronic Care Program"
+      },
+      {
+        "id": "AI³-00476",
+        "name": "Health Risk Assessment"
+      },
+      {
+        "id": "AI³-00477",
+        "name": "Health Screening Package"
+      },
+      {
+        "id": "AI³-00478",
+        "name": "Health Intervention Plan"
+      },
+      {
+        "id": "AI³-00479",
+        "name": "Patient Education Doc"
+      },
+      {
+        "id": "AI³-00480",
+        "name": "Patient Education Copy"
+      },
+      {
+        "id": "AI³-00481",
+        "name": "Health Mgmt Service Package"
+      },
+      {
+        "id": "AI³-00482",
+        "name": "Hospital Policy Manual"
+      },
+      {
+        "id": "AI³-00483",
+        "name": "Patient Safety Policy"
+      },
+      {
+        "id": "AI³-00484",
+        "name": "Medical Quality Report"
+      },
+      {
+        "id": "AI³-00485",
+        "name": "Clinician Performance Plan"
+      },
+      {
+        "id": "AI³-00486",
+        "name": "DRG/DIP Reform Proposal"
+      },
+      {
+        "id": "AI³-00487",
+        "name": "Compliance Checklist"
+      },
+      {
+        "id": "AI³-00488",
+        "name": "Malpractice Resolution Plan"
+      },
+      {
+        "id": "AI³-00489",
+        "name": "Hospital Accreditation Package"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-05",
+    "category_path": "02-industry",
+    "prompt_count": 37,
+    "prompts": [
+      {
+        "id": "AI³-00490",
+        "name": "Credit Analysis Report"
+      },
+      {
+        "id": "AI³-00491",
+        "name": "Loan Report"
+      },
+      {
+        "id": "AI³-00492",
+        "name": "Credit Approval Report"
+      },
+      {
+        "id": "AI³-00493",
+        "name": "Loan Risk Assessment"
+      },
+      {
+        "id": "AI³-00494",
+        "name": "Credit Risk Scoring"
+      },
+      {
+        "id": "AI³-00495",
+        "name": "Loan Risk Management Plan"
+      },
+      {
+        "id": "AI³-00496",
+        "name": "Loan Approval Opinion"
+      },
+      {
+        "id": "AI³-00497",
+        "name": "Post-Loan Management Report"
+      },
+      {
+        "id": "AI³-00498",
+        "name": "Loan Product Design"
+      },
+      {
+        "id": "AI³-00499",
+        "name": "Investment Market Report"
+      },
+      {
+        "id": "AI³-00500",
+        "name": "Asset Allocation Plan"
+      },
+      {
+        "id": "AI³-00501",
+        "name": "Portfolio Construction"
+      },
+      {
+        "id": "AI³-00502",
+        "name": "Investment Recommendation"
+      },
+      {
+        "id": "AI³-00503",
+        "name": "Fund Summary"
+      },
+      {
+        "id": "AI³-00504",
+        "name": "Industry Research Framework"
+      },
+      {
+        "id": "AI³-00505",
+        "name": "Due Diligence Checklist"
+      },
+      {
+        "id": "AI³-00506",
+        "name": "Cash Flow Interpretation"
+      },
+      {
+        "id": "AI³-00507",
+        "name": "Insurance Policy Walkthrough"
+      },
+      {
+        "id": "AI³-00508",
+        "name": "Claims Communication Script"
+      },
+      {
+        "id": "AI³-00509",
+        "name": "Insurance Claims Report"
+      },
+      {
+        "id": "AI³-00510",
+        "name": "Policy Coverage Analysis"
+      },
+      {
+        "id": "AI³-00511",
+        "name": "Insurance Product Bundle"
+      },
+      {
+        "id": "AI³-00512",
+        "name": "Insurance Marketing Plan"
+      },
+      {
+        "id": "AI³-00513",
+        "name": "Bank Liquidity Risk Model"
+      },
+      {
+        "id": "AI³-00514",
+        "name": "Bank Capital Structure Optimization"
+      },
+      {
+        "id": "AI³-00515",
+        "name": "Bank Asset Quality Analysis"
+      },
+      {
+        "id": "AI³-00516",
+        "name": "Bank Bond Portfolio Optimization"
+      },
+      {
+        "id": "AI³-00517",
+        "name": "Bank Ops Cost Reduction Plan"
+      },
+      {
+        "id": "AI³-00518",
+        "name": "Bank Risk Cost Management"
+      },
+      {
+        "id": "AI³-00519",
+        "name": "Bank Tech ROI Analysis"
+      },
+      {
+        "id": "AI³-00520",
+        "name": "Bank Financial Risk Early Warning"
+      },
+      {
+        "id": "AI³-00521",
+        "name": "Bank Profit Distribution Strategy"
+      },
+      {
+        "id": "AI³-00522",
+        "name": "Bank Profit Growth Plan"
+      },
+      {
+        "id": "AI³-00523",
+        "name": "Smart Contract Generation"
+      },
+      {
+        "id": "AI³-00524",
+        "name": "On-Chain Data Analytics"
+      },
+      {
+        "id": "AI³-00525",
+        "name": "Cross-Chain Asset Transfer Guide"
+      },
+      {
+        "id": "AI³-00526",
+        "name": "Decentralized Identity Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-06",
+    "category_path": "02-industry",
+    "prompt_count": 20,
+    "prompts": [
+      {
+        "id": "AI³-00527",
+        "name": "Reporter Interview Guide"
+      },
+      {
+        "id": "AI³-00528",
+        "name": "Deep-Dive News Plan"
+      },
+      {
+        "id": "AI³-00529",
+        "name": "Series News Plan"
+      },
+      {
+        "id": "AI³-00530",
+        "name": "Newswire Story"
+      },
+      {
+        "id": "AI³-00531",
+        "name": "News Fact-Checking Checklist"
+      },
+      {
+        "id": "AI³-00532",
+        "name": "News Ethics & Compliance"
+      },
+      {
+        "id": "AI³-00533",
+        "name": "Content Distribution Strategy"
+      },
+      {
+        "id": "AI³-00534",
+        "name": "Cross-Platform Content Adaptation"
+      },
+      {
+        "id": "AI³-00535",
+        "name": "News Publishing Schedule"
+      },
+      {
+        "id": "AI³-00536",
+        "name": "Media Portfolio Plan"
+      },
+      {
+        "id": "AI³-00537",
+        "name": "Content Tagging System"
+      },
+      {
+        "id": "AI³-00538",
+        "name": "Media Audience Persona Analysis"
+      },
+      {
+        "id": "AI³-00539",
+        "name": "Media Reach Analysis"
+      },
+      {
+        "id": "AI³-00540",
+        "name": "Audience Engagement Analysis"
+      },
+      {
+        "id": "AI³-00541",
+        "name": "Media Influence Analysis"
+      },
+      {
+        "id": "AI³-00542",
+        "name": "Public Opinion Tracking"
+      },
+      {
+        "id": "AI³-00543",
+        "name": "News Account Operations Plan"
+      },
+      {
+        "id": "AI³-00544",
+        "name": "Media Follower Growth Strategy"
+      },
+      {
+        "id": "AI³-00545",
+        "name": "News Editorial Calendar"
+      },
+      {
+        "id": "AI³-00546",
+        "name": "News Partnership Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-07",
+    "category_path": "02-industry",
+    "prompt_count": 12,
+    "prompts": [
+      {
+        "id": "AI³-00547",
+        "name": "Product Title Optimization"
+      },
+      {
+        "id": "AI³-00548",
+        "name": "Cross-Border Product Selection"
+      },
+      {
+        "id": "AI³-00549",
+        "name": "Cross-Border Pricing Strategy"
+      },
+      {
+        "id": "AI³-00550",
+        "name": "Social Media Marketing Plan"
+      },
+      {
+        "id": "AI³-00551",
+        "name": "Cross-Border Livestream Plan"
+      },
+      {
+        "id": "AI³-00552",
+        "name": "Cross-Border Store Operations"
+      },
+      {
+        "id": "AI³-00553",
+        "name": "Overseas Warehouse Ops"
+      },
+      {
+        "id": "AI³-00554",
+        "name": "Cross-Border CS Script"
+      },
+      {
+        "id": "AI³-00555",
+        "name": "Trip Itinerary"
+      },
+      {
+        "id": "AI³-00556",
+        "name": "Cross-Border Tax Plan"
+      },
+      {
+        "id": "AI³-00557",
+        "name": "Customs Compliance Report"
+      },
+      {
+        "id": "AI³-00558",
+        "name": "Cross-Border Compliance Audit"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-08",
+    "category_path": "02-industry",
+    "prompt_count": 19,
+    "prompts": [
+      {
+        "id": "AI³-00559",
+        "name": "Growing Techniques Handbook"
+      },
+      {
+        "id": "AI³-00560",
+        "name": "Ag Extension Plan"
+      },
+      {
+        "id": "AI³-00561",
+        "name": "Ag Subsidy Policy Explainer"
+      },
+      {
+        "id": "AI³-00562",
+        "name": "Ag Tech Project Application"
+      },
+      {
+        "id": "AI³-00563",
+        "name": "Ag Output Analysis"
+      },
+      {
+        "id": "AI³-00564",
+        "name": "USDA Organic Certification Application"
+      },
+      {
+        "id": "AI³-00565",
+        "name": "Livestock Husbandry Standards"
+      },
+      {
+        "id": "AI³-00566",
+        "name": "Livestock Production Standards"
+      },
+      {
+        "id": "AI³-00567",
+        "name": "Livestock Cost Analysis"
+      },
+      {
+        "id": "AI³-00568",
+        "name": "Disease Control Plan"
+      },
+      {
+        "id": "AI³-00569",
+        "name": "Breeding Plan"
+      },
+      {
+        "id": "AI³-00570",
+        "name": "Animal Welfare Plan"
+      },
+      {
+        "id": "AI³-00571",
+        "name": "Farm Product Brand Design"
+      },
+      {
+        "id": "AI³-00572",
+        "name": "Farm Product Marketing Strategy"
+      },
+      {
+        "id": "AI³-00573",
+        "name": "Rural E-Commerce Ops Plan"
+      },
+      {
+        "id": "AI³-00574",
+        "name": "Agritourism Project Plan"
+      },
+      {
+        "id": "AI³-00575",
+        "name": "Food Traceability System"
+      },
+      {
+        "id": "AI³-00576",
+        "name": "Rural Tourism Itinerary"
+      },
+      {
+        "id": "AI³-00577",
+        "name": "Farm Product Sales Script"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-09",
+    "category_path": "02-industry",
+    "prompt_count": 18,
+    "prompts": [
+      {
+        "id": "AI³-00578",
+        "name": "Architectural Design Statement"
+      },
+      {
+        "id": "AI³-00579",
+        "name": "Structural Design Statement"
+      },
+      {
+        "id": "AI³-00580",
+        "name": "Architectural Design Deck"
+      },
+      {
+        "id": "AI³-00581",
+        "name": "Architectural Design Plan"
+      },
+      {
+        "id": "AI³-00582",
+        "name": "Interior Style Statement"
+      },
+      {
+        "id": "AI³-00583",
+        "name": "Renovation Plan"
+      },
+      {
+        "id": "AI³-00584",
+        "name": "Interior Design Brief"
+      },
+      {
+        "id": "AI³-00585",
+        "name": "Renovation BOM"
+      },
+      {
+        "id": "AI³-00586",
+        "name": "Lighting Design Statement"
+      },
+      {
+        "id": "AI³-00587",
+        "name": "MEP Design Statement"
+      },
+      {
+        "id": "AI³-00588",
+        "name": "Furnishings Design Plan"
+      },
+      {
+        "id": "AI³-00589",
+        "name": "Urban Planning Report"
+      },
+      {
+        "id": "AI³-00590",
+        "name": "Urban Master Plan"
+      },
+      {
+        "id": "AI³-00591",
+        "name": "Urban Design Guidelines"
+      },
+      {
+        "id": "AI³-00592",
+        "name": "Traffic Impact Assessment"
+      },
+      {
+        "id": "AI³-00593",
+        "name": "Public Space Plan"
+      },
+      {
+        "id": "AI³-00594",
+        "name": "Planning Public Notice"
+      },
+      {
+        "id": "AI³-00595",
+        "name": "Public Feedback Compilation"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-10",
+    "category_path": "02-industry",
+    "prompt_count": 25,
+    "prompts": [
+      {
+        "id": "AI³-00596",
+        "name": "Contract Drafting"
+      },
+      {
+        "id": "AI³-00597",
+        "name": "Contract Review"
+      },
+      {
+        "id": "AI³-00598",
+        "name": "Contract Amendment"
+      },
+      {
+        "id": "AI³-00599",
+        "name": "NDA"
+      },
+      {
+        "id": "AI³-00600",
+        "name": "Non-Compete Agreement"
+      },
+      {
+        "id": "AI³-00601",
+        "name": "Demand Letter"
+      },
+      {
+        "id": "AI³-00602",
+        "name": "IP Assignment Agreement"
+      },
+      {
+        "id": "AI³-00603",
+        "name": "IP Protection Plan"
+      },
+      {
+        "id": "AI³-00604",
+        "name": "Criminal Defense Brief"
+      },
+      {
+        "id": "AI³-00605",
+        "name": "Complaint (Civil)"
+      },
+      {
+        "id": "AI³-00606",
+        "name": "Case Summary"
+      },
+      {
+        "id": "AI³-00607",
+        "name": "Defense Opinion"
+      },
+      {
+        "id": "AI³-00608",
+        "name": "Legal Opinion"
+      },
+      {
+        "id": "AI³-00609",
+        "name": "Bail Motion"
+      },
+      {
+        "id": "AI³-00610",
+        "name": "Administrative Appeal"
+      },
+      {
+        "id": "AI³-00611",
+        "name": "Administrative Answer"
+      },
+      {
+        "id": "AI³-00612",
+        "name": "Permit Application"
+      },
+      {
+        "id": "AI³-00613",
+        "name": "Data Privacy Policy"
+      },
+      {
+        "id": "AI³-00614",
+        "name": "DPA (Data Processing Agreement)"
+      },
+      {
+        "id": "AI³-00615",
+        "name": "Anti-Corruption Policy"
+      },
+      {
+        "id": "AI³-00616",
+        "name": "Internal Compliance Program"
+      },
+      {
+        "id": "AI³-00617",
+        "name": "Compliance Self-Audit Strategy"
+      },
+      {
+        "id": "AI³-00618",
+        "name": "Compliance Training Plan"
+      },
+      {
+        "id": "AI³-00619",
+        "name": "Compliance Self-Audit Report"
+      },
+      {
+        "id": "AI³-00620",
+        "name": "Cross-Border Data Assessment"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-11",
+    "category_path": "02-industry",
+    "prompt_count": 8,
+    "prompts": [
+      {
+        "id": "AI³-00621",
+        "name": "EIA Report"
+      },
+      {
+        "id": "AI³-00622",
+        "name": "Environmental Monitoring Data Analysis"
+      },
+      {
+        "id": "AI³-00623",
+        "name": "Pollution Control Plan"
+      },
+      {
+        "id": "AI³-00624",
+        "name": "Ecological Restoration Plan"
+      },
+      {
+        "id": "AI³-00625",
+        "name": "Energy Assessment Report"
+      },
+      {
+        "id": "AI³-00626",
+        "name": "Energy & Emissions Reduction Plan"
+      },
+      {
+        "id": "AI³-00627",
+        "name": "Green Energy Plan"
+      },
+      {
+        "id": "AI³-00628",
+        "name": "Energy Audit Report"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-12",
+    "category_path": "02-industry",
+    "prompt_count": 4,
+    "prompts": [
+      {
+        "id": "AI³-00629",
+        "name": "Counseling Session Note"
+      },
+      {
+        "id": "AI³-00630",
+        "name": "Psychological Evaluation"
+      },
+      {
+        "id": "AI³-00631",
+        "name": "Mental Health Intervention Plan"
+      },
+      {
+        "id": "AI³-00632",
+        "name": "Crisis Intervention Script"
+      }
+    ]
+  },
+  {
+    "section_code": "02",
+    "section_name": "Industry-Specific",
+    "category_code": "02-13",
+    "category_path": "02-industry",
+    "prompt_count": 12,
+    "prompts": [
+      {
+        "id": "AI³-00633",
+        "name": "RFP Technical Specs"
+      },
+      {
+        "id": "AI³-00634",
+        "name": "RFP Commercial Section"
+      },
+      {
+        "id": "AI³-00635",
+        "name": "RFP Scoring Rubric"
+      },
+      {
+        "id": "AI³-00636",
+        "name": "RFP Functional Specs"
+      },
+      {
+        "id": "AI³-00637",
+        "name": "RFP Announcement"
+      },
+      {
+        "id": "AI³-00638",
+        "name": "Proposal Technical Volume"
+      },
+      {
+        "id": "AI³-00639",
+        "name": "Proposal Pricing Volume"
+      },
+      {
+        "id": "AI³-00640",
+        "name": "Bid Strategy"
+      },
+      {
+        "id": "AI³-00641",
+        "name": "Bid Clarifications"
+      },
+      {
+        "id": "AI³-00642",
+        "name": "Procurement Contract"
+      },
+      {
+        "id": "AI³-00643",
+        "name": "Procurement Contract Risk Scan"
+      },
+      {
+        "id": "AI³-00644",
+        "name": "RFP-Contract Consistency Check"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life",
+    "prompt_count": 9,
+    "prompts": [
+      {
+        "id": "AI³-00645",
+        "name": "Weekly Menu Plan"
+      },
+      {
+        "id": "AI³-00646",
+        "name": "Clinical Visit Summary"
+      },
+      {
+        "id": "AI³-00647",
+        "name": "Special Diet Plan"
+      },
+      {
+        "id": "AI³-00648",
+        "name": "Fitness Plan"
+      },
+      {
+        "id": "AI³-00649",
+        "name": "Fitness Motivation Strategy"
+      },
+      {
+        "id": "AI³-00650",
+        "name": "Meditation Guided Script"
+      },
+      {
+        "id": "AI³-00651",
+        "name": "Stress Management Plan"
+      },
+      {
+        "id": "AI³-00652",
+        "name": "Relaxation Techniques"
+      },
+      {
+        "id": "AI³-00653",
+        "name": "Sleep Improvement Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life",
+    "prompt_count": 12,
+    "prompts": [
+      {
+        "id": "AI³-00654",
+        "name": "Monthly Household Budget"
+      },
+      {
+        "id": "AI³-00655",
+        "name": "Family Savings Plan"
+      },
+      {
+        "id": "AI³-00656",
+        "name": "Household Spending Analysis"
+      },
+      {
+        "id": "AI³-00657",
+        "name": "Personal Ledger"
+      },
+      {
+        "id": "AI³-00658",
+        "name": "Money-Saving Tips"
+      },
+      {
+        "id": "AI³-00659",
+        "name": "Grocery Shopping List"
+      },
+      {
+        "id": "AI³-00660",
+        "name": "Grocery Price Comparison"
+      },
+      {
+        "id": "AI³-00661",
+        "name": "Coupon Stack Calculator"
+      },
+      {
+        "id": "AI³-00662",
+        "name": "Home Appliance Troubleshooting"
+      },
+      {
+        "id": "AI³-00663",
+        "name": "Home Cleaning SOP"
+      },
+      {
+        "id": "AI³-00664",
+        "name": "Moving Plan"
+      },
+      {
+        "id": "AI³-00665",
+        "name": "Home Organization Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life",
+    "prompt_count": 7,
+    "prompts": [
+      {
+        "id": "AI³-00666",
+        "name": "Pregnancy Care Guidance"
+      },
+      {
+        "id": "AI³-00667",
+        "name": "Infant Feeding Guide"
+      },
+      {
+        "id": "AI³-00668",
+        "name": "Early Learning Plan"
+      },
+      {
+        "id": "AI³-00669",
+        "name": "Kids' Habit Plan"
+      },
+      {
+        "id": "AI³-00670",
+        "name": "Kids' Study Methods Plan"
+      },
+      {
+        "id": "AI³-00671",
+        "name": "Kids' Study Method Lesson"
+      },
+      {
+        "id": "AI³-00672",
+        "name": "Kids' Psychology Guidance"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life",
+    "prompt_count": 14,
+    "prompts": [
+      {
+        "id": "AI³-00673",
+        "name": "Article Summary"
+      },
+      {
+        "id": "AI³-00674",
+        "name": "Video Transcript Summary"
+      },
+      {
+        "id": "AI³-00675",
+        "name": "Book Summary"
+      },
+      {
+        "id": "AI³-00676",
+        "name": "Class Notes"
+      },
+      {
+        "id": "AI³-00677",
+        "name": "Reading Notes"
+      },
+      {
+        "id": "AI³-00678",
+        "name": "Mind Map Book Summary"
+      },
+      {
+        "id": "AI³-00679",
+        "name": "Zettelkasten-Style Note Organization"
+      },
+      {
+        "id": "AI³-00680",
+        "name": "Book Notes Report"
+      },
+      {
+        "id": "AI³-00681",
+        "name": "Memory Mnemonics"
+      },
+      {
+        "id": "AI³-00682",
+        "name": "Memory Quiz Questions"
+      },
+      {
+        "id": "AI³-00683",
+        "name": "Anki Flashcard Design"
+      },
+      {
+        "id": "AI³-00684",
+        "name": "Academic Abstract"
+      },
+      {
+        "id": "AI³-00685",
+        "name": "Academic Literature Review"
+      },
+      {
+        "id": "AI³-00686",
+        "name": "Academic Research Report"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life",
+    "prompt_count": 9,
+    "prompts": [
+      {
+        "id": "AI³-00687",
+        "name": "Tourist Itinerary"
+      },
+      {
+        "id": "AI³-00688",
+        "name": "Transportation Recommendations"
+      },
+      {
+        "id": "AI³-00689",
+        "name": "Hotel Recommendations"
+      },
+      {
+        "id": "AI³-00690",
+        "name": "Attraction Guide"
+      },
+      {
+        "id": "AI³-00691",
+        "name": "Travel Pitfalls Guide"
+      },
+      {
+        "id": "AI³-00692",
+        "name": "Travel Phrase Cheat Sheet"
+      },
+      {
+        "id": "AI³-00693",
+        "name": "Lost Passport Procedure"
+      },
+      {
+        "id": "AI³-00694",
+        "name": "Overseas Medical Care Guide"
+      },
+      {
+        "id": "AI³-00695",
+        "name": "Travel Insurance Claim Guide"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life",
+    "prompt_count": 20,
+    "prompts": [
+      {
+        "id": "AI³-00696",
+        "name": "Teen Daily Schedule"
+      },
+      {
+        "id": "AI³-00697",
+        "name": "Teen Weekly Schedule"
+      },
+      {
+        "id": "AI³-00698",
+        "name": "Teen Time Audit"
+      },
+      {
+        "id": "AI³-00699",
+        "name": "Teen Time-Sinks Inventory"
+      },
+      {
+        "id": "AI³-00700",
+        "name": "Teen Annual Goals Plan"
+      },
+      {
+        "id": "AI³-00701",
+        "name": "Teen Goal Tracking"
+      },
+      {
+        "id": "AI³-00702",
+        "name": "Teen Habit Plan"
+      },
+      {
+        "id": "AI³-00703",
+        "name": "Mood Journal"
+      },
+      {
+        "id": "AI³-00704",
+        "name": "Mood-Source Analysis"
+      },
+      {
+        "id": "AI³-00705",
+        "name": "Reflection Template"
+      },
+      {
+        "id": "AI³-00706",
+        "name": "Teen Growth Plan"
+      },
+      {
+        "id": "AI³-00707",
+        "name": "Conversation Opener"
+      },
+      {
+        "id": "AI³-00708",
+        "name": "Self Introduction"
+      },
+      {
+        "id": "AI³-00709",
+        "name": "Icebreaker Topics"
+      },
+      {
+        "id": "AI³-00710",
+        "name": "Interview Prep Question Bank"
+      },
+      {
+        "id": "AI³-00711",
+        "name": "Interview Talking Points"
+      },
+      {
+        "id": "AI³-00712",
+        "name": "Expression of Romantic Interest"
+      },
+      {
+        "id": "AI³-00713",
+        "name": "Pet Care Recommendations"
+      },
+      {
+        "id": "AI³-00714",
+        "name": "Pet Training Guidance"
+      },
+      {
+        "id": "AI³-00715",
+        "name": "Pet Diet Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-07",
+    "category_path": "03-life",
+    "prompt_count": 4,
+    "prompts": [
+      {
+        "id": "AI³-00716",
+        "name": "In-Home Caregiver Plan"
+      },
+      {
+        "id": "AI³-00717",
+        "name": "Senior Nutrition Plan"
+      },
+      {
+        "id": "AI³-00718",
+        "name": "Cognitive Training Design"
+      },
+      {
+        "id": "AI³-00719",
+        "name": "Family Communication Script (Hospice)"
+      }
+    ]
+  },
+  {
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life",
+    "prompt_count": 12,
+    "prompts": [
+      {
+        "id": "AI³-00720",
+        "name": "Camera Settings Advice"
+      },
+      {
+        "id": "AI³-00721",
+        "name": "Photo Editing Direction"
+      },
+      {
+        "id": "AI³-00722",
+        "name": "Songwriting Inspiration"
+      },
+      {
+        "id": "AI³-00723",
+        "name": "Instrument Practice Plan"
+      },
+      {
+        "id": "AI³-00724",
+        "name": "Craft Tutorial"
+      },
+      {
+        "id": "AI³-00725",
+        "name": "Craft Material List"
+      },
+      {
+        "id": "AI³-00726",
+        "name": "DIY Craft Creative Plan"
+      },
+      {
+        "id": "AI³-00727",
+        "name": "Short Story"
+      },
+      {
+        "id": "AI³-00728",
+        "name": "Novel Outline"
+      },
+      {
+        "id": "AI³-00729",
+        "name": "Modern Poem"
+      },
+      {
+        "id": "AI³-00730",
+        "name": "Short Film Script"
+      },
+      {
+        "id": "AI³-00731",
+        "name": "Song Lyrics"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-01",
+    "category_path": "04-public",
+    "prompt_count": 13,
+    "prompts": [
+      {
+        "id": "AI³-00732",
+        "name": "Highway Quality Oversight Report"
+      },
+      {
+        "id": "AI³-00733",
+        "name": "Highway Maintenance Plan"
+      },
+      {
+        "id": "AI³-00734",
+        "name": "Road Safety Hazard Audit"
+      },
+      {
+        "id": "AI³-00735",
+        "name": "Road Safety Public Education"
+      },
+      {
+        "id": "AI³-00736",
+        "name": "Rail Safety Assessment"
+      },
+      {
+        "id": "AI³-00737",
+        "name": "Rail Passenger Service Plan"
+      },
+      {
+        "id": "AI³-00738",
+        "name": "Rail Freight Plan"
+      },
+      {
+        "id": "AI³-00739",
+        "name": "Pilot Scheduling Plan"
+      },
+      {
+        "id": "AI³-00740",
+        "name": "Waterway Maintenance Report"
+      },
+      {
+        "id": "AI³-00741",
+        "name": "Bus Route Optimization"
+      },
+      {
+        "id": "AI³-00742",
+        "name": "Taxi Regulation Opinion"
+      },
+      {
+        "id": "AI³-00743",
+        "name": "Shared Bike Regulation Report"
+      },
+      {
+        "id": "AI³-00744",
+        "name": "Urban-Rural Bus Integration Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-02",
+    "category_path": "04-public",
+    "prompt_count": 19,
+    "prompts": [
+      {
+        "id": "AI³-00745",
+        "name": "Police Patrol Plan"
+      },
+      {
+        "id": "AI³-00746",
+        "name": "Public Order Incident Response Plan"
+      },
+      {
+        "id": "AI³-00747",
+        "name": "Crime Trend Analysis"
+      },
+      {
+        "id": "AI³-00748",
+        "name": "Emergency Response Plan"
+      },
+      {
+        "id": "AI³-00749",
+        "name": "Emergency Activation Plan"
+      },
+      {
+        "id": "AI³-00750",
+        "name": "Rescue Coordination Order"
+      },
+      {
+        "id": "AI³-00751",
+        "name": "Disaster Situation Report"
+      },
+      {
+        "id": "AI³-00752",
+        "name": "EHS Enforcement Plan"
+      },
+      {
+        "id": "AI³-00753",
+        "name": "EHS Incident Investigation Report"
+      },
+      {
+        "id": "AI³-00754",
+        "name": "Hazardous Materials Management Plan"
+      },
+      {
+        "id": "AI³-00755",
+        "name": "Flood/Drought Response Report"
+      },
+      {
+        "id": "AI³-00756",
+        "name": "Online Patrol Report"
+      },
+      {
+        "id": "AI³-00757",
+        "name": "Digital Forensics Report"
+      },
+      {
+        "id": "AI³-00758",
+        "name": "Content Removal Order"
+      },
+      {
+        "id": "AI³-00759",
+        "name": "Cyber Tiered Protection Report"
+      },
+      {
+        "id": "AI³-00760",
+        "name": "Online Reputation Response Plan"
+      },
+      {
+        "id": "AI³-00761",
+        "name": "Crisis Comms Talking Points"
+      },
+      {
+        "id": "AI³-00762",
+        "name": "Public Opinion Landscape Assessment"
+      },
+      {
+        "id": "AI³-00763",
+        "name": "Public Opinion Risk Analysis"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-03",
+    "category_path": "04-public",
+    "prompt_count": 21,
+    "prompts": [
+      {
+        "id": "AI³-00764",
+        "name": "Medicare Coverage Explainer"
+      },
+      {
+        "id": "AI³-00765",
+        "name": "Medicare Contracted Providers Report"
+      },
+      {
+        "id": "AI³-00766",
+        "name": "Out-of-State Medical Care Guide"
+      },
+      {
+        "id": "AI³-00767",
+        "name": "Social Security Enrollment Explainer"
+      },
+      {
+        "id": "AI³-00768",
+        "name": "Pension Benefit Estimator"
+      },
+      {
+        "id": "AI³-00769",
+        "name": "Pension Claim Explainer"
+      },
+      {
+        "id": "AI³-00770",
+        "name": "Unemployment Insurance Enrollment"
+      },
+      {
+        "id": "AI³-00771",
+        "name": "UI Claim Guide"
+      },
+      {
+        "id": "AI³-00772",
+        "name": "Reemployment Support Policy"
+      },
+      {
+        "id": "AI³-00773",
+        "name": "Affordable Housing Eligibility"
+      },
+      {
+        "id": "AI³-00774",
+        "name": "401(k)/Social Security Enrollment"
+      },
+      {
+        "id": "AI³-00775",
+        "name": "Retirement-Backed Loan Guide"
+      },
+      {
+        "id": "AI³-00776",
+        "name": "Government Hiring Plan"
+      },
+      {
+        "id": "AI³-00777",
+        "name": "Government Career Services Plan"
+      },
+      {
+        "id": "AI³-00778",
+        "name": "Training Subsidy Form Guide"
+      },
+      {
+        "id": "AI³-00779",
+        "name": "Skills Upgrade Action Plan"
+      },
+      {
+        "id": "AI³-00780",
+        "name": "Labor Compliance Report"
+      },
+      {
+        "id": "AI³-00781",
+        "name": "Workplace Safety Training Plan"
+      },
+      {
+        "id": "AI³-00782",
+        "name": "Disability Benefits Plan"
+      },
+      {
+        "id": "AI³-00783",
+        "name": "Disability Assistive Devices Subsidy"
+      },
+      {
+        "id": "AI³-00784",
+        "name": "Disability Employment Support"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-04",
+    "category_path": "04-public",
+    "prompt_count": 22,
+    "prompts": [
+      {
+        "id": "AI³-00785",
+        "name": "Teacher PD Plan"
+      },
+      {
+        "id": "AI³-00786",
+        "name": "Campus Safety Plan"
+      },
+      {
+        "id": "AI³-00787",
+        "name": "University Admissions Plan"
+      },
+      {
+        "id": "AI³-00788",
+        "name": "Cultural Event Plan"
+      },
+      {
+        "id": "AI³-00789",
+        "name": "Public Venue Management Standards"
+      },
+      {
+        "id": "AI³-00790",
+        "name": "Volunteer Management Policy"
+      },
+      {
+        "id": "AI³-00791",
+        "name": "Health Education Materials"
+      },
+      {
+        "id": "AI³-00792",
+        "name": "Public Health Emergency Plan"
+      },
+      {
+        "id": "AI³-00793",
+        "name": "Disease Prevention Plan"
+      },
+      {
+        "id": "AI³-00794",
+        "name": "Vaccination Campaign Plan"
+      },
+      {
+        "id": "AI³-00795",
+        "name": "NSF Grant Proposal"
+      },
+      {
+        "id": "AI³-00796",
+        "name": "Research Assessment Report"
+      },
+      {
+        "id": "AI³-00797",
+        "name": "Academic Conference Plan"
+      },
+      {
+        "id": "AI³-00798",
+        "name": "Research Funds Rules"
+      },
+      {
+        "id": "AI³-00799",
+        "name": "Water Quality Test Report"
+      },
+      {
+        "id": "AI³-00800",
+        "name": "Annual Water Use Plan"
+      },
+      {
+        "id": "AI³-00801",
+        "name": "Electric Load Analysis"
+      },
+      {
+        "id": "AI³-00802",
+        "name": "Power Safety Patrol Policy"
+      },
+      {
+        "id": "AI³-00803",
+        "name": "Gas Safety Assessment"
+      },
+      {
+        "id": "AI³-00804",
+        "name": "Gas Hazard Remediation Plan"
+      },
+      {
+        "id": "AI³-00805",
+        "name": "Waste Sorting Program"
+      },
+      {
+        "id": "AI³-00806",
+        "name": "Waste Collection Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-05",
+    "category_path": "04-public",
+    "prompt_count": 40,
+    "prompts": [
+      {
+        "id": "AI³-00807",
+        "name": "Standard Government Memo"
+      },
+      {
+        "id": "AI³-00808",
+        "name": "Government Notice"
+      },
+      {
+        "id": "AI³-00809",
+        "name": "Government Request Memo"
+      },
+      {
+        "id": "AI³-00810",
+        "name": "Government Letter"
+      },
+      {
+        "id": "AI³-00811",
+        "name": "Government Meeting Address"
+      },
+      {
+        "id": "AI³-00812",
+        "name": "State of the Union-Style Report"
+      },
+      {
+        "id": "AI³-00813",
+        "name": "Government Mobilization Speech"
+      },
+      {
+        "id": "AI³-00814",
+        "name": "Government Slogan"
+      },
+      {
+        "id": "AI³-00815",
+        "name": "Government Campaign Poster"
+      },
+      {
+        "id": "AI³-00816",
+        "name": "Government Meeting Minutes"
+      },
+      {
+        "id": "AI³-00817",
+        "name": "Government Oversight Plan"
+      },
+      {
+        "id": "AI³-00818",
+        "name": "Oversight Findings Report"
+      },
+      {
+        "id": "AI³-00819",
+        "name": "Oversight Corrective Action Notice"
+      },
+      {
+        "id": "AI³-00820",
+        "name": "Government Annual Summary"
+      },
+      {
+        "id": "AI³-00821",
+        "name": "Government Quarterly Summary"
+      },
+      {
+        "id": "AI³-00822",
+        "name": "Initiative Summary"
+      },
+      {
+        "id": "AI³-00823",
+        "name": "Government Annual Plan"
+      },
+      {
+        "id": "AI³-00824",
+        "name": "Government Quarterly Plan"
+      },
+      {
+        "id": "AI³-00825",
+        "name": "Government Project Plan"
+      },
+      {
+        "id": "AI³-00826",
+        "name": "Government Work Update"
+      },
+      {
+        "id": "AI³-00827",
+        "name": "Thematic Update"
+      },
+      {
+        "id": "AI³-00828",
+        "name": "Government Research Update"
+      },
+      {
+        "id": "AI³-00829",
+        "name": "Government Meeting Plan"
+      },
+      {
+        "id": "AI³-00830",
+        "name": "Large Conference Prep Plan"
+      },
+      {
+        "id": "AI³-00831",
+        "name": "Public Notice"
+      },
+      {
+        "id": "AI³-00832",
+        "name": "Public Notice (Transparency)"
+      },
+      {
+        "id": "AI³-00833",
+        "name": "Public Advisory"
+      },
+      {
+        "id": "AI³-00834",
+        "name": "FOIA Disclosure Guide"
+      },
+      {
+        "id": "AI³-00835",
+        "name": "FOIA Response Template"
+      },
+      {
+        "id": "AI³-00836",
+        "name": "FOIA Annual Report"
+      },
+      {
+        "id": "AI³-00837",
+        "name": "Records Declassification Review"
+      },
+      {
+        "id": "AI³-00838",
+        "name": "Archival Lookup Application"
+      },
+      {
+        "id": "AI³-00839",
+        "name": "Records Classification & Naming Automation"
+      },
+      {
+        "id": "AI³-00840",
+        "name": "Audit Risk Checklist"
+      },
+      {
+        "id": "AI³-00841",
+        "name": "Audit Remediation Recommendations"
+      },
+      {
+        "id": "AI³-00842",
+        "name": "Government Press Release"
+      },
+      {
+        "id": "AI³-00843",
+        "name": "Press Conference Press Pack"
+      },
+      {
+        "id": "AI³-00844",
+        "name": "Media Interview Talking Points"
+      },
+      {
+        "id": "AI³-00845",
+        "name": "Government Working Brief"
+      },
+      {
+        "id": "AI³-00846",
+        "name": "Thematic Briefing"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-06",
+    "category_path": "04-public",
+    "prompt_count": 13,
+    "prompts": [
+      {
+        "id": "AI³-00847",
+        "name": "Civil Judgment"
+      },
+      {
+        "id": "AI³-00848",
+        "name": "Criminal Judgment"
+      },
+      {
+        "id": "AI³-00849",
+        "name": "Arbitration Award"
+      },
+      {
+        "id": "AI³-00850",
+        "name": "Mediation Agreement"
+      },
+      {
+        "id": "AI³-00851",
+        "name": "Prosecution Memorandum"
+      },
+      {
+        "id": "AI³-00852",
+        "name": "Appellate Brief (Prosecution)"
+      },
+      {
+        "id": "AI³-00853",
+        "name": "Prosecutorial Recommendation"
+      },
+      {
+        "id": "AI³-00854",
+        "name": "Notarial Instrument"
+      },
+      {
+        "id": "AI³-00855",
+        "name": "Legal Aid Plan"
+      },
+      {
+        "id": "AI³-00856",
+        "name": "Legal Public Education Plan"
+      },
+      {
+        "id": "AI³-00857",
+        "name": "Parole Recommendation"
+      },
+      {
+        "id": "AI³-00858",
+        "name": "Prison Administration Report"
+      },
+      {
+        "id": "AI³-00859",
+        "name": "Community Corrections Plan"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-07",
+    "category_path": "04-public",
+    "prompt_count": 28,
+    "prompts": [
+      {
+        "id": "AI³-00860",
+        "name": "Economic Analysis Report"
+      },
+      {
+        "id": "AI³-00861",
+        "name": "Economic Forecast Model"
+      },
+      {
+        "id": "AI³-00862",
+        "name": "Economic Risk Advisory"
+      },
+      {
+        "id": "AI³-00863",
+        "name": "Economic Policy Recommendations"
+      },
+      {
+        "id": "AI³-00864",
+        "name": "Annual Budget Explanatory Memo"
+      },
+      {
+        "id": "AI³-00865",
+        "name": "Budget Execution Analysis"
+      },
+      {
+        "id": "AI³-00866",
+        "name": "Budget Adjustment Plan"
+      },
+      {
+        "id": "AI³-00867",
+        "name": "Project Feasibility Study"
+      },
+      {
+        "id": "AI³-00868",
+        "name": "Project Authorization Request"
+      },
+      {
+        "id": "AI³-00869",
+        "name": "EIA Decision"
+      },
+      {
+        "id": "AI³-00870",
+        "name": "Post-Project Review"
+      },
+      {
+        "id": "AI³-00871",
+        "name": "Government Procurement Notice"
+      },
+      {
+        "id": "AI³-00872",
+        "name": "Public Procurement RFP"
+      },
+      {
+        "id": "AI³-00873",
+        "name": "Procurement Contract Draft"
+      },
+      {
+        "id": "AI³-00874",
+        "name": "Procurement Audit Report"
+      },
+      {
+        "id": "AI³-00875",
+        "name": "Tax Audit Report"
+      },
+      {
+        "id": "AI³-00876",
+        "name": "Tax Benefit Verification"
+      },
+      {
+        "id": "AI³-00877",
+        "name": "Tax Policy Explainer"
+      },
+      {
+        "id": "AI³-00878",
+        "name": "Government Financial Budget Report"
+      },
+      {
+        "id": "AI³-00879",
+        "name": "Government Financial Closing"
+      },
+      {
+        "id": "AI³-00880",
+        "name": "Government Financial Audit"
+      },
+      {
+        "id": "AI³-00881",
+        "name": "Government Research Report"
+      },
+      {
+        "id": "AI³-00882",
+        "name": "Government Leader Study Tour Report"
+      },
+      {
+        "id": "AI³-00883",
+        "name": "Government Strategic Plan Draft"
+      },
+      {
+        "id": "AI³-00884",
+        "name": "Mid-Term Plan Evaluation"
+      },
+      {
+        "id": "AI³-00885",
+        "name": "Policy Background Analysis"
+      },
+      {
+        "id": "AI³-00886",
+        "name": "Policy Recommendations Draft"
+      },
+      {
+        "id": "AI³-00887",
+        "name": "International Policy Benchmark"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-08",
+    "category_path": "04-public",
+    "prompt_count": 26,
+    "prompts": [
+      {
+        "id": "AI³-00888",
+        "name": "Consumer Complaint Process"
+      },
+      {
+        "id": "AI³-00889",
+        "name": "Consumer Dispute Mediation"
+      },
+      {
+        "id": "AI³-00890",
+        "name": "Administrative Penalty Decision"
+      },
+      {
+        "id": "AI³-00891",
+        "name": "Consumer Warning Notice"
+      },
+      {
+        "id": "AI³-00892",
+        "name": "Food Safety Sampling Plan"
+      },
+      {
+        "id": "AI³-00893",
+        "name": "Food Non-Conformance Disposition"
+      },
+      {
+        "id": "AI³-00894",
+        "name": "Food Safety Risk Assessment"
+      },
+      {
+        "id": "AI³-00895",
+        "name": "Product Recall Notice"
+      },
+      {
+        "id": "AI³-00896",
+        "name": "Pharma Safety Oversight Plan"
+      },
+      {
+        "id": "AI³-00897",
+        "name": "On-Site Supervisory Exam"
+      },
+      {
+        "id": "AI³-00898",
+        "name": "Off-Site Supervisory Report"
+      },
+      {
+        "id": "AI³-00899",
+        "name": "Financial Institution Risk Rating"
+      },
+      {
+        "id": "AI³-00900",
+        "name": "Securities Penalty Decision"
+      },
+      {
+        "id": "AI³-00901",
+        "name": "Financial Risk Control Plan"
+      },
+      {
+        "id": "AI³-00902",
+        "name": "Internet Content Review Opinion"
+      },
+      {
+        "id": "AI³-00903",
+        "name": "Cybersecurity Assessment Report"
+      },
+      {
+        "id": "AI³-00904",
+        "name": "App Privacy Compliance Assessment"
+      },
+      {
+        "id": "AI³-00905",
+        "name": "High-Tech Firm Certification Guide"
+      },
+      {
+        "id": "AI³-00906",
+        "name": "Tech Transfer Plan"
+      },
+      {
+        "id": "AI³-00907",
+        "name": "Pesticide Residue Test Report"
+      },
+      {
+        "id": "AI³-00908",
+        "name": "Agri-Traceability Report"
+      },
+      {
+        "id": "AI³-00909",
+        "name": "Patent Application Narrative"
+      },
+      {
+        "id": "AI³-00910",
+        "name": "Trademark Application Narrative"
+      },
+      {
+        "id": "AI³-00911",
+        "name": "Copyright Registration Narrative"
+      },
+      {
+        "id": "AI³-00912",
+        "name": "IP Infringement Opinion"
+      },
+      {
+        "id": "AI³-00913",
+        "name": "Mine Safety Oversight Report"
+      }
+    ]
+  },
+  {
+    "section_code": "04",
+    "section_name": "Public Affairs",
+    "category_code": "04-09",
+    "category_path": "04-public",
+    "prompt_count": 17,
+    "prompts": [
+      {
+        "id": "AI³-00914",
+        "name": "Farmland Protection Report"
+      },
+      {
+        "id": "AI³-00915",
+        "name": "Land Acquisition Development Plan"
+      },
+      {
+        "id": "AI³-00916",
+        "name": "Water Allocation Plan"
+      },
+      {
+        "id": "AI³-00917",
+        "name": "Water Source Protection Plan"
+      },
+      {
+        "id": "AI³-00918",
+        "name": "Water Works Construction Report"
+      },
+      {
+        "id": "AI³-00919",
+        "name": "Marine Environment Report"
+      },
+      {
+        "id": "AI³-00920",
+        "name": "Oceanographic Data Analysis"
+      },
+      {
+        "id": "AI³-00921",
+        "name": "EIA Approval"
+      },
+      {
+        "id": "AI³-00922",
+        "name": "Environmental Inspection Report"
+      },
+      {
+        "id": "AI³-00923",
+        "name": "Pollution Source Monitoring Analysis"
+      },
+      {
+        "id": "AI³-00924",
+        "name": "Ecological Protection Plan"
+      },
+      {
+        "id": "AI³-00925",
+        "name": "Pollution Prevention Campaign"
+      },
+      {
+        "id": "AI³-00926",
+        "name": "Air Quality Improvement Report"
+      },
+      {
+        "id": "AI³-00927",
+        "name": "Carbon Accounting Report"
+      },
+      {
+        "id": "AI³-00928",
+        "name": "Carbon Trading Plan"
+      },
+      {
+        "id": "AI³-00929",
+        "name": "Climate Adaptation Plan"
+      },
+      {
+        "id": "AI³-00930",
+        "name": "Carbon Neutrality Action Plan"
+      }
+    ]
+  }
+]

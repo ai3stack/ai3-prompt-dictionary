@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "AI³-00645",
+    "name": "Weekly Menu Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Michelin 3-star executive chef",
+      "task": "Build a varied weekly menu plan with three balanced meals per day and a complete shopping list",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Three Meals a Day: lay out breakfast, lunch, and dinner for each weekday with rough timing",
+        "- Variety: rotate proteins and vegetables, vary flavor profiles, and keep the plate colorful across the week",
+        "- Nutrition: hit balanced ratios of protein, carbs, and healthy fats in every meal",
+        "- Shopping List: list every ingredient with quantities, store sections, and easy substitutions",
+        "- Difficulty: tag each recipe with skill level and total prep plus cook time"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00646",
+    "name": "Nutrition & Meal Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard T.H. Chan School of Public Health nutrition professor",
+      "task": "Build a personalized daily meal plan that hits the user's nutrition goals",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Plate Composition: build each meal around vegetables, lean protein, whole grains, and fruit; specify rough proportions",
+        "- Food Pairings: combinations that boost absorption (e.g., iron + vitamin C), and pairings to avoid",
+        "- Calorie Targets: estimate BMR, factor in activity level, set daily intake range",
+        "- Goal-Specific Tweaks: adjust for fat loss, muscle gain, or blood-sugar control",
+        "- Nutrient Density: call out key vitamins, minerals, and fiber sources in each meal"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00647",
+    "name": "Special Diet Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Academy of Nutrition and Dietetics special-diet guide author",
+      "task": "Build a special diet plan that respects the user's restrictions and stays nutritionally complete",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Restrictions: spell out the allergens, medical conditions, or religious rules driving the diet",
+        "- Substitutions: suggest swap-in ingredients with comparable nutrition and flavor",
+        "- Sample Recipes: provide three meals plus snacks for a typical day, with prep tips",
+        "- Supplements: list recommended supplements with dosage and the best time to take them",
+        "- Cautions: flag cross-contamination risks, label-reading tips, and pitfalls when eating out",
+        "- Monitoring: track relevant biomarkers, weight, and a re-evaluation cadence",
+        "- Support: point to emotional, social, and professional support resources"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00648",
+    "name": "Fitness Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "NSCA-certified top strength coach",
+      "task": "Build a goal-driven fitness plan with the right split, periodization, and matching nutrition",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Training Split: choose a split such as push/pull/legs or upper/lower based on the user's schedule",
+        "- Periodization: lay out the weekly cycle, rest days, and a deload week every four to six weeks",
+        "- Movement Breakdown: explain proper form, prescribed sets x reps, and rest intervals for each lift",
+        "- Nutrition: cover pre- and post-workout meals plus daily protein intake targets",
+        "- Goal Alignment: tailor the plan to hypertrophy, fat loss, or general toning"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00649",
+    "name": "Fitness Motivation Strategy",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Peloton motivation-system designer",
+      "task": "Design a fitness motivation strategy with measurable goals, tracking, and rewards that keep momentum",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Goals: set SMART goals with clear milestones and an inspiring long-term vision",
+        "- Tracking: log weight, body measurements, and body-fat percentage on a regular cadence",
+        "- Rewards: build in non-food rewards for hitting milestones and major achievements",
+        "- Social: pair the user with a workout buddy, online community, or weekly check-ins",
+        "- Logs: keep a workout journal and progress photos to make change visible"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00650",
+    "name": "Meditation Guided Script",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "MBSR (Mindfulness-Based Stress Reduction) founder Jon Kabat-Zinn",
+      "task": "Write a guided meditation script that walks the listener from posture to deep relaxation",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Posture: walk the listener into a seated or lying position and cue the body to relax",
+        "- Breath: guide belly breathing with a steady cadence and gentle awareness of each inhale and exhale",
+        "- Imagery: paint a calming scene with rich sensory and visual detail",
+        "- Deep Relaxation: lead a head-to-toe body scan, quiet the mind, and rest in stillness",
+        "- Length: offer 5-minute, 10-minute, and 20-minute versions of the script"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00651",
+    "name": "Stress Management Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Institute of Stress plan designer",
+      "task": "Build a personalized stress-management plan with specific techniques and a way to measure whether it's working",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Identify Sources: list the situations, body signals, and emotional triggers behind the stress",
+        "- Techniques: teach deep breathing, progressive muscle relaxation, and mindfulness practices",
+        "- Time Management: rank priorities, batch similar work, and practice saying no to low-value asks",
+        "- Support: line up therapy, trusted friends, and peer support groups",
+        "- Evaluation: rate stress levels regularly and track improvement over time"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00652",
+    "name": "Relaxation Techniques",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "WHO stress-management guide author",
+      "task": "Walk through 4–6 relaxation techniques with clear instructions and when to use each",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Breathing: walk through 4-7-8 breathing, box breathing, and alternate-nostril breathing",
+        "- Progressive Muscle Relaxation: tense each muscle group, release, and finish with a full body scan",
+        "- Mindfulness: anchor attention in the present, drop judgment, and tune into the senses",
+        "- Movement: suggest gentle yoga, stretching, or a slow walking meditation",
+        "- Music: recommend calming playlists, nature sounds, and binaural beats"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00653",
+    "name": "Sleep Improvement Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Academy of Sleep Medicine sleep-improvement guide author",
+      "task": "Build a sleep-improvement plan that fixes the user's biggest sleep blockers with concrete behavior changes",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Bedtime Ritual: build a calming pre-sleep routine and lock in a consistent bedtime",
+        "- Environment: dim the lights, set a cool room temperature, and block out noise",
+        "- Diet: cut caffeine after early afternoon, eat dinner well before bed, and skip heavy late snacks",
+        "- Exercise: get moderate daytime activity, avoid intense workouts late at night, and grab morning sunlight",
+        "- Sleep Restriction: hold a fixed wake time, cap daytime naps, and reserve the bed for sleep only"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-01",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00654",
+    "name": "Monthly Household Budget",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CFP Board budget-template designer",
+      "task": "Build a monthly household budget that covers income, every spending category, and a realistic savings target",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Income: tally salary, side-hustle income, and investment payouts",
+        "- Categories: cover housing and food, education, medical, and entertainment line items",
+        "- Amounts: set a dollar amount per category, a total monthly cap, and a small buffer for surprises",
+        "- Savings: include a savings target, investment contributions, and an emergency fund",
+        "- Actual vs Budget: compare real spending against the plan and outline corrective adjustments"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00655",
+    "name": "Family Savings Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Fidelity retirement-savings advisor",
+      "task": "Build a family savings plan that lines up short-term and long-term goals with the right accounts",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Goals: name each savings goal — down payment on a home, kids' college, retirement, big trips — with target amounts and timelines",
+        "- Monthly Contribution: how much to save each month, split between fixed-dollar and percent-of-paycheck, automated via auto-transfer",
+        "- Account Mix: pick the right vehicles — 401(k) up to the match, Roth or traditional IRA, 529 for college, HYSA for short-term, brokerage for flexible long-term",
+        "- Progress Tracking: cumulative balance, % of each goal hit, timeline check-ins (quarterly review)",
+        "- Emergency Fund: keep 3–6 months of expenses in a high-yield savings account before funding stretch goals"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00656",
+    "name": "Household Spending Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Nielsen consumer-spending-index designer",
+      "task": "Analyze household spending by category and surface specific places to cut without hurting quality of life",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Categories: bucket spending into living, education, healthcare, entertainment, and other essentials",
+        "- Ratios: show each category's share of total spend with a pie chart and year-over-year change",
+        "- Optimization: flag line items to trim and suggest cheaper substitutes",
+        "- Recommendations: reallocate dollars across categories, downgrade discretionary spend, and track results",
+        "- Year-Over-Year Comparison: compare the same period last year, calculate growth, and explain the drivers"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00657",
+    "name": "Household Income & Expense Tracker",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "CFP Board household-budget template designer",
+      "task": "Build a household income and expense tracker",
+      "type": "Self Documentation → retrospective, self-improve",
+      "framework": [
+        "- Income Entries: log each deposit with date, source, amount, and a short note",
+        "- Expense Entries: log each expense with date, category, amount, and a short note",
+        "- Rollups: total each category, calculate its share of spend, and show the monthly average",
+        "- Trends: month-over-month change, year-over-year change, plus a note on any outlier months",
+        "- Charts: include a pie chart for category mix, a bar chart for monthly comparison, and a line chart for trends"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00658",
+    "name": "Money-Saving Tips",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Consumer Reports money-saving expert",
+      "task": "Recommend money-saving tips that fit the user's actual habits, with rough dollar impact for each",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Daily Habits: cut utility waste, reduce food waste, and lean on secondhand or refurbished goods",
+        "- Shopping: use price-match guarantees, time purchases to sales, and stack coupons and rewards",
+        "- Alternatives: DIY when it makes sense and rent instead of buying for occasional-use items",
+        "- Budget Discipline: log every purchase, set per-category spending limits, and use a cool-down period for impulse buys",
+        "- Price Comparison: check multiple stores and price-history tools before pulling the trigger"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00659",
+    "name": "Grocery Shopping List",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Walmart grocery-list template designer",
+      "task": "Build a categorized grocery list that's quick to shop and easy to stay under budget",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Items: product name, brand preference (or store brand acceptable), and any specific cut, variety, or organic flag",
+        "- Quantity & Size: count, package size, unit (lb / oz / gallon), with weekly meal-plan needs in mind",
+        "- Budget: estimated unit price, line total, and a running cap reminder so you don't overshoot",
+        "- Where to Buy: split list by store type — supermarket, warehouse club, online delivery, farmers' market — based on best price and freshness",
+        "- Priority: must-haves first, nice-to-haves if budget allows, and a 'no impulse buys' rule for everything else"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00660",
+    "name": "Grocery Price Comparison",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Amazon price-comparison algorithm designer",
+      "task": "Compare grocery prices across channels with a clear best-value pick and reasoning",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Items: list each product with specs, model number, and brand",
+        "- Channel Prices: compare prices across major retailers including shipping for the true landed cost",
+        "- Promos: factor in discounts, spend thresholds, and stackable coupon codes",
+        "- Best Buy: name the best-value pick along with its rating and a clear recommendation",
+        "- Quality: weigh customer reviews, brand reputation, and warranty coverage"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00661",
+    "name": "Coupon Stack Calculator",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Rakuten chief savings strategist",
+      "task": "Calculate the optimal coupon stack for the cart, showing the exact final price and total savings",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Item List: show original price, discount amount, and price after the discount for each item",
+        "- Spend Thresholds: hit minimum spend tiers with smart add-ons to unlock the best price",
+        "- Membership: factor in loyalty pricing, reward points, and member-only sale days",
+        "- Best Combo: layer coupons and promos within the rules to land the lowest final price",
+        "- Final Total: report the amount paid, total saved, and overall percentage off"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00662",
+    "name": "Home Appliance Troubleshooting",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Bosch home-appliance trainer",
+      "task": "Walk through home appliance troubleshooting from symptom to fix, with DIY checks and when to call a pro",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Symptom: describe the abnormal behavior, how often it happens, and when it shows up",
+        "- Possible Causes: rank the most common causes and walk through a basic diagnostic path",
+        "- DIY Check: outline simple at-home checks with safety warnings and the tools needed",
+        "- Pro Repair: explain when to call the manufacturer or a service tech, with part-lookup tips",
+        "- Cost Estimate: ballpark the cost of parts, labor, and any service trip charge"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00663",
+    "name": "Home Cleaning SOP",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Japan Cleaning Association certified expert",
+      "task": "Write a home cleaning SOP organized room by room with the right supplies, sequence, and cadence",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Zones: walk room by room through the kitchen, bathrooms, and living areas",
+        "- Supplies: list the right cleaners, tools, and protective gear for each zone",
+        "- Sequence: clean top-down, work inside-out, and tackle dry tasks before wet ones",
+        "- Frequency: split tasks into daily, weekly, and monthly schedules",
+        "- Hotspots: give extra attention to grease, soap scum, water scale, and overlooked corners"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00664",
+    "name": "Moving Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "United Van Lines mover-standards specialist",
+      "task": "Build a moving plan with a dated timeline, packing checklist, and itemized budget",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Timeline: pin down move day, the packing window beforehand, and a buffer for surprises",
+        "- Packing: sort items by room, label every box, and flag fragile pieces for extra care",
+        "- Mode: weigh DIY versus hiring movers, with side-by-side cost comparisons",
+        "- New Home: plan unpacking order, do a deep clean, and run a walkthrough before settling in",
+        "- Budget: itemize moving costs, packing supplies, and cleaning fees"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00665",
+    "name": "Home Organization Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "KonMari-certified professional organizer",
+      "task": "Design a home organization plan that maps storage to each zone and builds reset habits to keep it tidy",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Space: measure each room, map storage needs, and plan a clear traffic flow",
+        "- Tools: pick the right bins, shelving, and label system for each zone",
+        "- Categorize: sort by category (clothes, books, paperwork, miscellaneous) before deciding what to keep",
+        "- Habits: build a regular reset routine, apply the KonMari spark-joy test, and make put-back automatic",
+        "- Budget: estimate costs for organizing supplies and call out cheaper DIY alternatives"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-02",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00666",
+    "name": "Pregnancy Care Guidance",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Johns Hopkins OB-GYN chair",
+      "task": "Walk through pregnancy care guidance trimester by trimester with screenings, nutrition, and red flags",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Prenatal Visits: lay out the trimester-by-trimester visit schedule and key screenings at each stage",
+        "- Nutrition: cover folic acid, iron, calcium, and other essential nutrients for mom and baby",
+        "- Activity and Rest: encourage moderate exercise, plenty of sleep, and sleeping on the left side",
+        "- Emotional Wellbeing: address stress management, partner involvement, and outside support",
+        "- Red Flags: spell out danger signs and exactly when to call the OB or go to the ER"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00667",
+    "name": "Infant Feeding Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Academy of Pediatrics feeding-guide author",
+      "task": "Write an infant feeding guide covering breastfeeding, formula, and starting solids with safety cautions",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Breastfeeding: walk through latching positions, feeding frequency, and tips for boosting milk supply",
+        "- Formula: cover formula selection, mixing ratios and prep, and proper bottle sterilization",
+        "- Solids: explain when to start solids, what foods to introduce first, and how to watch for allergies",
+        "- Schedule: compare on-demand, scheduled, and overnight feeding patterns",
+        "- Cautions: address spit-up, choking prevention, and keeping nutrition balanced"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00668",
+    "name": "Early Learning Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Montessori certified trainer",
+      "task": "Design an early learning plan with stage-appropriate activities, toys, and milestone tracking",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Developmental Stage: tailor activities for 0-6 months, 6-12 months, and 1-3 years",
+        "- Activities: include sensory play, gross-motor practice, and fine-motor exercises",
+        "- Toys: recommend age-appropriate toys that are safe and have real learning value",
+        "- Parent-Child Time: build in picture-book reading, music, and active play together",
+        "- Milestones: track developmental milestones, emerging skills, and the child's interests"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00669",
+    "name": "Kids' Habit Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Center on the Developing Child habit expert",
+      "task": "Build a kids' habit plan that targets specific behaviors with rewards, modeling, and a supportive environment",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Target Habits: focus on a consistent daily routine, healthy eating, and personal hygiene",
+        "- Behavior Coaching: use positive reinforcement, clear instructions, and gentle modeling",
+        "- Rewards: mix immediate praise, long-term incentives, and a token or sticker chart",
+        "- Role Modeling: parents lead by example with steady, consistent behavior",
+        "- Environment: shape the home with family rules and fewer tempting distractions"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00670",
+    "name": "Kids' Study Methods Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Khan Academy kids' study-methods designer",
+      "task": "Build a kids' study-methods plan that grows interest, teaches technique, and trains focus",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Spark Interest: stoke curiosity, celebrate small wins, and add light gamification",
+        "- Study Methods: teach previewing material, reviewing after class, and clean note-taking",
+        "- Time Management: build a study plan, train focus, and use the Pomodoro technique",
+        "- Environment: set up a dedicated study space with minimal distractions",
+        "- Outcomes: track grades, growing skills, and rising confidence"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00671",
+    "name": "Kids' Study Method Lesson",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Khan Academy study-method content author",
+      "task": "Design a kids' study-method lesson with bite-size steps, interactive practice, and built-in review",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Lesson Breakdown: split content into bite-size steps with clear progression and visuals",
+        "- Interactive Practice: weave in Q&A, gamified challenges, and hands-on tasks",
+        "- Memory Aids: teach mnemonics, spaced practice, and chunking to lock in learning",
+        "- Review Cycle: schedule reviews along the Ebbinghaus forgetting curve with spaced repetition",
+        "- Fun Factor: wrap lessons in stories, simple animations, and small rewards"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00672",
+    "name": "Kids' Psychology Guidance",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "APA child-psychology division expert",
+      "task": "Walk through kids' psychology guidance covering emotion naming, communication, limits, security, and resilience",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Emotions: help kids name feelings, express them safely, and observe their own moods",
+        "- Communication: actively listen, name the other person's feelings, and use nonviolent-communication phrasing",
+        "- Behavior: set clear limits and let natural consequences do the teaching",
+        "- Security: build trust through steady presence and unconditional acceptance",
+        "- Resilience: coach kids through failure, build grit, and nurture a growth mindset"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-03",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00673",
+    "name": "Long-Form Article Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "The Economist briefing editor",
+      "task": "Write a long-form article summary that captures thesis, main arguments, key data, and the takeaway",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Core Idea: state the article's topic, thesis, and the author's purpose in one or two sentences",
+        "- Main Points: distill each argument with its supporting logic and how the piece is structured",
+        "- Data: pull out the key statistics, findings, or research results",
+        "- Conclusion: spell out the main takeaway, recommended actions, and why the piece matters",
+        "- Pull Quotes: highlight the most memorable lines with proper attribution"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00674",
+    "name": "Video Content Recap",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google video-content-analysis designer",
+      "task": "Write a video content recap with topic, core points, timestamps, and standout lines",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Topic: identify the video's content type, central topic, and target audience",
+        "- Core Content: summarize the key points and gauge how information-dense the video is",
+        "- Memorable Lines: capture standout moments and quotable lines worth sharing",
+        "- Timeline: mark chapter timestamps and call out the highlight reel",
+        "- Logic: trace the narrative thread, the underlying framework, and any major turns"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00675",
+    "name": "Book Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Gates Notes book-review writer",
+      "task": "Write a book summary covering structure, core ideas, evidence, takeaways, and a recommendation",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Structure: map the chapter outline, narrative arc, and major modules of the book",
+        "- Core Ideas: pull out the author's main claims, framework, and what feels original",
+        "- Cases and Data: highlight standout examples, evidence, and the research methods used",
+        "- Takeaway: share personal reflections, ways to apply the ideas, and a fair critique",
+        "- Rating: give a recommendation with rationale, target audience, and a tip for reading it"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00676",
+    "name": "Class Notes",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Cornell Note-Taking System designer",
+      "task": "Build a Cornell-style class notes template with header, concepts, key points, questions, and references",
+      "type": "Self Documentation → retrospective, self-improve",
+      "framework": [
+        "- Course Header: capture the course name, instructor, and date at the top of every page",
+        "- Concepts: write out clean definitions, key frameworks, and worked formulas",
+        "- Key Points: flag exam-likely material and what the instructor emphasized",
+        "- Questions: jot down open questions, terms to look up later, and your own reflections",
+        "- References: list further reading and bibliography for follow-up study"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00677",
+    "name": "Reading Notes",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Princeton psychology of reading chair",
+      "task": "Write reading notes that capture the book's core ideas, standout quotes, personal reactions, and next actions",
+      "type": "Self Documentation → retrospective, self-improve",
+      "framework": [
+        "- Book Info: log title, author, publisher, and publication year",
+        "- Core Ideas: distill the author's main claims and the heart of their argument",
+        "- Quotes: copy standout passages verbatim with page numbers and key phrases",
+        "- Reflection: capture personal reactions, critiques, and connections to other reading",
+        "- Actions: set a practice plan and direction for putting ideas to use"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00678",
+    "name": "Mind Map Book Summary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Tony Buzan mind-map founder",
+      "task": "Build a mind-map book summary that hierarchically lays out the book's structure with color-coded branches",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Center Node: anchor the map with the book's core concept, keyword, or title",
+        "- First Tier: branch out into the major chapters and modules",
+        "- Second Tier: drill into subtopics, supporting details, and key examples",
+        "- Keywords: tag essential terms and add a quick glossary",
+        "- Color Coding: use color to signal priority, relationships, and hierarchy"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00679",
+    "name": "Zettelkasten-Style Note Organization",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Zettelkasten certified trainer",
+      "task": "Design a Zettelkasten-style note system with tags, archive structure, search, and bidirectional links",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Topic Sorting: organize notes by field, note type, and intended purpose",
+        "- Tag System: build a multi-dimensional tag scheme that supports cross-indexing",
+        "- Archive: standardize folder structure, file naming, and version history",
+        "- Search: enable keyword search, quick-find shortcuts, and fuzzy matching",
+        "- Knowledge Base: connect notes through a knowledge graph with bidirectional links and backlinks"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00680",
+    "name": "Book Notes Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Mortimer Adler ('How to Read a Book' author)",
+      "task": "Write a book notes report covering takeaways, an action plan, a rating, and related reading",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Overview: log book info, total reading time, and how you read it (skim, deep read, audiobook)",
+        "- Key Takeaways: spell out new knowledge, mindset shifts, and skills picked up",
+        "- Action Plan: pick a real scenario, lay out concrete steps, and predict the outcome",
+        "- Rating: justify your score, name the right audience, and flag any caveats",
+        "- Related Reading: recommend similar titles and good follow-up reads"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00681",
+    "name": "Memory Mnemonics",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Memory Championship winner",
+      "task": "Craft memory mnemonics for the source material with vivid imagery, decoding hints, and self-test prompts",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Source Material: name the content to memorize and the most testable facts",
+        "- Mnemonic: craft a rhyme, homophone trick, or acronym that locks the info in",
+        "- Decoding: explain how each part of the mnemonic maps back to the underlying content",
+        "- Techniques: layer in vivid imagery, story chains, and the memory-palace (method of loci)",
+        "- Application: give worked examples, drills, and self-test prompts"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00682",
+    "name": "Memory Quiz Questions",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "World Memory Championship quiz standards specialist",
+      "task": "Build a memory quiz question set with mixed formats, an answer key, scoring, and tiered difficulty",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Scope: define the topics covered, difficulty levels, and weight of each section",
+        "- Question Types: mix multiple choice, fill-in-the-blank, and short-answer formats",
+        "- Answer Key: provide the correct answers, clear explanations, and a scoring rubric",
+        "- Scoring: explain how points are calculated, mastery thresholds, and how to spot weak areas",
+        "- Difficulty Tiers: layer questions into beginner, intermediate, and challenge levels"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00683",
+    "name": "Anki Flashcard Design",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Anki spaced-repetition algorithm designer",
+      "task": "Design an Anki flashcard template covering card layout, tags, and a spaced-repetition review schedule",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Front of Card: phrase a focused question with an optional hint",
+        "- Back of Card: give the answer, supporting hints, and a touch of extra context",
+        "- Tags: tag each card by subject, difficulty, and priority",
+        "- Review Schedule: set review frequency, repetition count, and the next due date",
+        "- Spaced Repetition: lean on the Ebbinghaus curve and an SRS algorithm to time reviews"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00684",
+    "name": "Academic Abstract",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Nature journal abstract editor",
+      "task": "Write an academic abstract that hits background, methods, results, conclusion, and indexable keywords",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Background: state the significance, brief literature context, and the research question",
+        "- Methods and Results: outline the study design, key findings, and supporting data",
+        "- Conclusion: cover the theoretical contribution, practical implications, and novelty",
+        "- Keywords: choose 3-5 core terms suited for indexing and search",
+        "- Novelty: highlight the breakthrough and what sets this work apart from prior research"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00685",
+    "name": "Academic Literature Review",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Nature senior editor",
+      "task": "Write an academic literature review tracing the field's evolution, major schools, debates, and gaps",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Historical Arc: trace how the field has evolved through its major phases",
+        "- Schools of Thought: compare leading schools, key scholars, and their core theories",
+        "- Controversies: surface the active debates and where researchers disagree",
+        "- Research Gaps: name the open questions and opportunities for future work",
+        "- Methodology: assess research methods, data sources, and the analytical framework"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00686",
+    "name": "Academic Research Report",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Kennedy School research lead",
+      "task": "Write an academic research report covering question, methods, analysis, findings, and limitations",
+      "type": "Specialized Report → resource asks, depth",
+      "framework": [
+        "- Research Question: state the aim, hypothesis, and the scope of the inquiry",
+        "- Methods: describe study design, data collection, and analytical approach",
+        "- Analysis: walk through the statistical methods, results, and tests of significance",
+        "- Findings: present key discoveries with implications for policy and practice",
+        "- Limitations: acknowledge the study's limits and outline directions for future research"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-04",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00687",
+    "name": "Tourist Itinerary",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Lonely Planet itinerary planner",
+      "task": "Build a tourist itinerary with day-by-day plans, optimized sightseeing order, and lodging picks",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Daily Plan: build a day-by-day agenda with time blocks and flexible buffer time",
+        "- Sightseeing Order: sequence stops by route, must-see priority, and route optimization",
+        "- Transportation: cover public transit, rideshare or rental car, and walking directions",
+        "- Time Budget: allocate time for sightseeing, travel between stops, and meals",
+        "- Lodging: recommend hotels by location, booking platform, and value for money"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00688",
+    "name": "Transportation Recommendations",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google Maps transit-recommendation designer",
+      "task": "Compare transportation options with side-by-side time, cost, comfort, and transfer details",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Route: spell out origin, destination, transfer points, and total travel time",
+        "- Time Comparison: compare flying, rail, and driving side by side",
+        "- Cost Comparison: factor in base fare, add-ons, and overall value",
+        "- Comfort: weigh seat space, onboard service, and on-time reliability",
+        "- Transfers: explain connection details, wait times, and how easy each transfer is"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00689",
+    "name": "Hotel Recommendations",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "TripAdvisor recommendation-algorithm designer",
+      "task": "Recommend hotels at three price tiers, weighing location, amenities, reviews, and overall value",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Location: weigh downtown stays, properties near sights, and easy transit access",
+        "- Budget Range: cover budget, mid-tier, and luxury options at three price points",
+        "- Amenities: check Wi-Fi, complimentary breakfast, parking, and other key extras",
+        "- Reviews: pull star ratings, real guest comments, and the most common complaints",
+        "- Value: balance price against service quality and pick the overall best fit"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00690",
+    "name": "Attraction Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Lonely Planet attraction reviewer",
+      "task": "Write an attraction guide covering history, hours, ticket pricing, visit tips, and tourist-trap warnings",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Introduction: cover the attraction's history, top highlights, and cultural significance",
+        "- Hours: list seasonal hours, the best time to visit, and any closed days",
+        "- Tickets: lay out adult, discounted, and combo ticket pricing",
+        "- Visit Tips: suggest a walking route, the best photo spots, and ideal timing",
+        "- Pitfalls: warn about tourist traps and common consumer rip-offs"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00691",
+    "name": "Travel Pitfalls Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "TripAdvisor travel-pitfalls guide author",
+      "task": "Write a travel pitfalls guide that flags common scams, safety risks, and contingency plans",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Common Traps: warn about pushy tour-stop shopping, false advertising, and hidden fees",
+        "- Money-Saving Tips: highlight discounted tickets, free attractions, and group-tour deals",
+        "- Safety: cover anti-theft tactics, emergency contacts, and travel insurance",
+        "- Real Reviews: surface honest traveler feedback and red flags to watch for",
+        "- Contingency Plans: have a plan for lost documents, illness, and disputes with vendors"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00692",
+    "name": "Travel Phrase Cheat Sheet",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google Translate travel-phrases module designer",
+      "task": "Build a travel phrase cheat sheet with scenario-based phrases, translations, and pronunciation hints",
+      "type": "Process Execution → fast approval, quick completion",
+      "framework": [
+        "- Scenarios: organize phrases by airport, hotel, restaurant, and shopping situations",
+        "- English Source: include everyday phrases, polite expressions, and emergency callouts",
+        "- Translations: translate into the target language with phonetic spelling and pronunciation hints",
+        "- Pronunciation: show the phonetics, mark word stress, and offer a quick sample",
+        "- Manners: cover please and thank you, apologies, and hello and goodbye basics"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00693",
+    "name": "Lost ID/Passport Procedure",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US Department of State consular services standards specialist",
+      "task": "Walk through the lost-passport procedure step by step with reporting, re-application, and embassy contacts",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Report the Loss: report the loss immediately, file a police report, and keep all receipts",
+        "- Re-apply: gather backup ID, passport photos, and the required application forms",
+        "- Embassy or Consulate: list the right contact info, office hours, and how to book an appointment",
+        "- Temporary Documents: explain emergency travel papers, repatriation documents, and how long they're valid",
+        "- Timing: ballpark normal processing time, expedited service options, and total cost"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00694",
+    "name": "Overseas Medical Care Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "International SOS overseas-medical expert",
+      "task": "Write an overseas medical care guide covering workflow, language support, insurance, meds, and costs",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Care Workflow: walk through registration, the doctor visit, and picking up prescriptions",
+        "- Language Support: arrange translation services and learn key medical terms and chart vocabulary",
+        "- Insurance: bring the insurance card, understand the claims process, and find direct-pay hospitals",
+        "- Medications: handle prescription pickup, over-the-counter options, and reading drug labels abroad",
+        "- Costs: budget for consultation, prescriptions, hospital stays, and accepted payment methods"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00695",
+    "name": "Travel Insurance Claim Guide",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Allianz travel-insurance claims standards specialist",
+      "task": "Write a travel insurance claim guide covering filing, documentation, workflow, timelines, and denial pitfalls",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- File the Claim: report by phone or online and respect the filing deadline",
+        "- Documentation: gather the policy, medical certificate, and itemized receipts",
+        "- Claim Workflow: explain how the claim is reviewed, paid out, and how long it usually takes",
+        "- Service Levels: lay out standard handling time, expedite options, and how to escalate",
+        "- Denials: spell out common exclusions, missing-document issues, and late-reporting traps"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-05",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00696",
+    "name": "Teen Daily Schedule",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Graduate School of Education time-management lead",
+      "task": "Build a teen daily schedule that balances study, rest, interests, sleep, and screen time",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Study Time: block out school hours, tutoring sessions, and homework time",
+        "- Rest: build in short breaks, a midday nap if needed, and downtime to decompress",
+        "- Interests: protect time for sports, arts, and after-school clubs",
+        "- Sleep: set a firm bedtime, target healthy sleep duration, and follow a wind-down routine",
+        "- Screen Time: separate educational screen time from recreation and set parental limits"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00697",
+    "name": "Teen Weekly Schedule",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Stanford Center on Adolescence time-management expert",
+      "task": "Build a teen weekly schedule that themes each day with study, extracurriculars, family, and free time",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Monday Through Sunday: assign each day a theme, top priorities, and an overall pace",
+        "- Study Plan: schedule previewing, homework, and exam prep across the week",
+        "- Extracurriculars: slot in classes, sports practice, and community service",
+        "- Family Time: protect quality time, shared chores, and a weekly family meeting",
+        "- Free Time: leave open blocks for self-directed fun and social plans"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00698",
+    "name": "Teen Time Audit",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google time-tracking app designer",
+      "task": "Run a teen time audit that buckets hours, benchmarks healthy ratios, and flags the biggest leaks",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Categories: bucket time into study, play, social, and rest",
+        "- Ratios: show each bucket's share with a pie chart and compare against healthy benchmarks",
+        "- Wasted Time: identify procrastination patterns and the biggest distractions",
+        "- Optimization: reallocate hours to higher-value activities and train focus",
+        "- Goal vs Actual: compare planned versus actual time use and recommend fixes"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00699",
+    "name": "Teen Time-Sinks Inventory",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Cal Newport (Deep Work author)",
+      "task": "Inventory the teen's worst time-sinks with impact estimates, mitigation tactics, and better alternatives",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- Common Traps: name the worst offenders such as short-form video, gaming, and social media",
+        "- Impact: estimate the lost hours, the attention damage, and the hit to grades",
+        "- Mitigations: use focus apps, build self-discipline, and design the environment to help",
+        "- Alternatives: redirect free time toward reading, sports, and creative projects",
+        "- Reminders: lean on alarms, parental check-ins, and personal commitments to stay on track"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00700",
+    "name": "Teen Annual Goals Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "OKR coach for teens (John Doerr methodology)",
+      "task": "Build a teen annual goals plan covering academics, interests, health, growth, and social",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Academics: set targets for grades, new skills, and academic competitions",
+        "- Interests: grow a hobby, earn a certification, or build a portfolio of work",
+        "- Health: line up fitness, nutrition, and sleep goals for the year",
+        "- Personal Growth: include reading, critical-thinking practice, and emotional self-awareness",
+        "- Social: expand the friend circle, sharpen communication, and practice teamwork"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00701",
+    "name": "Teen Goal Tracking",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google OKR-for-teens designer",
+      "task": "Build a teen goal-tracking report with quarterly review, progress checks, adjustments, and celebrations",
+      "type": "Routine Report → upward visibility, show value",
+      "framework": [
+        "- Quarterly Review: report attainment rate, biggest wins, and lessons learned",
+        "- Progress Check: measure progress percentages, flag variance, and dig into the causes",
+        "- Adjustments: refine goals, tweak the strategy, and reallocate resources",
+        "- Incentives: pair progress with rewards, encouragement, and verbal affirmation",
+        "- Celebrate: mark milestones, celebrate achievements, and share the wins"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00702",
+    "name": "Teen Habit Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "James Clear ('Atomic Habits' author)",
+      "task": "Build a teen habit plan with a defined target behavior, daily check-ins, rewards, and supportive cues",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Target Habit: name the habit, define the behavior precisely, and set the frequency",
+        "- Daily Check-In: keep a daily log, track the streak, and plan how to make up missed days",
+        "- Rewards: motivate with point systems, small items, or earned privileges",
+        "- Support: line up parents, peers, and an online community for accountability",
+        "- Environment: remove temptation cues, make the right behavior easy, and set helpful triggers"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00703",
+    "name": "Mood Journal",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Martin Seligman positive-psychology center researcher",
+      "task": "Design a mood journal template that logs event, emotion type, intensity, triggers, and coping strategy",
+      "type": "Self Documentation → retrospective, self-improve",
+      "framework": [
+        "- Date and Event: capture the time, situation, and people involved",
+        "- Mood Type: name the emotion (happy, sad, mixed) and rate it on a 1-10 scale",
+        "- Intensity: note the strength, any mood swings, and how long it lasted",
+        "- Triggers: identify external events, internal thoughts, and physical sensations behind the mood",
+        "- Coping Strategy: log the regulation method tried, any help sought, and how well it worked"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00704",
+    "name": "Mood-Source Analysis",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "APA emotion-source analysis expert",
+      "task": "Run a mood-source analysis that attributes triggers, surfaces patterns, and prescribes coping strategies",
+      "type": "Analytical Decision → data-driven, support decisions",
+      "framework": [
+        "- The Event: describe the trigger, your emotional reaction, and the resulting consequences",
+        "- Attribution: sort causes into internal versus external and controllable versus not",
+        "- Patterns: spot recurring situations, common triggers, and early warning signals",
+        "- Coping Strategy: apply CBT thought-reframing, behavior change, or radical acceptance",
+        "- Prevention: avoid known risks, prepare for tough moments, and build a steadier mindset"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00705",
+    "name": "Reflection Template",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Harvard Business School case-reflection designer",
+      "task": "Design a reflection template that walks through what happened, self-assessment, and a forward action plan",
+      "type": "Self Documentation → retrospective, self-improve",
+      "framework": [
+        "- What Happened: describe the event from your own perspective and from others' point of view",
+        "- Self-Assessment: name what went well, what to improve, and the biggest gaps",
+        "- Improvement Areas: target specific actions, skills, and mindset shifts",
+        "- Action Plan: lay out next steps, a realistic timeline, and the support needed",
+        "- Lessons Learned: distill the takeaways, growth points, and add them to your personal playbook"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00706",
+    "name": "Teen Growth Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Stanford Center on Adolescence director",
+      "task": "Build a teen growth plan across cognitive, emotional, social, and physical dimensions with milestones",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Growth Dimensions: cover cognitive, emotional, social, and physical development",
+        "- Goals: set short-term targets, a long-term vision, and clear milestones",
+        "- Resources: recommend books, courses, and mentors to lean on",
+        "- Assessment: combine self-evaluation, 360-degree feedback, and tangible outputs",
+        "- Timeline: build in regular checkpoints, a year-end review, and room to fine-tune"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00707",
+    "name": "Conversation Opener",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Bumble conversation-opener designer",
+      "task": "Write conversation openers tailored to the scenario with safe topics and warm icebreakers",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Scenario: tailor openers for parties, work meetings, and dates",
+        "- Opening Lines: offer warm greetings, a soft icebreaker, and lightly humorous lead-ins",
+        "- Topic Starters: use open-ended questions, shared interests, and context-aware comments",
+        "- Icebreaker Tactics: try a sincere compliment, an empathetic observation, or a small self-disclosure",
+        "- Cautions: avoid sensitive subjects and respect personal boundaries"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00708",
+    "name": "Self Introduction",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "LinkedIn self-introduction template designer",
+      "task": "Write a polished self-introduction that lands in 30–60 seconds and tailors to the audience",
+      "type": "External Presentation → image, earn opportunities",
+      "framework": [
+        "- Basics: lead with name, current role, and field of work",
+        "- Traits: highlight signature strengths, what makes you unique, and a few tag-worthy descriptors",
+        "- Interests: share genuine passions, areas of expertise, and your overall outlook",
+        "- Values: state guiding principles, big-picture pursuits, and core beliefs",
+        "- Hook: end with a memorable point or catchphrase that sticks"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00709",
+    "name": "Icebreaker Topics",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Icebreaker game expert",
+      "task": "Suggest icebreaker topics scaled to the setting with question styles and follow-up prompts",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Scenario: tailor topics for first meetings, hangouts with friends, or group icebreakers",
+        "- Topic Categories: pull from current events, hobbies, and travel stories",
+        "- Question Style: mix open-ended questions, closed-ended follow-ups, and gentle probing",
+        "- Extending the Chat: deepen with follow-ups, share something personal, and look for resonance",
+        "- Safe Zone: steer clear of private, political, and religious topics"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00710",
+    "name": "Interview Prep Question Bank",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Google interview-committee member",
+      "task": "Build an interview prep question bank with model answers, mock practice, and likely follow-ups",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Question List: cover the self-introduction, work history, and reasons for leaving past jobs",
+        "- Answer Approach: use the STAR framework, structure each response, and back claims with data",
+        "- Mock Practice: do role-play sessions, record yourself, and time each answer",
+        "- Likely Follow-Ups: anticipate the most common probes and prep honest, specific answers",
+        "- Pitfalls: avoid negative spin, complaints about past employers, and exaggerated claims"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00711",
+    "name": "Interview Talking Points",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "McKinsey interview-coach expert",
+      "task": "Draft interview talking points that lead with strengths, quantify impact, and tie back to the role",
+      "type": "External Presentation → image, earn opportunities",
+      "framework": [
+        "- Self-Introduction: keep it crisp, lead with strengths, and tie directly to the role",
+        "- Experience: focus on outcomes, quantified metrics, and clear business impact",
+        "- Strengths and Weaknesses: be honest about weaknesses and show how you're growing",
+        "- Career Plan: cover short-term goals, long-term vision, and why this company fits",
+        "- Questions to Ask Back: probe role challenges, team culture, and growth opportunities"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00712",
+    "name": "Expression of Romantic Interest",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Hollywood romcom screenwriter",
+      "task": "Write an expression of romantic interest that's sincere, respectful of the answer, and ready for either outcome",
+      "type": "Collaborative Communication → consensus, move forward",
+      "framework": [
+        "- Feelings: speak sincerely, share specific moments that mattered, and stay open",
+        "- Honest Conversation: really listen, respect the other person's reaction, and apply zero pressure",
+        "- Respect Their Answer: gracefully accept a no, keep your composure, and give them space",
+        "- If They Say Yes: agree on what comes next — a real first date, expectations, communication cadence",
+        "- If They Say No: protect the friendship if they want one, give yourself space to heal, and avoid second-guessing or repeated asks"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00713",
+    "name": "Pet Care Recommendations",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Veterinary Medical Association (AVMA) pet-care guide author",
+      "task": "Recommend pet-care practices covering daily care, health checks, prevention, vet visits, and vaccines",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Daily Care: cover regular brushing, bathing schedule, and nail trimming",
+        "- Health Checks: monitor temperature, body weight, and overall energy level",
+        "- Prevention: stay current on vaccines, deworming, and routine wellness exams",
+        "- Vet Visits: recognize warning symptoms, choose the right clinic, and know what counts as an emergency",
+        "- Vaccine Plan: lay out the vaccine schedule, recommended products, and any cautions"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00714",
+    "name": "Pet Training Guidance",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Cesar Millan-style dog trainer",
+      "task": "Design pet training guidance covering basic commands, behavior corrections, socialization, and reinforcement",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Basic Commands: teach sit, shake, and stay with clear cues",
+        "- Behavior Corrections: address excessive barking, nipping, and potty training issues",
+        "- Socialization: gently introduce the pet to new people, animals, and environments",
+        "- Positive Reinforcement: reward good behavior, ignore minor missteps, and stay consistent",
+        "- Training Cycle: set a daily training duration and a consolidation period for each new skill"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00715",
+    "name": "Pet Diet Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Mars Petcare nutrition expert",
+      "task": "Build a pet diet plan with the right food, portion size, feeding frequency, supplements, and foods to avoid",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Food Selection: choose between dry kibble, wet food, and recommend trusted brands",
+        "- Portion Size: calculate the right amount based on the pet's weight, age, and activity level",
+        "- Feeding Frequency: adjust how often you feed for puppies and kittens, adults, and seniors",
+        "- Supplements: add vitamins, fish oil, or probiotics when appropriate",
+        "- Foods to Avoid: warn about chocolate, grapes, onions, and any human medications"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-06",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00716",
+    "name": "In-Home Caregiver Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "US National Institute on Aging caregiver-planning standards specialist",
+      "task": "Build an in-home caregiver plan covering profile, daily schedule, health monitoring, emergencies, and family updates",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Client Profile: capture basic info, current health status, and daily routines",
+        "- Daily Schedule: cover activities of daily living (bathing, dressing), meals, and engagement activities",
+        "- Health Monitoring: track blood pressure, blood sugar, medication adherence, and warning signs",
+        "- Emergency Plan: prepare for acute illness with key contacts and basic first-aid steps",
+        "- Communication: send regular family updates, keep a daily care log, and flag any concerns"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-07",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00717",
+    "name": "Senior Nutrition Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Mayo Clinic geriatric-nutrition chief",
+      "task": "Build a senior nutrition plan that meets nutrient needs and adapts texture and hydration to chewing ability",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Nutritional Needs: emphasize protein, calcium, and vitamin intake for older adults",
+        "- Food Choices: lean on easy-to-digest foods, low-salt and low-sugar options, and softer textures",
+        "- Meal Pairing: balance protein with vegetables, mix coarse and refined grains, and keep colors varied",
+        "- Chewing Support: adjust food texture, recommend assistive utensils, and serve smaller portions more often",
+        "- Hydration: hit daily fluid goals, suggest gentle drinking methods, and watch for choking or aspiration risk"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-07",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00718",
+    "name": "Cognitive Training Design",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Alzheimer's Association cognitive-training expert",
+      "task": "Design a senior cognitive training program with targeted activities, tiered difficulty, and a safe schedule",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Training Goals: target memory, attention, and logical reasoning",
+        "- Activities: include jigsaw puzzles, memory matching games, and reading aloud",
+        "- Difficulty Levels: design beginner, intermediate, and advanced versions of each exercise",
+        "- Schedule: set daily training time, weekly frequency, and per-session length",
+        "- Safety: assess cognitive status, watch emotional reactions, and adjust as needed"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-07",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00719",
+    "name": "Family Communication Script (Hospice)",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "American Hospice Association family-comms expert",
+      "task": "Write a family communication script for hospice care that handles diagnosis, options, decisions, and comfort",
+      "type": "Crisis Response → trust rebuild, damage control",
+      "framework": [
+        "- Sharing the Diagnosis: be truthful, deliver in phases, and leave room for hope",
+        "- Treatment Options: explain choices, weigh pros and cons, and support shared decision-making",
+        "- Emotional Support: soothe family members, build their confidence, and offer steady presence",
+        "- Decisions: respect the patient's wishes, decide together, and lean on the medical team's input",
+        "- Comfort: listen actively, respond with empathy, and offer practical day-to-day help"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-07",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00720",
+    "name": "Camera Settings Advice",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "National Geographic chief photographer",
+      "task": "Recommend camera settings for the scenario covering aperture, ISO, shooting mode, scene preset, and focus",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Aperture and Shutter: pick settings that nail depth of field, freeze or blur motion, and balance exposure",
+        "- ISO and White Balance: dial in ISO sensitivity, set color temperature, and choose the right white-balance mode",
+        "- Shooting Modes: explain when to use auto, aperture priority, shutter priority, and full manual",
+        "- Scene Presets: cover portrait, landscape, and night-photography modes",
+        "- Focus Modes: choose between single-shot AF, continuous AF, and manual focus"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00721",
+    "name": "Photo Editing Direction",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "photographer in the Ansel Adams darkroom tradition",
+      "task": "Direct the photo edit with color grading, retouching, style, tool picks, and final-output settings",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Color Grading: shape warm or cool tones, dial in saturation, and apply split-toning",
+        "- Retouching: smooth skin tactfully, refine shapes, and clean up blemishes",
+        "- Style Direction: choose between vintage, clean modern, or film-emulation looks",
+        "- Tools: recommend Photoshop, Lightroom, and capable mobile apps",
+        "- Output Settings: set the right resolution, file format, and compression for the final use"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00722",
+    "name": "Songwriting Inspiration",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Grammy Song of the Year writer",
+      "task": "Spark songwriting inspiration with a clear theme, melodic hook, chord progression, lyrics, and mood",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme: anchor the song in a clear emotion, backstory, or central concept",
+        "- Musical Motif: build a memorable melodic hook with a strong rhythm and room to develop",
+        "- Chord Progression: choose a progression and key, and explore tasteful chord substitutions",
+        "- Lyrics: weave in vivid imagery, fresh rhymes, and a coherent narrative",
+        "- Mood: settle on the overall vibe, whether upbeat, melancholic, or anthemic"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00723",
+    "name": "Instrument Practice Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Juilliard applied-instrument professor",
+      "task": "Build an instrument practice plan with daily structure, technique drills, repertoire, and progress checks",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Daily Practice: split each session into warm-up basics, technique work, and repertoire",
+        "- Technique Drills: work on scales, arpeggios, and fingering exercises",
+        "- Repertoire: pick pieces that move from easy to hard, span multiple styles, and isolate tough sections",
+        "- Assessment: review recordings of your playing, take teacher feedback, and run self-evaluations",
+        "- Breakthroughs: target sticking points with focused drills, fresh methods, and outside coaching"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00724",
+    "name": "Craft Tutorial",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "master craftsperson certified by the Japan Crafts Association",
+      "task": "Write a craft tutorial with materials, illustrated steps, signature tips, finished examples, and an FAQ",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Materials and Tools: list every required material, the tools needed, and easy substitutes",
+        "- Steps: walk through detailed steps with illustrations and call out the key checkpoints",
+        "- Tips: share signature techniques, safety cautions, and the most common mistakes",
+        "- Finished Showcase: include finished photos, real use cases, and creative variations",
+        "- FAQ: cover common failure modes, how to fix them, and last-minute save moves"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00725",
+    "name": "Craft Material List",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Michaels craft-supply sourcing expert",
+      "task": "Build a craft material list with brand picks, exact quantities, sourcing options, substitutes, and budget",
+      "type": "Standard Operation → compliance, standardization",
+      "framework": [
+        "- Material Names: list each material with brand recommendation and key specs",
+        "- Quantities: calculate the amount you'll use, spare buffer, and the right units",
+        "- Where to Buy: compare online sellers, local craft stores, and best-value sources",
+        "- Substitutes: suggest alternative materials with notes on look, feel, and cost",
+        "- Budget: total the project cost, break it down by item, and flag savings opportunities"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00726",
+    "name": "DIY Craft Creative Plan",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Etsy craft-design master",
+      "task": "Design a DIY craft creative plan with concept, structure, color palette, detail work, and material choices",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Concept: spell out the inspiration, design intent, and core creative idea",
+        "- Structure: design the form, ensure stability, and define how it functions",
+        "- Color: pick a primary color, build a supporting palette, and balance the overall look",
+        "- Details: refine surface texture, patterns, and decorative trim",
+        "- Materials: weigh material properties, fabrication process, and overall cost"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00727",
+    "name": "Short Story",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "O. Henry Prize winner",
+      "task": "Write a short story with shaped characters, a clear arc, evocative setting, and a resonant ending",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Characters: develop the protagonist, define each supporting character's role, and map their relationships",
+        "- Plot: lay out the setup, central conflict, and the turning point that drives the story",
+        "- Setting: build the atmosphere with sensory detail and a clear sense of time and place",
+        "- Ending: pick an open, closed, or twist ending that fits the story",
+        "- Theme: distill the deeper meaning, the values at play, and the emotional resonance"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00728",
+    "name": "Novel Outline",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Booker Prize winner",
+      "task": "Build a novel outline covering world-building, main arc, character arcs, chapter beats, and suspense",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- World-Building: define the era, the rules of the world, and the cultural backdrop",
+        "- Main Arc: outline the central conflict, how it progresses, and how subplots interweave",
+        "- Character Arcs: chart each character's transformation, inner struggle, and shifting relationships",
+        "- Chapter Outline: list the key beats per chapter and end-of-chapter cliffhangers",
+        "- Suspense: plant foreshadowing, build to the climax, and time the big reveals"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00729",
+    "name": "Modern Poem",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Pulitzer Prize for Poetry winner",
+      "task": "Write a modern poem with anchoring imagery, chosen style, deliberate rhythm, controlled emotion, and whitespace",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Imagery: anchor the poem in core motifs, symbols, and extended metaphors",
+        "- Style: choose between minimal, lyrical, or plain-spoken language",
+        "- Rhythm: shape line lengths, rhyme scheme, and the inner cadence of each stanza",
+        "- Emotion: balance restrained suggestion, direct expression, and emotional tension",
+        "- Whitespace: use the unsaid to invite imagination and keep the reading open-ended"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00730",
+    "name": "Short Film Script",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Oscar Best Live Action Short winner",
+      "task": "Write a short film script with a tight synopsis, character bios, scene breakdown, dialogue, and visual language",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Synopsis: summarize the plot, theme, and central conflict in a tight paragraph",
+        "- Character Bios: outline each character's background, traits, and motivations",
+        "- Scenes: break the script into scenes with shot descriptions and approximate runtime",
+        "- Dialogue: write distinct voices, layered subtext, and any dialect or accent notes",
+        "- Visual Language: specify framing, camera angles, and key camera movements"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  },
+  {
+    "id": "AI³-00731",
+    "name": "Song Lyrics",
+    "input_section": "Describe your requirements and context...",
+    "ai_instructions": {
+      "role": "Grammy Song of the Year winner",
+      "task": "Write song lyrics with a clear theme, verse-chorus-bridge structure, hooks, and a satisfying emotional arc",
+      "type": "Creative Expression → emotional resonance, move audience",
+      "framework": [
+        "- Theme: pin down the emotional core and the story arc behind the song",
+        "- Structure: lay out verse, chorus, and bridge sections clearly",
+        "- Rhyme: choose a rhyme scheme, work in variations, and add tasteful modulation",
+        "- Hooks: design a memorable hook line and use repetition to make it stick",
+        "- Emotional Arc: build the emotional rise, hit a clear climax, and resolve gracefully"
+      ]
+    },
+    "version": "V1.0",
+    "section_code": "03",
+    "section_name": "Lifestyle",
+    "category_code": "03-08",
+    "category_path": "03-life"
+  }
+]

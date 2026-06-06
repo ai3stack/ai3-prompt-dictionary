@@ -1,0 +1,59 @@
+name: "💡 Feature request"
+description: "Suggest a new feature or improvement to the dataset, schema, validator, or release tooling."
+title: "[Feature] <brief description>"
+labels: ["feature", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > **In scope here**: dataset additions, schema fields, validation checks, merge/release tooling, ecosystem packages built *on top of* this dataset (NPM / CLI / browser extension / VS Code).
+        >
+        > **Out of scope here**: UI / UX changes to the consumer website (www.ai3stack.com). Take those to the website repository.
+        >
+        > **Before opening**: check [ROADMAP.md](../../ROADMAP.md) — if your idea is already on the roadmap, 👍 that entry instead of opening a duplicate.
+
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Who benefits?
+      options:
+        - Contributors editing prompts (better authoring experience)
+        - Downstream integrators consuming the JSON (better contract / typings / packaging)
+        - Maintainers (better tooling / CI / release process)
+        - Multiple of the above
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Start from a concrete frustration. Avoid starting from the solution.
+      placeholder: "When I want to consume the dataset in a TypeScript app, I have to handwrite the type definitions for all 930 records every time."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      placeholder: "Publish a `.d.ts` file alongside each release, generated from the schema."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What else did you think about? Why does your proposal win?
+
+  - type: dropdown
+    id: willing
+    attributes:
+      label: Are you willing to work on this?
+      options:
+        - "Yes, I'll open the PR"
+        - "I'd love to but I'm not sure where to start — happy to pair"
+        - "No, but I'm happy to test / review"
+    validations:
+      required: true
