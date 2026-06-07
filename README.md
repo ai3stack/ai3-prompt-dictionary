@@ -31,6 +31,21 @@ If you're looking for the end-user site to copy-paste prompts into ChatGPT, visi
 | Build-on-able | fork the README | `import "@ai3stack/prompt-dictionary"` (coming) |
 | Type classification | none | 10 canonical types |
 
+## Use it instantly in your AI assistant (MCP)
+
+Don't want to wrangle JSON? The whole dictionary also ships as an **MCP server** — plug
+all 930+ prompts straight into Claude, ChatGPT, Cursor, Cline, Gemini, VS Code, and any
+MCP-capable client with one line:
+
+```bash
+npx -y @ai3stack/prompts-mcp
+```
+
+The server lives in [`mcp-server/`](mcp-server/) and is published to npm as
+[`@ai3stack/prompts-mcp`](https://www.npmjs.com/package/@ai3stack/prompts-mcp). Per-client
+setup (Claude Desktop, ChatGPT, Cursor, …) takes ~30 seconds — see
+[mcp-server/README.md](mcp-server/README.md).
+
 ## Quick start
 
 ```bash

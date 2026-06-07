@@ -33,11 +33,17 @@ account / credentials and cannot be automated by CI or an agent.
 The package is scoped (`@ai3stack/...`) and public; `publishConfig.access` is already set
 to `public` so the scope won't default to private.
 
-- [ ] **[HUMAN]** `npm login` with the npm account that owns (or is a member of) the
-      `@ai3` org/scope. Publishing a scoped public package requires that the account
-      has publish rights on the `@ai3` scope.
-- [ ] **[HUMAN]** If the npm account has 2FA enabled (recommended), have the
-      authenticator / OTP ready — npm will prompt for it on publish.
+- [ ] **[HUMAN]** Authenticate as the npm account that owns the `@ai3stack` scope.
+      The `@ai3stack` scope belongs to the `ai3stack` user automatically — it is a
+      username scope, so no npm organization is required.
+- [ ] **[HUMAN]** **2FA + non-interactive publish.** The account has 2FA enabled, so a
+      plain `npm login` prompts for an OTP and even a regular *Publish* token is rejected
+      with `EOTP`. To publish from a server / CI, generate an **Automation** token
+      (npmjs.com → Access Tokens → Generate New Token → Classic → **Automation**), write
+      it to a repo-external `~/.npmrc`
+      (`//registry.npmjs.org/:_authToken=...`, `chmod 600`), publish, then delete it.
+      Automation tokens bypass the 2FA OTP. (At an interactive terminal,
+      `npm publish --otp=<code>` with a fresh authenticator code also works.)
 - [ ] Dry run first:
 
   ```bash
@@ -55,6 +61,12 @@ to `public` so the scope won't default to private.
 
 - [ ] Verify: `npm view @ai3stack/prompts-mcp version` returns the new version, and
       `npx -y @ai3stack/prompts-mcp` cold-starts cleanly.
+
+  > **First publish of a brand-new scope:** `npm view` / the npm web page may keep
+  > returning 404 for several minutes after a successful publish — that is read-replica
+  > propagation lag, not a failed upload. The definitive proof the upload succeeded is
+  > that re-running `npm publish` fails with
+  > `403 cannot publish over the previously published versions: <version>`.
 - [ ] Tag the release in the project's version control.
 
 **Do not run `npm publish` as part of automated/agent work — it is a [HUMAN] gate.**
@@ -70,7 +82,7 @@ and for anything behind a review queue.
 ### Official MCP Registry (`registry.modelcontextprotocol.io`)
 - [ ] **[HUMAN]** Authenticate with the registry publisher tooling (the official MCP
       `mcp-publisher` CLI / GitHub-based auth).
-- [ ] Provide a `server.json` describing the server (name `io.ai3/prompts-mcp` style
+- [ ] Provide a `server.json` describing the server (name `io.ai3stack/prompts-mcp` style
       namespace, the `npx -y @ai3stack/prompts-mcp` stdio runtime, description, homepage
       `https://ai3stack.com`).
 - [ ] Publish; confirm the entry resolves in the registry.
@@ -117,8 +129,8 @@ and for anything behind a review queue.
 | Step | Needs human? | Why |
 |---|---|---|
 | build / test / lint / audit / `npm pack --dry-run` | No | Fully automatable |
-| `npm login` | **Yes** | Credentials for the `@ai3` scope |
-| 2FA OTP on publish | **Yes** | Authenticator code |
+| npm auth (Automation token) | **Yes** | Credentials for the `@ai3stack` scope |
+| 2FA on publish | **Yes** | Automation token bypasses OTP; interactive needs authenticator code |
 | `npm publish --access public` | **Yes** | Irreversible release; must be deliberate |
 | Official MCP registry auth + publish | **Yes** | Account / publisher auth |
 | Smithery / Glama / mcp.so listings | **Yes** | Platform accounts |

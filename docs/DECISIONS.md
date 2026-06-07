@@ -27,7 +27,7 @@ IDs are sequential (`D-0001`, `D-0002`…). Dates use China Standard Time.
 
 **Context.** Until 2026-04-23, the dictionary content and the consumer SPA lived in the same repository. Mixing the two had two costs: (a) PRs that touched only data still ran the full website CI; (b) external contributors looking at the repo had to wade past website code before reaching the data.
 
-**Decision.** Split into two repositories. **AI-Prompt-Dictionary** (this one, public, MIT) holds only `content/`, validation scripts, and governance. The consumer website lives in a separate, currently private repository and consumes `content/` as its upstream.
+**Decision.** Split into two repositories. **ai-prompt-dictionary** (this one, public, MIT) holds `content/`, validation scripts, and governance. The consumer website lives in a separate, currently private repository and consumes `content/` as its upstream.
 
 **Rationale.**
 1. 90% of valuable PRs are content changes; the dictionary repo should be optimized for that path.
@@ -35,6 +35,8 @@ IDs are sequential (`D-0001`, `D-0002`…). Dates use China Standard Time.
 3. Easier to add additional consumers later (NPM package, CLI, browser extension) without entangling them with a specific website's needs.
 
 **Consequences.** This repo's `ROADMAP.md` only covers data / tool features. Consumer-site UX roadmap moved out. CI's `deploy.yml` will publish a release artifact rather than rsync to a server.
+
+**Amendment (2026-06-07).** The dictionary↔website split still holds (the consumer website remains a separate, private repository). However, the **MCP server tool now lives in *this* repo** under [`mcp-server/`](../mcp-server/) rather than in its own repository — it is a thin consumer of `content/`, so colocating it keeps the prompt data and its reference tool versioned together. It is published to npm as `@ai3stack/prompts-mcp`. Other consumers (NPM data package, CLI, browser extension) may still live elsewhere.
 
 **Status.** Active.
 **Decided by.** BDFL.
