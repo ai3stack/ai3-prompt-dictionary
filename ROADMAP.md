@@ -2,7 +2,7 @@
 
 This is a living document for **the open-source dictionary itself** — the data, the schema, the tooling, and the ecosystem around it. Dates are guidance, not commitments. PRs that pull the future closer are always welcome.
 
-Note: the consumer website (`www.ai3stack.com`) has its own separate roadmap and does not share this file. This repo is for developers, researchers, and tool builders.
+Note: the consumer website (`dict.ai3stack.com`) has its own separate roadmap and does not share this file. This repo is for developers, researchers, and tool builders.
 
 ---
 
@@ -36,23 +36,17 @@ Note: the consumer website (`www.ai3stack.com`) has its own separate roadmap and
 
 ---
 
-## v2.0 — The Ecosystem (target: 2027-Q1 → Q2)
+## v2.0 — The Data Ecosystem (target: 2027-Q1 → Q2)
 
-**Theme**: AI³ becomes a dataset and a toolkit, not just a single consumer website.
+**Theme**: AI3 becomes a dataset and lightweight data-consumption toolkit, not an assistant runtime, browser extension, or plugin suite.
 
 Each sub-project below is an invitation for contributors to own something visible. First credible PR takes the lead.
-
-### 🔌 Browser Extension (Chrome + Firefox)
-One-click "paste a prompt from AI³" button inside chat.openai.com, claude.ai, gemini.google.com, etc. Built on the public JSON data; no server needed. **Owner: TBD.** Estimated scope: 2 weekends for a solid v0.
 
 ### 📦 NPM Package — `@ai3stack/prompt-dictionary`
 Ships the full JSON plus TypeScript typings for apps that want to embed the dictionary. **Owner: TBD.** Estimated scope: 1 weekend.
 
 ### 🖥️ CLI Tool — `npx ai3 <slug>`
 Print a prompt to stdout, optionally pipe into an LLM API. Example: `npx ai3 weekly-report --en | claude`. **Owner: TBD.**
-
-### 🧩 VS Code Extension
-Type `/ai3 ` in any file → fuzzy-finds prompts → inserts as a comment block. Useful for Cursor / Copilot Chat users. **Owner: TBD.**
 
 ### 📜 HTTP API (on demand)
 Currently the JSON files are static fetches, so there is effectively already an API. If demand warrants, we add a tiny edge function for filtered / paginated responses.
@@ -82,6 +76,8 @@ Not committed. 👍 reactions on Discussions inform priority.
 - User accounts / profiles / login (that is a *product* concern, not a *dictionary* concern)
 - AI-generated prompts that haven't been human-reviewed
 - Tracking of developers (the repo has no analytics; only the consumer website does)
+- MCP / assistant connector revival
+- Browser extensions, Chrome Web Store packages, VS Code extensions, or plugin packaging
 
 ---
 
@@ -97,4 +93,4 @@ If there's interest and an owner, it moves onto the roadmap. If no owner, it lan
 
 ---
 
-*Last updated: 2026-04-23*
+*Last updated: 2026-06-15*

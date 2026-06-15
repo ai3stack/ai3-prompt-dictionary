@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/ai3stack/ai-prompt-dictionary/discussions
     about: Open-ended questions, ideas, "should we…" conversations.
   - name: 🌐 Use the website (consumer site)
-    url: https://www.ai3stack.com
+    url: https://dict.ai3stack.com
     about: If you just want to use prompts, go to the site — no need to open an issue.

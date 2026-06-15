@@ -1,9 +1,9 @@
 # AI³ Prompt Dictionary
 
-A **MIT-licensed, structured** dataset of 930+ English AI prompts. Fork it. Build on it. Ship something.
+A **MIT-licensed, structured** dataset of currently 930 English AI prompts. Fork it. Build on it. Ship something.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Prompts: 930+](https://img.shields.io/badge/prompts-930%2B-brightgreen)]()
+[![Prompts: 930](https://img.shields.io/badge/prompts-930-brightgreen)]()
 [![Language: en-US](https://img.shields.io/badge/language-en--US-orange)]()
 [![Validate](https://github.com/ai3stack/ai-prompt-dictionary/actions/workflows/validate.yml/badge.svg)](https://github.com/ai3stack/ai-prompt-dictionary/actions/workflows/validate.yml)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4)](CONTRIBUTING.md)
@@ -13,14 +13,14 @@ A **MIT-licensed, structured** dataset of 930+ English AI prompts. Fork it. Buil
 A curated, machine-readable catalog of prompts covering office work, industry tasks, daily life, and public affairs. Each prompt is:
 
 - **Structured** — not free-text; every entry has a `role`, `task`, `framework`, `type`, `name`, plus AI-instruction fields (`limits`, `search`, `format`, `check`, …). See [docs/PROMPT_SCHEMA.md](docs/PROMPT_SCHEMA.md).
-- **English** — all 930+ prompts live under `content/en-US/`.
+- **English** — the current Prompt 930 launch set lives under `content/en-US/`.
 - **Classified** — 4 sections × 42 categories × 10 types, navigable by any axis.
 
 ## What this is NOT
 
-Not a website. Not a consumer product. Not a browser extension.
+This repository is not the hosted website, an MCP server, a browser extension, or a plugin product. It is the upstream dataset, validation tooling, and release package that downstream consumers build from.
 
-If you're looking for the end-user site to copy-paste prompts into ChatGPT, visit [www.ai3stack.com](https://www.ai3stack.com). That's a separate product built on top of this dictionary.
+If you're looking for the end-user site to copy-paste prompts into ChatGPT, visit [dict.ai3stack.com](https://dict.ai3stack.com). That's a separate product built on top of this dictionary.
 
 ## Why this over Awesome-ChatGPT-Prompts?
 
@@ -31,20 +31,12 @@ If you're looking for the end-user site to copy-paste prompts into ChatGPT, visi
 | Build-on-able | fork the README | `import "@ai3stack/prompt-dictionary"` (coming) |
 | Type classification | none | 10 canonical types |
 
-## Use it instantly in your AI assistant (MCP)
+## Canceled surfaces
 
-Don't want to wrangle JSON? The whole dictionary also ships as an **MCP server** — plug
-all 930+ prompts straight into Claude, ChatGPT, Cursor, Cline, Gemini, VS Code, and any
-MCP-capable client with one line:
-
-```bash
-npx -y @ai3stack/prompts-mcp
-```
-
-The server lives in [`mcp-server/`](mcp-server/) and is published to npm as
-[`@ai3stack/prompts-mcp`](https://www.npmjs.com/package/@ai3stack/prompts-mcp). Per-client
-setup (Claude Desktop, ChatGPT, Cursor, …) takes ~30 seconds — see
-[mcp-server/README.md](mcp-server/README.md).
+AI3 no longer treats the old assistant-connector / MCP package, browser extension,
+Chrome Web Store flow, VS Code extension, or plugin packaging as current product
+surfaces. The active scope of this repository is the structured prompt dataset,
+validation scripts, GitHub release artifacts, and the hosted website consumer.
 
 ## Quick start
 
@@ -82,7 +74,7 @@ Start here: [CONTRIBUTING.md](CONTRIBUTING.md). The most valuable PRs:
 
 1. **New prompts** — fill gaps in under-populated categories.
 2. **Quality fixes** — sharpen unclear `role`/`task`/`framework` fields.
-3. **Tool-building** — a `v2.0` [ROADMAP.md](ROADMAP.md) entry waiting for an owner (NPM, CLI, browser extension, VS Code …).
+3. **Tool-building** — a `v2.0` [ROADMAP.md](ROADMAP.md) entry waiting for an owner for data-consumption tooling such as NPM or CLI.
 
 First-time contributors: look for [`good-first-issue`](https://github.com/ai3stack/ai-prompt-dictionary/labels/good-first-issue).
 
@@ -96,4 +88,4 @@ Benevolent dictator model currently ([GOVERNANCE.md](GOVERNANCE.md)). Graduates 
 
 ---
 
-*For the consumer website, see [www.ai3stack.com](https://www.ai3stack.com). For the project timeline, see [ROADMAP.md](ROADMAP.md). For everything else, open a [Discussion](https://github.com/ai3stack/ai-prompt-dictionary/discussions).*
+*For the consumer website, see [dict.ai3stack.com](https://dict.ai3stack.com). For the project timeline, see [ROADMAP.md](ROADMAP.md). For everything else, open a [Discussion](https://github.com/ai3stack/ai-prompt-dictionary/discussions).*

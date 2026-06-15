@@ -6,7 +6,7 @@
 
 This repo is **a versioned, structured, English JSON dataset** with thin Python tooling to validate, merge, and release it. That's it.
 
-It is **not** a website, an SPA, a static-site generator, or a deployment system. Those concerns live in a separate consumer-website repository. The split is intentional and recorded in [DECISIONS.md D-0001](DECISIONS.md). Downstream consumers (the consumer site, NPM packages, browser extensions) treat this repo as their **upstream source of truth** — they pull from a release tag, they don't build from `main`.
+It is **not** a website, an SPA, a static-site generator, an MCP server, a browser extension, a plugin, or a deployment system. Those concerns live outside this repository, and the extension/plugin surfaces are canceled for the current product by [DECISIONS.md D-0007](DECISIONS.md). Downstream consumers treat this repo as their **upstream source of truth** — they pull from a release tag, they don't build from `main`.
 
 ```
                   Contributor PR  →  CI validates  →  BDFL merges
@@ -20,7 +20,7 @@ It is **not** a website, an SPA, a static-site generator, or a deployment system
                               ┌───────────────────────────┼─────────────────────────┐
                               ▼                           ▼                         ▼
                   GitHub Release tarball    Consumer website repo       Third-party tools
-                  (deploy.yml on tag)       (pulls release on demand)   (NPM, CLI, ext.)
+                  (deploy.yml on tag)       (pulls release on demand)   (NPM, CLI, apps)
 ```
 
 ## Directory layout
@@ -155,7 +155,7 @@ Downstream consumers pull from the release, on their own schedule
 
 The decision rationale — separating "data validity" (automatic, CI-enforced) from "shipping decision" (manual, maintainer judgment) — is recorded as [DECISIONS.md D-0005](DECISIONS.md).
 
-**This repo does not know, and does not care, what consumers do with a release.** The consumer-website repo deploys to its own servers on its own schedule. NPM packages publish on theirs. Browser extensions ship on theirs. They are all just downstream consumers.
+**This repo does not know, and does not care, what consumers do with a release.** The consumer-website repo deploys to its own servers on its own schedule. Data packages, CLI tools, and third-party apps publish on theirs. Extension/plugin surfaces are not active product surfaces.
 
 ## Schema discipline
 
@@ -206,3 +206,4 @@ No code changes are needed in this repo until step 5.
 - **A database** — the data *is* the database, version-controlled in git.
 - **Server-rendered components** — out of scope for a dataset.
 - **A CI pipeline that auto-deploys to production** — by design. See "cross-repo gate" above.
+- **MCP, browser extension, Chrome Web Store, VS Code extension, or plugin code** — canceled by D-0007.

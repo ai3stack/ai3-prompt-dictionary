@@ -32,11 +32,11 @@ IDs are sequential (`D-0001`, `D-0002`…). Dates use China Standard Time.
 **Rationale.**
 1. 90% of valuable PRs are content changes; the dictionary repo should be optimized for that path.
 2. Clear license boundary: the data is MIT; the website's UI/branding is not the same kind of asset.
-3. Easier to add additional consumers later (NPM package, CLI, browser extension) without entangling them with a specific website's needs.
+3. Easier to add additional consumers later (NPM package, CLI, third-party apps) without entangling them with a specific website's needs.
 
 **Consequences.** This repo's `ROADMAP.md` only covers data / tool features. Consumer-site UX roadmap moved out. CI's `deploy.yml` will publish a release artifact rather than rsync to a server.
 
-**Amendment (2026-06-07).** The dictionary↔website split still holds (the consumer website remains a separate, private repository). However, the **MCP server tool now lives in *this* repo** under [`mcp-server/`](../mcp-server/) rather than in its own repository — it is a thin consumer of `content/`, so colocating it keeps the prompt data and its reference tool versioned together. It is published to npm as `@ai3stack/prompts-mcp`. Other consumers (NPM data package, CLI, browser extension) may still live elsewhere.
+**Supersession note (2026-06-15).** A 2026-06-07 amendment briefly treated an assistant-connector / MCP package as colocated with this repository. That amendment is superseded by D-0006: MCP / `prompts-mcp` is not part of the current Prompt 930 release surface.
 
 **Status.** Active.
 **Decided by.** BDFL.
@@ -122,6 +122,40 @@ The maintainer thus has two distinct moments of agency: (a) reviewing & merging 
 - `deploy.yml` triggers on tag push only — never on `main` commit.
 - The website repo carries its own deploy workflow that pulls *from* this repo's releases. We do not add server SSH keys to this repo's secrets.
 - Release tags are the public version timeline; `main` history is the engineering timeline. They diverge and that's fine.
+
+**Status.** Active.
+**Decided by.** BDFL.
+
+---
+
+### 2026-06-15 · D-0006 · Prompt 930 release surface excludes MCP / prompts-mcp
+
+**Context.** Prompt 930 is being prepared as AI3's first formal product project. The product scope at the time included the 930-prompt dataset, the hosted dictionary website, the browser extension, image/operations assets, and open-source distribution from this repository. A prior 2026-06-07 assistant-connector / MCP narrative was cut from the current product plan.
+
+**Decision.** Do not ship, document, or promote MCP / `prompts-mcp` as part of the current Prompt 930 release surface. This repository's active release artifacts remain the validated JSON dataset bundle, release checksums, governance docs, and contributor tooling. Any future connector must come through a separate product decision and implementation plan.
+
+**Rationale.**
+1. The current launch needs one stable open-source data contract before adding assistant runtime surfaces.
+2. MCP would add packaging, client setup, support, and security obligations that are outside the approved Prompt 930 baseline.
+3. The hosted website and GitHub release artifacts already cover the current end-user, integrator, and DevRel paths.
+
+**Consequences.** README, deployment docs, release notes, and public launch copy must not instruct users to install `prompts-mcp` or present MCP as active. Historical changelog entries may remain as history only when clearly superseded.
+
+**Status.** Active.
+**Decided by.** BDFL.
+
+### 2026-06-15 · D-0007 · Prompt 930 cancels MCP, extensions, and plugin surfaces
+
+**Context.** After the website went production-live, the product owner decided not to pursue MCP, browser extensions, Chrome Web Store distribution, VS Code extensions, or plugin packaging for Prompt 930. The active product should be the hosted website plus the structured open-source dataset/release artifacts.
+
+**Decision.** Remove active code, release claims, roadmap items, and operations paths for MCP / `prompts-mcp`, browser extensions, Chrome Web Store, VS Code extensions, and plugin packaging. Do not present these as backlog, store-review candidates, or future launch channels for the current product.
+
+**Rationale.**
+1. The website and dataset release are enough for the current product surface.
+2. Runtime connectors and extensions create support, security, and store-review obligations that are not worth carrying.
+3. A narrower launch path keeps Prompt 930 focused on data quality, website use, and GitHub release distribution.
+
+**Consequences.** The active implementation tree removes `browser-extension/`. Public release copy and launch operations must not mention extension install paths, Chrome Web Store upload, VS Code extension plans, plugins, MCP, or `prompts-mcp`. Historical evidence may still mention prior prepared-but-canceled work as history only.
 
 **Status.** Active.
 **Decided by.** BDFL.

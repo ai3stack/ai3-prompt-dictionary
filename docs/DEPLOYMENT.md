@@ -1,6 +1,6 @@
 # Releases & consumption
 
-This repository is a **dataset**, not a website. There is nothing to deploy to a server *from this repo*. Instead, releases are published as versioned GitHub artifacts; downstream consumers (websites, NPM packages, CLI tools, third-party apps) pull from those artifacts.
+This repository is a **dataset**, not a website. There is nothing to deploy to a server *from this repo*. Instead, releases are published as versioned GitHub artifacts; downstream consumers such as the Prompt 930 website at `dict.ai3stack.com`, data packages, CLI tools, and third-party apps pull from those artifacts.
 
 > Looking for the consumer website's deployment? That's a separate repository — see its own `docs/DEPLOYMENT.md`. The repository split rationale is recorded in [docs/DECISIONS.md D-0001](DECISIONS.md).
 
@@ -28,6 +28,8 @@ git push origin v1.0.0
 Pre-releases (`v1.0.0-rc1`, `v1.0.0-beta`) are auto-flagged as pre-release on GitHub.
 
 For a dry run without creating a release, trigger the workflow via the **Run workflow** button on the Actions tab — choose any tag string, no GitHub Release will be created.
+
+Prompt 930 production note: a workflow dry run is allowed as release packaging verification. A real tag push creates a public GitHub Release and is therefore a final execution step that must be confirmed with the launch package.
 
 ---
 
@@ -106,12 +108,13 @@ Before pushing a tag:
 - [ ] `python3 scripts/merge_content.py` produces sane output (spot-check `locales/en-US/prompts_index.json` — at least one entry per section)
 - [ ] If the schema changed: `docs/PROMPT_SCHEMA.md` updated, RFC linked in CHANGELOG, version bumped major
 - [ ] No new dependencies added without justification
+- [ ] Current launch surface checked: no README / release note / support path tells users to install MCP, `prompts-mcp`, browser extensions, Chrome Web Store packages, VS Code extensions, or plugins
 
 After the release workflow finishes:
 
 - [ ] Release page renders correctly (3 artifacts + notes)
 - [ ] Download a random artifact, verify against SHA256SUMS
-- [ ] Announce on Discussions (additional channels will be added once they exist)
+- [ ] Announce on Discussions and hand off to the approved operations launch package; do not dispatch external channels from this repository
 
 ---
 
@@ -131,4 +134,6 @@ If a release leaks a secret or contains malicious content, follow [SECURITY.md](
 
 - **Server deployment from this repo** — see [docs/DECISIONS.md D-0001](DECISIONS.md). The consumer website handles its own deployment.
 - **NPM / PyPI publishing** — planned for v1.x but waits on an external owner. See [ROADMAP.md](../ROADMAP.md).
+- **MCP / assistant connector publishing** — canceled for the current product by [docs/DECISIONS.md D-0007](DECISIONS.md).
+- **Browser extensions / Chrome Web Store / VS Code extensions / plugin packaging** — canceled for the current product by [docs/DECISIONS.md D-0007](DECISIONS.md).
 - **Semantic-Versioning bot / automated release notes** — overkill at current cadence; manual notes are higher-quality.

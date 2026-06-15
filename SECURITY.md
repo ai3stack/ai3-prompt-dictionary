@@ -16,7 +16,7 @@ This is a **content repository** — the bulk of what's here is JSON data, not e
 
 ### Out of scope
 
-- **The end-user website** ([www.ai3stack.com](https://www.ai3stack.com)) — that's a separate repository with its own security policy.
+- **The end-user website** ([dict.ai3stack.com](https://dict.ai3stack.com)) — that's a separate repository with its own security policy.
 - **End-user LLM behavior** — what ChatGPT / Claude / Gemini does with one of our prompts is the LLM provider's responsibility.
 - **The quality of a prompt's wording** — that's a content issue, file an Issue with the `wording fix` template.
 

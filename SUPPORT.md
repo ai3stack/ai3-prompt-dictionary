@@ -6,7 +6,7 @@ Different questions go to different places. Picking the right one will get you a
 
 ## I want to *use* prompts (copy-paste into ChatGPT)
 
-You're in the wrong repo. Go to [www.ai3stack.com](https://www.ai3stack.com).
+You're in the wrong repo. Go to [dict.ai3stack.com](https://dict.ai3stack.com).
 
 That site is designed for end users — search, copy, paste, done. This repo is for people who want to *build on* the data.
 

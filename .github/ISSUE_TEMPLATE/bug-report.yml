@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        > **Found a bug on the consumer website (www.ai3stack.com)?**
+        > **Found a bug on the consumer website (dict.ai3stack.com)?**
         > Report it in the **website repository's** issue tracker, not here.
         > This repo only ships the dataset and tooling — no UI is rendered from here.
 
@@ -20,7 +20,7 @@ body:
         - Running scripts/merge_content.py locally
         - Running scripts/export_dictionary.py locally
         - In a GitHub Actions workflow (validate / build-preview / deploy)
-        - In a downstream consumer (NPM package / browser extension / etc.) — but only if you've ruled out their own bug
+        - In a downstream consumer — but only if you've ruled out its own bug
     validations:
       required: true
 
@@ -75,5 +75,5 @@ body:
           required: true
         - label: I can reproduce this consistently (not a one-off).
           required: true
-        - label: This is a data / tooling bug — not a UI bug on www.ai3stack.com.
+        - label: This is a data / tooling bug — not a UI bug on dict.ai3stack.com.
           required: true

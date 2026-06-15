@@ -11,7 +11,7 @@ Thanks for your interest! This project is a curated English (en-US) dictionary o
 - Developers who want to fix bugs or add features to the build pipeline
 - Designers who want to improve the OG covers or icon set
 
-**Not** for end users who just want to *use* prompts — they should visit [www.ai3stack.com](https://www.ai3stack.com) and never have to read this file.
+**Not** for end users who just want to *use* prompts — they should visit [dict.ai3stack.com](https://dict.ai3stack.com) and never have to read this file.
 
 ---
 
@@ -101,7 +101,7 @@ The maintainer will typically merge within 7 days. If the phrasing is debatable,
 2. If you want to fix it, comment on the Issue before starting.
 3. PR should include: the fix + one-line explanation of root cause.
 
-> Found a bug on the consumer website (the actual `www.ai3stack.com` UI)? Report it in the **website repository's** issue tracker, not here. This repo doesn't ship UI.
+> Found a bug on the consumer website (the actual `dict.ai3stack.com` UI)? Report it in the **website repository's** issue tracker, not here. This repo doesn't ship UI.
 
 ---
 

@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        > **In scope here**: dataset additions, schema fields, validation checks, merge/release tooling, ecosystem packages built *on top of* this dataset (NPM / CLI / browser extension / VS Code).
+        > **In scope here**: dataset additions, schema fields, validation checks, merge/release tooling, exports, and typed consumers built on top of this dataset.
         >
-        > **Out of scope here**: UI / UX changes to the consumer website (www.ai3stack.com). Take those to the website repository.
+        > **Out of scope here**: UI / UX changes to the consumer website (dict.ai3stack.com). Take those to the website repository.
         >
         > **Before opening**: check [ROADMAP.md](../../ROADMAP.md) — if your idea is already on the roadmap, 👍 that entry instead of opening a duplicate.
 

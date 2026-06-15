@@ -95,6 +95,12 @@ jobs:
             echo "### Schema"
             echo "See [docs/PROMPT_SCHEMA.md](https://github.com/${{ github.repository }}/blob/${TAG}/docs/PROMPT_SCHEMA.md)."
             echo
+            echo "### Hosted dictionary"
+            echo "Use the website at https://dict.ai3stack.com/ or consume the JSON artifacts directly from this release."
+            echo
+            echo "### Current release boundary"
+            echo "This release does not include MCP / prompts-mcp, browser extensions, Chrome Web Store, VS Code extensions, plugin packaging, npm, PyPI, or website server deployment artifacts."
+            echo
             echo "### Changes"
             echo "See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/${TAG}/CHANGELOG.md)."
           } > release_notes.md

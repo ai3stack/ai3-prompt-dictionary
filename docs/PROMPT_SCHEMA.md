@@ -114,7 +114,7 @@ Downstream consumers apply these layers in order: `defaultInstructions` < per-pr
 
 ## Changing the schema
 
-**Don't** — at least not without an RFC. Schema changes touch every record (>930) and break every downstream consumer (the consumer website, NPM packages, browser extensions, anyone who pinned to a previous release). See [GOVERNANCE.md](../GOVERNANCE.md) for the RFC process and [DECISIONS.md](DECISIONS.md) for prior schema choices.
+**Don't** — at least not without an RFC. Schema changes touch every record (>930) and break every downstream consumer (the consumer website, data packages, CLI tools, apps, anyone who pinned to a previous release). See [GOVERNANCE.md](../GOVERNANCE.md) for the RFC process and [DECISIONS.md](DECISIONS.md) for prior schema choices.
 
 Acceptable reasons to change the schema:
 - A field has been empty for all records (pure tech debt — remove it, like `example` was removed in v5.9)
